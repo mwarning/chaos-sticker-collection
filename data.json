@@ -1,2 +1,494 @@
 {
+  "Amazon_Nein_Danke print": {
+    "author": "maryshiro",
+    "exts": [
+      "pdf",
+      "svg"
+    ],
+    "language": "german",
+    "link": "https://maryshi.ro",
+    "tags": "amazon",
+    "title": "AMAZON? NEIN DANKE"
+  },
+  "Apple_Nein_Danke print": {
+    "author": "maryshiro",
+    "exts": [
+      "svg",
+      "pdf"
+    ],
+    "language": "german",
+    "link": "https://maryshi.ro",
+    "tags": "apple",
+    "title": "APPLE? NEIN DANKE"
+  },
+  "C3STOC_sticker": {
+    "author": "maryshiro",
+    "exts": [
+      "pdf",
+      "svg"
+    ],
+    "language": "english",
+    "link": "https://maryshi.ro",
+    "tags": "c3 sticker",
+    "title": "C3STOC"
+  },
+  "Chaosknoten": {
+    "author": "Chaos Computer Club e.V.",
+    "exts": [
+      "svg"
+    ]
+  },
+  "Cyberwehr": {
+    "author": "irimi",
+    "exts": [
+      "jpg",
+      "text.svg",
+      "path.svg"
+    ],
+    "language": "german",
+    "license": "Unlicense",
+    "link": "https://github.com/irimi1/cyberwehr-aufkleber"
+  },
+  "Facebook_Nein_Danke print": {
+    "author": "maryshiro",
+    "exts": [
+      "pdf",
+      "svg"
+    ],
+    "language": "german",
+    "link": "https://maryshi.ro",
+    "tags": "facebook",
+    "title": "FACEBOOK? NEIN DANKE"
+  },
+  "Google_Nein_Danke print": {
+    "author": "maryshiro",
+    "exts": [
+      "pdf",
+      "svg"
+    ],
+    "language": "german",
+    "link": "https://maryshi.ro",
+    "tags": "google",
+    "title": "GOOGLE? NEIN DANKE"
+  },
+  "Headphones": {
+    "author": "maryshiro",
+    "exts": [
+      "pdf",
+      "svg"
+    ],
+    "language": "english",
+    "link": "https://maryshi.ro",
+    "tags": "headphones",
+    "title": "DON'T TALK TO ME"
+  },
+  "Hypnofrog": {
+    "author": "Lachmoewe",
+    "exts": [
+      "png"
+    ],
+    "link": "https://wiki.c3d2.de/Sticker"
+  },
+  "I_love_encase_0day": {
+    "author": "maryshiro",
+    "exts": [
+      "pdf",
+      "png"
+    ],
+    "language": "english",
+    "link": "https://maryshi.ro",
+    "tags": "0day",
+    "title": "I Love EnCase 0day"
+  },
+  "Microsoft_Nein_Danke print": {
+    "author": "maryshiro",
+    "exts": [
+      "svg",
+      "pdf"
+    ],
+    "language": "german",
+    "link": "https://maryshi.ro",
+    "tags": "microsoft",
+    "title": "MICROSOFT? NEIN DANKE"
+  },
+  "Pesth\u00f6rnchen": {
+    "author": "Reinhard Schrutzki",
+    "exts": [
+      "jpg"
+    ]
+  },
+  "Shrug": {
+    "author": "maryshiro",
+    "exts": [
+      "svg",
+      "pdf",
+      "png"
+    ],
+    "link": "https://maryshi.ro",
+    "title": "Shrug"
+  },
+  "all_computers_are_broken_nofont": {
+    "author": "irimi",
+    "exts": [
+      "svg"
+    ],
+    "language": "english",
+    "license": "CC0-1.0",
+    "link": "https://github.com/irimi1/cyberwehr-aufkleber",
+    "title": "all computers are broken"
+  },
+  "broken_C": {
+    "author": "markush",
+    "exts": [
+      "png",
+      "pdf"
+    ],
+    "language": "english",
+    "license": "CC0-1.0",
+    "link": "https://github.com/SFTtech/sticker",
+    "tags": "caution",
+    "title": "If you break it, it's broken..."
+  },
+  "broken_Si": {
+    "author": "markush",
+    "exts": [
+      "png",
+      "pdf"
+    ],
+    "language": "english",
+    "license": "CC0-1.0",
+    "link": "https://github.com/SFTtech/sticker",
+    "tags": "caution",
+    "title": "If you break it, it's broken..."
+  },
+  "chaossocial": {
+    "author": "rixx",
+    "exts": [
+      "svg"
+    ],
+    "link": "https://github.com/rixx/sticker",
+    "tags": "mastodon"
+  },
+  "cybaer_angriff": {
+    "author": "markush",
+    "exts": [
+      "png",
+      "pdf"
+    ],
+    "language": "german",
+    "license": "CC0-1.0",
+    "link": "https://github.com/SFTtech/sticker",
+    "tags": "cyber",
+    "title": "Cyb\u00e4rangriff"
+  },
+  "cyberwehr": {
+    "author": "C3D2 Dresden",
+    "exts": [
+      "svg"
+    ],
+    "language": "german",
+    "title": "Wir. Dienen. Neuland."
+  },
+  "einmal_mit_profis": {
+    "author": "markush",
+    "exts": [
+      "pdf",
+      "png"
+    ],
+    "language": "german",
+    "license": "CC0-1.0",
+    "link": "https://github.com/SFTtech/sticker",
+    "title": "Einmal mit Profis arbeiten"
+  },
+  "es_gibt_etliche_methoden": {
+    "author": "maryshiro",
+    "exts": [
+      "png",
+      "pdf"
+    ],
+    "language": "english",
+    "link": "https://maryshi.ro",
+    "tags": "cryptoparty",
+    "title": "Etliche Methoden"
+  },
+  "fabulous-money": {
+    "author": "irimi",
+    "exts": [
+      "svg"
+    ],
+    "language": "english",
+    "license": "CC0-1.0",
+    "link": "https://github.com/irimi1/cyberwehr-aufkleber",
+    "title": "Fabulous Money"
+  },
+  "fck_nsa": {
+    "author": "maryshiro",
+    "exts": [
+      "png",
+      "pdf"
+    ],
+    "language": "english",
+    "link": "https://maryshi.ro",
+    "tags": "nsa",
+    "title": "FCK NSA"
+  },
+  "gpg_tor_otr-wtf": {
+    "author": "maryshiro",
+    "exts": [
+      "pdf",
+      "png"
+    ],
+    "language": "english",
+    "link": "https://maryshi.ro",
+    "tags": "cryptoparty",
+    "title": "GPG TOR OTR WTF"
+  },
+  "heartphones": {
+    "author": "irimi",
+    "exts": [
+      "svg"
+    ],
+    "license": "CC0-1.0",
+    "link": "https://github.com/irimi1/cyberwehr-aufkleber",
+    "tags": "headphone",
+    "title": "Heart Phones"
+  },
+  "held_together": {
+    "author": "markush",
+    "exts": [
+      "png",
+      "pdf"
+    ],
+    "language": "english",
+    "license": "CC0-1.0",
+    "link": "https://github.com/SFTtech/sticker",
+    "tags": "caution",
+    "title": "Device held together only by..."
+  },
+  "internet_warning": {
+    "author": "markush",
+    "exts": [
+      "pdf",
+      "ng2.pdf",
+      "ng.pdf",
+      "ng.png"
+    ],
+    "language": "english",
+    "license": "CC0-1.0",
+    "link": "https://github.com/SFTtech/sticker",
+    "title": "Device may contain Internet"
+  },
+  "landesverraeter": {
+    "author": "maryshiro",
+    "exts": [
+      "pdf",
+      "png"
+    ],
+    "language": "german",
+    "link": "https://maryshi.ro",
+    "tags": "cryptoparty netzpolitik",
+    "title": "Landesverr\u00e4ter"
+  },
+  "leak_more_docs": {
+    "author": "maryshiro",
+    "exts": [
+      "png",
+      "pdf"
+    ],
+    "language": "english",
+    "link": "https://maryshi.ro",
+    "tags": "leak docs",
+    "title": "LEAK MORE DOCS"
+  },
+  "legacy-ip-only": {
+    "author": "https://tnx.nl",
+    "exts": [
+      "svg"
+    ],
+    "language": "english",
+    "tags": "caution",
+    "title": "Legacy IP Only"
+  },
+  "matehero_white": {
+    "author": "Dodo",
+    "exts": [
+      "svg"
+    ],
+    "link": "https://wiki.c3d2.de/Sticker"
+  },
+  "openage": {
+    "author": "jj",
+    "exts": [
+      "pdf",
+      "png"
+    ],
+    "license": "CC0-1.0",
+    "link": "https://github.com/SFTtech/sticker",
+    "tags": "openage"
+  },
+  "resistance_sticker_print": {
+    "author": "maryshiro",
+    "exts": [
+      "pdf",
+      "png"
+    ],
+    "language": "english",
+    "link": "https://maryshi.ro",
+    "tags": "resistance",
+    "title": "RESISTANCE IS NOT FUTILE"
+  },
+  "sacred-chao": {
+    "author": "irimi",
+    "exts": [
+      "svg"
+    ],
+    "license": "CC0-1.0",
+    "link": "https://github.com/irimi1/cyberwehr-aufkleber"
+  },
+  "sticker chelsea defdef": {
+    "author": "maryshiro",
+    "exts": [
+      "png"
+    ],
+    "language": "english",
+    "link": "https://maryshi.ro",
+    "tags": "wikileaks",
+    "title": "FREE CHELSEA MANNING"
+  },
+  "system_ist_sicher": {
+    "author": "jj",
+    "exts": [
+      "pdf",
+      "png"
+    ],
+    "language": "german",
+    "license": "CC0-1.0",
+    "link": "https://github.com/SFTtech/sticker",
+    "title": "Dieses System ist sicher"
+  },
+  "system_ist_sicher_bg": {
+    "author": "jj",
+    "exts": [
+      "svg"
+    ],
+    "language": "german",
+    "license": "CC0-1.0",
+    "link": "https://github.com/SFTtech/sticker",
+    "title": "Dieses System ist sicher"
+  },
+  "system_ist_sicher_uvlack": {
+    "author": "jj",
+    "exts": [
+      "pdf",
+      "png"
+    ],
+    "language": "german",
+    "license": "CC0-1.0",
+    "link": "https://github.com/SFTtech/sticker",
+    "title": "Dieses System ist sicher"
+  },
+  "tuwat-a8": {
+    "author": "irimi",
+    "exts": [
+      "png",
+      "xcf"
+    ],
+    "license": "CC0-1.0",
+    "link": "https://github.com/irimi1/cyberwehr-aufkleber"
+  },
+  "vade_retro_otf": {
+    "author": "maryshiro",
+    "exts": [
+      "png",
+      "pdf"
+    ],
+    "link": "https://maryshi.ro",
+    "tags": "otf",
+    "title": "VADE RETRO OTF"
+  },
+  "verbastelt-blue": {
+    "author": "markush",
+    "exts": [
+      "pdf",
+      "png"
+    ],
+    "language": "german",
+    "license": "CC0-1.0",
+    "link": "https://github.com/SFTtech/sticker",
+    "title": "DIESES SYSTEM IST VERBASTELT"
+  },
+  "verbastelt-uv": {
+    "author": "markush",
+    "exts": [
+      "pdf",
+      "png"
+    ],
+    "language": "german",
+    "license": "CC0-1.0",
+    "link": "https://github.com/SFTtech/sticker",
+    "title": "DIESES SYSTEM IST VERBASTELT"
+  },
+  "voll_gut": {
+    "author": "jj",
+    "exts": [
+      "png",
+      "pdf"
+    ],
+    "language": "german",
+    "license": "CC0-1.0",
+    "link": "https://github.com/SFTtech/sticker",
+    "title": "voll gut"
+  },
+  "warentest_nicht_so_geil": {
+    "author": "rixx",
+    "exts": [
+      "svg",
+      "png"
+    ],
+    "language": "german",
+    "link": "https://github.com/rixx/sticker",
+    "title": "STIFTUNG WARENTEST - NICHT SO GEIL"
+  },
+  "warning_entropy": {
+    "author": "markush",
+    "exts": [
+      "png",
+      "pdf"
+    ],
+    "language": "english",
+    "link": "https://github.com/SFTtech/sticker",
+    "tags": "warning",
+    "title": "Entropy"
+  },
+  "warning_spacetime": {
+    "author": "markush",
+    "exts": [
+      "png",
+      "pdf"
+    ],
+    "language": "english",
+    "license": "CC0-1.0",
+    "link": "https://github.com/SFTtech/sticker",
+    "tags": "warning",
+    "title": "Device bends space and time"
+  },
+  "we_have_onions": {
+    "author": "maryshiro",
+    "exts": [
+      "jpg"
+    ],
+    "language": "english",
+    "link": "https://maryshi.ro",
+    "tags": "tor",
+    "title": "we have onions"
+  },
+  "we_make_porn": {
+    "exts": [
+      "png",
+      "pdf"
+    ],
+    "language": "english",
+    "link": "wemakeporn.tetalab.org",
+    "title": "WE MAKE PORN"
+  }
 }
