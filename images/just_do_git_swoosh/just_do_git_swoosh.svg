@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="74mm"
+   height="52mm"
+   viewBox="0 0 262.20473 184.25197"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="just_do_git.svg">
+  <defs
+     id="defs4">
+    <inkscape:path-effect
+       effect="knot"
+       id="path-effect10523"
+       is_visible="true"
+       interruption_width="3"
+       prop_to_stroke_width="true"
+       add_stroke_width="true"
+       add_other_stroke_width="true"
+       switcher_size="15"
+       crossing_points_vector="" />
+    <inkscape:path-effect
+       effect="bend_path"
+       id="path-effect10521"
+       is_visible="true"
+       bendpath="m 68.777153,51.308056 103.794207,0"
+       prop_scale="1"
+       scale_y_rel="false"
+       vertical="false" />
+    <inkscape:path-effect
+       effect="envelope"
+       id="path-effect10519"
+       is_visible="true"
+       yy="true"
+       xx="true"
+       bendpath1="m 70.205725,24.462952 137.187065,0"
+       bendpath2="m 172.57136,24.462952 0,53.690209"
+       bendpath3="m 68.777153,78.153161 103.794207,0"
+       bendpath4="m 68.777153,24.462952 0,53.690209"
+       bendpath1-nodetypes="cc" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="2.8284271"
+     inkscape:cx="96.954317"
+     inkscape:cy="138.91387"
+     inkscape:document-units="mm"
+     inkscape:current-layer="text10531"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1018"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     showguides="true"
+     inkscape:guide-bbox="true" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="swoosh"
+     style="display:inline;opacity:1"
+     sodipodi:insensitive="true">
+    <path
+       style="fill:#000000;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 47.826209,37.521896 c -18.213816,40.561626 13.754068,45.5289 28.36856,41.370817 L 242.86006,33.68032 70.284652,109.62531 C 40.693741,120.48004 25.599496,111.39651 20.401726,98.913539 15.024695,82.783918 31.078375,56.536013 47.826209,37.521896 Z"
+       id="path8083"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccc" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer5"
+     inkscape:label="just do git"
+     style="display:inline"
+     sodipodi:insensitive="true">
+    <g
+       style="font-style:normal;font-weight:normal;font-size:32.98245621px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.60000008;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="text10531"
+       transform="matrix(1.1701434,0,0,1.1701434,-25.459238,-32.099437)">
+      <path
+         d="m 62.834862,127.70468 -6.200702,0 0,17.94246 c 0,2.73754 -1.35228,3.82596 -3.133333,3.82596 -1.583158,0 -3.529123,-1.84702 -3.529123,-1.84702 l -1.978947,5.17825 c 0,0 2.473684,2.60561 6.365614,2.60561 5.442105,0 8.476491,-2.83649 8.476491,-8.17965 l 0,-19.52561 z"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'League Spartan';-inkscape-font-specification:'League Spartan Bold';letter-spacing:0px;stroke:#000000;stroke-width:0.60000008;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="path10540"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 81.902048,127.97034 -4.899484,0 0,15.60248 c 0,4.51395 -1.094566,5.82233 -3.492186,5.82233 -2.39762,0 -3.492186,-1.30838 -3.492186,-5.82233 l 0,-15.60248 -4.899485,0 0,17.40153 c 0,6.67276 2.918841,10.07455 8.391671,10.07455 5.47283,0 8.39167,-3.40179 8.39167,-10.07455 l 0,-17.40153 z"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'League Spartan';-inkscape-font-specification:'League Spartan Bold';letter-spacing:0px;stroke:#000000;stroke-width:1.32715917;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="path10542"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 92.191817,127.57756 c -4.16434,0 -8.422614,3.1913 -8.422614,8.20619 0,2.80053 1.816028,5.30798 4.915801,6.90363 3.068463,1.59564 5.823813,2.47489 5.823813,4.42874 0,2.50745 -2.442243,2.63771 -3.725986,2.63771 -2.880598,0 -7.518287,-3.15931 -7.518287,-3.15931 l -0.335207,6.01733 c 0,0 2.248854,2.80815 8.291846,2.80815 5.041044,0 9.737677,-2.24693 9.737677,-8.66209 0,-3.51693 -3.162402,-6.05696 -6.042994,-7.32695 -2.943227,-1.30258 -5.385469,-2.3772 -5.385469,-3.87515 0,-1.4654 1.064569,-2.40977 3.068459,-2.40977 2.661422,0 5.228911,1.85617 5.228911,1.85617 l -0.01402,-5.02922 c 0,0 -0.925299,-2.39543 -5.621927,-2.39543 z"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'League Spartan';-inkscape-font-specification:'League Spartan Bold';letter-spacing:0px;stroke:#000000;stroke-width:0.58087987;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="path10544"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="sscssccsscssccs" />
+      <path
+         d="m 119.55711,127.69169 0,27.23651 7.20812,0 c 6.84621,0 12.54636,-5.67841 12.54636,-13.63477 0,-7.92334 -5.7303,-13.60174 -12.54636,-13.60174 l -7.20812,0 z m 5.66999,21.69016 0,-16.14382 0.87462,0 c 4.22233,0 7.08749,3.5325 7.08749,8.08842 -0.0302,4.55592 -2.89531,8.0554 -7.08749,8.0554 l -0.87462,0 z"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'League Spartan';-inkscape-font-specification:'League Spartan Bold';letter-spacing:0px;stroke:#000000;stroke-width:0.57402289;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="path10548"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 140.28045,141.52027 c 0,7.84617 4.16498,13.93429 10.07343,13.93429 5.73896,0 10.04922,-6.08812 10.04922,-13.93429 0,-7.84617 -4.50398,-13.90173 -10.04922,-13.90173 -5.49678,0 -10.07343,6.05556 -10.07343,13.90173 z m 4.91565,0 c 0,-4.00447 1.64662,-8.00895 5.15778,-8.00895 3.53539,0 5.13358,4.00448 5.13358,8.00895 0,4.00448 -1.50133,8.00897 -5.13358,8.00897 -3.7291,0 -5.15778,-4.00449 -5.15778,-8.00897 z"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'League Spartan';-inkscape-font-specification:'League Spartan Bold';letter-spacing:0px;stroke:#000000;stroke-width:0.51077628;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="path10550"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 190.47081,139.97198 -12.56901,0 0,4.69372 6.26802,0 c 0,3.26943 -2.93607,5.14691 -5.90513,5.14691 -3.82679,0 -6.9278,-3.69023 -6.9278,-8.22211 0,-4.62898 3.10101,-8.35158 6.9278,-8.35158 2.40824,0 4.48657,0.93874 6.07007,3.43127 l 4.05771,-4.37002 c -2.37525,-2.81623 -5.70718,-4.56424 -10.49067,-4.56424 -7.65356,0 -13.26178,6.18277 -13.26178,13.85457 0,7.63944 5.93811,13.8222 13.26178,13.8222 5.34431,0 11.08448,-2.88096 12.56901,-9.6464 l 0,-5.79432 z"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'League Spartan';-inkscape-font-specification:'League Spartan Bold';letter-spacing:0px;stroke:#000000;stroke-width:0.5944714;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="path10552"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 197.75243,127.70468 -6.2007,0 0,27.21053 6.2007,0 0,-27.21053 z"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'League Spartan';-inkscape-font-specification:'League Spartan Bold';letter-spacing:0px;stroke:#000000;stroke-width:0.60000008;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="path10554"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 198.88157,133.12842 4.82587,0 0,21.8174 5.8636,0 0,-21.8174 4.70088,0 0,-5.45435 -15.39035,0 z"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:32.98245621px;line-height:125%;font-family:'League Spartan';-inkscape-font-specification:'League Spartan Bold';letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.53877586;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="path10546-3"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccccccccc" />
+      <path
+         d="m 98.88157,133.12842 4.82587,0 0,21.8174 5.8636,0 0,-21.8174 4.70088,0 0,-5.45435 -15.39035,0 z"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:32.98245621px;line-height:125%;font-family:'League Spartan';-inkscape-font-specification:'League Spartan Bold';letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.53877586;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="path10546-3-8"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccccccccc" />
+    </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Beschnittkante (vor dem Export für den Druck ausblenden)"
+     sodipodi:insensitive="true"
+     style="display:inline">
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#ff00ff;stroke-width:0.18200003;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect8069"
+       width="247.75002"
+       height="169.79724"
+       x="7.2273722"
+       y="7.2273631" />
+  </g>
+</svg>

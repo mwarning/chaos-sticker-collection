@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   id="Ebene_1"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape"
+   inkscape:version="0.46"
+   sodipodi:docname="freifunk_logo_pfade_schneidcontour.svg"
+   sodipodi:version="0.32"
+   x="0px"
+   y="0px"
+   width="117.875px"
+   height="116.375px"
+   viewBox="0 0 117.875 116.375"
+   enable-background="new 0 0 117.875 116.375"
+   xml:space="preserve"><metadata
+   id="metadata2541"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work></rdf:RDF></metadata>
+<defs
+   id="defs2515">
+	
+	
+		<inkscape:perspective
+   id="perspective44"
+   inkscape:vp_z="104.75 : 53.8755 : 1"
+   inkscape:vp_x="0 : 53.8755 : 1"
+   sodipodi:type="inkscape:persp3d"
+   inkscape:vp_y="0 : 1000 : 0"
+   inkscape:persp3d-origin="52.375 : 35.917 : 1">
+		</inkscape:perspective>
+</defs>
+<sodipodi:namedview
+   id="base"
+   objecttolerance="10.0"
+   gridtolerance="10.0"
+   bordercolor="#666666"
+   guidetolerance="10.0"
+   inkscape:cx="8.4352686"
+   inkscape:zoom="4.3062246"
+   inkscape:current-layer="Ebene_1"
+   inkscape:window-height="965"
+   inkscape:window-width="1270"
+   pagecolor="#ffffff"
+   inkscape:cy="80.5721"
+   inkscape:window-x="1280"
+   showgrid="false"
+   inkscape:pageshadow="2"
+   borderopacity="1.0"
+   inkscape:pageopacity="0.0"
+   inkscape:window-y="0">
+	</sodipodi:namedview>
+<path
+   id="rect3241"
+   sodipodi:nodetypes="ccssccccsc"
+   fill="none"
+   stroke="#B31FB3"
+   stroke-linecap="round"
+   d="M73.5,6.75  c-13.321,0-25.037,6.962-31.75,17.438c-1.862-0.357-3.785-0.562-5.75-0.562C19.236,23.625,5.636,37.236,5.625,54l-0.032,49.125  c0,2.91,2.37,5.25,5.281,5.25h95.142c2.911,0,5.25-2.34,5.25-5.25c0,0-0.017-55.747-0.017-58.625  C111.25,23.713,94.287,6.75,73.5,6.75z" />
+<path
+   id="circle3"
+   fill="#DC0067"
+   d="M36,31.5c-12.415,0-22.5,10.085-22.5,22.5S23.585,76.5,36,76.5S58.5,66.415,58.5,54  S48.415,31.5,36,31.5z M36,32.5c11.874,0,21.5,9.626,21.5,21.5S47.874,75.5,36,75.5S14.5,65.874,14.5,54S24.126,32.5,36,32.5z" />
+<path
+   id="circle5"
+   fill="#DC0067"
+   d="M74,21.5c-12.414,0-22.5,10.085-22.5,22.5S61.586,66.5,74,66.5S96.5,56.415,96.5,44  S86.414,21.5,74,21.5z M74,22.5c11.873,0,21.5,9.626,21.5,21.5S85.873,65.5,74,65.5S52.5,55.874,52.5,44S62.127,22.5,74,22.5z" />
+<g
+   id="g3205">
+	<circle
+   id="circle7"
+   fill="none"
+   stroke="#DC0067"
+   stroke-width="6"
+   cx="74"
+   cy="44"
+   r="29" />
+	<circle
+   id="circle3212"
+   fill="none"
+   stroke="#DC0067"
+   stroke-width="6"
+   cx="74"
+   cy="44"
+   r="29" />
+	<path
+   id="circle3214"
+   fill="#DC0067"
+   d="M74,12c-17.631,0-32,14.369-32,32s14.369,32,32,32s32-14.369,32-32S91.631,12,74,12z    M74,18c14.385,0,26,11.615,26,26c0,14.385-11.615,26-26,26S48,58.385,48,44C48,29.615,59.615,18,74,18z" />
+</g>
+<polygon
+   id="polygon9"
+   fill="#FFCB05"
+   stroke="#FFCB05"
+   points="22,48 22,52 30,52 26,56 31,56 37,50 31,44 26,44 30,48 " />
+<polygon
+   id="polygon11"
+   fill="#FFCB05"
+   stroke="#FFCB05"
+   points="64,50 73,59 81,59 75,53 88,53 88,47 75,47 81,41 73,41 " />
+<g
+   id="g13"
+   enable-background="new    ">
+	<path
+   id="path15"
+   fill="#1A171B"
+   stroke="#1A171B"
+   stroke-width="0.5"
+   d="M10.81,88.778h-0.737v-2.537h0.737v-1   c0-2.16,0.762-2.781,2.778-2.781h1.303v2.537H14.67c-0.639,0-0.737,0.299-0.737,0.945v0.299h0.958v2.537h-0.958v12.91H10.81V88.778   z" />
+	<path
+   id="path17"
+   fill="#1A171B"
+   stroke="#1A171B"
+   stroke-width="0.5"
+   d="M19.881,87.563h0.049   c0.467-0.945,1.155-1.514,2.237-1.514c1.549,0,1.942,1.027,1.942,2.701v5.808h-3.122V89.67c0-0.379-0.147-0.812-0.565-0.812   s-0.541,0.433-0.541,0.812v12.019h-3.122V86.241h3.122V87.563z" />
+	<path
+   id="path19"
+   fill="#1A171B"
+   stroke="#1A171B"
+   stroke-width="0.5"
+   d="M26.347,89.536c0-2.324,1.671-3.484,3.663-3.484   c1.967,0,3.688,1.16,3.688,3.484v4.969H29.47v4.023c0,0.379,0.123,0.811,0.541,0.811s0.565-0.432,0.565-0.811v-2.971h3.122v2.836   c0,2.322-1.721,3.484-3.688,3.484c-1.991,0-3.663-1.162-3.663-3.484V89.536z M30.575,92.182V89.4c0-0.378-0.147-0.81-0.565-0.81   s-0.541,0.432-0.541,0.81v2.782H30.575z" />
+	<path
+   id="path21"
+   fill="#1A171B"
+   stroke="#1A171B"
+   stroke-width="0.5"
+   d="M36.008,85.375v-2.916h3.122v2.916H36.008z    M36.008,101.688V86.241h3.122v15.447H36.008z" />
+	<path
+   id="path23"
+   fill="#1A171B"
+   stroke="#1A171B"
+   stroke-width="0.5"
+   d="M41.908,88.778H41.17v-2.537h0.738v-1   c0-2.16,0.762-2.781,2.777-2.781h1.303v2.537h-0.221c-0.64,0-0.737,0.299-0.737,0.945v0.299h0.958v2.537H45.03v12.91h-3.122V88.778   z" />
+	<path
+   id="path25"
+   fill="#1A171B"
+   stroke="#1A171B"
+   stroke-width="0.5"
+   d="M52.085,99.959h-0.049c0,1.055-1.057,1.918-1.991,1.918   c-1.622,0-2.188-1.135-2.188-2.754V86.241h3.122v12.018c0,0.379,0.123,0.811,0.541,0.811c0.417,0,0.564-0.432,0.564-0.811V86.241   h3.122v15.447h-3.122L52.085,99.959L52.085,99.959z" />
+	<path
+   id="path27"
+   fill="#1A171B"
+   stroke="#1A171B"
+   stroke-width="0.5"
+   d="M60.566,87.59h0.049c0.195-0.945,1.277-1.539,2.113-1.539   c1.991,0,2.064,1.594,2.064,3.375v12.263h-3.122V89.67c0-0.379-0.147-0.812-0.563-0.812c-0.418,0-0.541,0.433-0.541,0.812v12.019   h-3.123V86.241h3.123V87.59z" />
+	<path
+   id="path29"
+   fill="#1A171B"
+   stroke="#1A171B"
+   stroke-width="0.5"
+   d="M67.081,101.688V82.459h3.122v10.722h0.049l1.254-6.94   h3.245l-1.524,6.645l1.477,8.805h-3.196l-1.254-8.13h-0.049v8.13h-3.123V101.688z" />
+	<path
+   id="path31"
+   fill="#1A171B"
+   stroke="#1A171B"
+   stroke-width="0.5"
+   d="M76.914,101.688v-3.997h3.122v3.997H76.914z" />
+	<path
+   id="path33"
+   fill="#1A171B"
+   stroke="#1A171B"
+   stroke-width="0.5"
+   d="M85.689,87.59h0.05c0.196-0.945,1.278-1.539,2.114-1.539   c1.99,0,2.063,1.594,2.063,3.375v12.263h-3.122V89.67c0-0.379-0.146-0.812-0.564-0.812s-0.541,0.433-0.541,0.812v12.019h-3.121   V86.241h3.121V87.59z" />
+	<path
+   id="path35"
+   fill="#1A171B"
+   stroke="#1A171B"
+   stroke-width="0.5"
+   d="M92.156,89.536c0-2.324,1.672-3.484,3.662-3.484   c1.967,0,3.688,1.16,3.688,3.484v4.969h-4.229v4.023c0,0.379,0.123,0.811,0.541,0.811s0.564-0.432,0.564-0.811v-2.971h3.122v2.836   c0,2.322-1.721,3.484-3.687,3.484c-1.991,0-3.663-1.162-3.663-3.484L92.156,89.536L92.156,89.536z M96.384,92.182V89.4   c0-0.378-0.146-0.81-0.563-0.81c-0.418,0-0.541,0.432-0.541,0.81v2.782H96.384z" />
+	<path
+   id="path37"
+   fill="#1A171B"
+   stroke="#1A171B"
+   stroke-width="0.5"
+   d="M105.355,86.241h0.86v2.537h-0.86v9.318   c0,0.486,0.074,1.053,0.541,1.053h0.369v2.539h-1.4c-2.237,0-2.631-0.756-2.631-3.133v-9.777h-0.836v-2.537h0.836V83.43h3.121   V86.241z" />
+</g>
+</svg>

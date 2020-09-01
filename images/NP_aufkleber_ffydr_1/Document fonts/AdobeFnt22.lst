@@ -1,0 +1,34 @@
+%!Adobe-FontList 1.22
+%Locale:0x409
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:/Volumes/NP_EXTHD/_work/Aufkleber/_work/NP_aufkleber_ffydr_1_Ordner/Document fonts/AdobeFnt22.lst
+FileLength:593
+FileModTime:622630784
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:AsapCondensed-Bold
+FamilyName:Asap Condensed
+StyleName:Bold
+MenuName:Asap Condensed
+StyleBits:2
+WeightClass:700
+WidthClass:5
+AngleClass:0
+FullName:Asap Condensed Bold
+WritingScript:Roman
+OutlineFileName:/Volumes/NP_EXTHD/_work/Aufkleber/_work/NP_aufkleber_ffydr_1_Ordner/Document fonts/AsapCondensed-Bold.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:152536
+FileModTime:594707006
+NameArray:0,Mac,4,Asap Condensed Bold
+NameArray:0,Win,1,Asap Condensed
+%EndFont
+
