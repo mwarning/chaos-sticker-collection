@@ -1,0 +1,46 @@
+html,
+body {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+}
+
+h1 {
+  text-align: center;
+  font-family: sans-serif;
+  font-weight: 200;
+}
+
+#imagesContainer {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  margin: auto;
+  width: auto;
+}
+
+#imagesContainer img {
+  width: 300px;
+  min-height: 200px;
+  margin: 10px;
+  box-shadow: 1px 4px 10px;
+}
+
+figcaption {
+  text-align: center;
+}
+
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+  }
+
+  to {
+    opacity: 1;
+  }
+}
+
+.fadeIn {
+  animation-name: fadeIn;
+  animation-duration: 2s;
+}
