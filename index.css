@@ -1,0 +1,68 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+}
+
+#imagesContainer {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  margin: auto;
+  width: auto;
+  margin-top: 3em;
+}
+
+#imagesContainer img {
+  width: 300px;
+  min-height: 200px;
+  margin: 10px;
+  box-shadow: 1px 4px 10px;
+}
+
+figcaption {
+  text-align: center;
+}
+
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+  }
+
+  to {
+    opacity: 1;
+  }
+}
+
+.fadeIn {
+  animation-name: fadeIn;
+  animation-duration: 2s;
+}
+
+.navbar {
+  overflow: hidden;
+  background-color: #333;
+  position: fixed;
+  top: 0;
+  width: 100%;
+}
+
+.navbar * {
+  float: left;
+  display: block;
+  color: #f2f2f2;
+  padding: 6px 16px;
+  text-decoration: none;
+}
+
+.navbar input {
+  color: black;
+}
+
+.navbar *:last-child {
+  float: right;
+}
+
+.navbar title {
+  font-size: 1.5em;
+}
