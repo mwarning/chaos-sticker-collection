@@ -1,0 +1,105 @@
+<!doctype html>
+<html>
+  <head>
+    <title>Sticker Monster</title>
+    <style>
+    input[type=text], select, textarea {
+      width: 100%;
+      padding: 12px;
+      border: 1px solid #ccc;
+      border-radius: 4px;
+      box-sizing: border-box;
+      resize: vertical;
+    }
+
+    label {
+      padding: 12px 12px 12px 0;
+      display: inline-block;
+    }
+
+    /* Style the submit button */
+    input[type=submit] {
+      background-color: #4CAF50;
+      color: white;
+      padding: 12px 20px;
+      border: none;
+      border-radius: 4px;
+      cursor: pointer;
+      float: right;
+    }
+    /* Floating column for inputs: 75% width */
+form input {
+  float: left;
+  width: 75%;
+  margin-top: 6px;
+}
+
+form {
+  width: 30%;
+  border-radius: 5px;
+  background-color: #f2f2f2;
+  padding: 20px;
+}
+
+/* Clear floats after the columns */
+form div:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+a {
+  color: inherit;
+}
+
+/* Responsive layout - when the screen is less than 600px wide, make the two columns stack on top of each other instead of next to each other */
+@media screen and (max-width: 600px) {
+  .col-25, .col-75, input[type=submit] {
+    width: 100%;
+    margin-top: 0;
+  }
+}
+    </style>
+  </head>
+  <body>
+    <h1>Sticker Monster</h1>
+    <p>
+      This is the home of the sticker monster. It is hungry for stickers. Be nice and fill out the form and submit a sticker for the collection.
+    </p>
+    <p>
+      After some review period, the sticker will appear in the main <a href="https://github.com/mwarning/chaos-sticker-collection">repository</a>.
+    </p>
+    <p>
+      For many stickers, create a merge request on the repository.
+    </p>
+
+    <form method="POST" action="" enctype="multipart/form-data">
+      <div><label>Tags*</label><input type="text" name="tags"></div>
+      <div><label>Title</label><input type="text" name="title"></div>
+      <div><label>Author</label><input type="text" name="author"></div>
+      <div><label>License</label>
+        <select name="license">
+          <option value="" default="default">Unknown</option>
+          <option value="CC0-1.0">CC0-1.0</option>
+        </select>
+      </div>
+      <div>
+        <label>Language</label>
+        <select name="language">
+          <option value="" default="default">Unknown</option>
+          <option value="english">Canada</option>
+          <option value="dutch">Dutch</option>
+          <option value="german">German</option>
+        </select>
+      </div>
+      <div><label>Image Files*</label><br><div><input type="file" name="file" accept=".jpg,.png,.svg,.pdf,.gif"></div>
+    <div>
+    {% for file in files %}
+      <img src="{{ url_for('upload', filename=file) }}" style="width: 64px">
+    {% endfor %}
+  </div>
+      <div><input type="submit" value="Submit"></div>
+      <div><p>* required</p></div>
+    </form>
+  </body>
+</html>
