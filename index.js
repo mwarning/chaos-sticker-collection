@@ -67,7 +67,15 @@ function getUnderline(name, obj) {
   }
 
   if ('author' in obj) {
-    html.push(obj['author'])
+    if ('link' in obj) {
+      html.push('<a href="' + obj['link'] + '">' + obj['author'] + '</a>')
+    } else {
+      html.push(obj['author'])
+    }
+  } else {
+    if ('link' in obj) {
+      html.push('<a href="' + obj['link'] + '">source</a>')
+    }
   }
 
   if ('license' in obj) {

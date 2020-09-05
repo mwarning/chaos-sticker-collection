@@ -50,13 +50,23 @@ def check_duplicate_images(db_images, images_set):
 
     return duplicates_found
 
-def get_defaults_entry(db, image):
+def get_defaults_entry(db, prev, image):
     name, ext = os.path.splitext(image)
+    common_prefix = ''
+    common_key = ''
+
     for key in db:
-        # match entry with different file extensions
-        if key.startswith(name) and key[len(name)] == ".":
-            return db[key]
-    return {}
+        p = os.path.commonprefix([key, name])
+        if len(p) > len(common_prefix):
+            common_prefix = p
+            common_key = key
+
+    if len(common_prefix) > 4 and ((100 * len(common_prefix)) / len(name)) > 60:
+        # common prefix is >60% of the image name length
+        return db[common_key]
+    else:
+        # use previous image meta data as default
+        return prev
 
 def is_valid_author(author):
     return True
@@ -82,13 +92,19 @@ def is_valid_language(language):
         return False
     return True
 
+def is_valid_link(link):
+    if not link.startswith("https://"):
+        print("Link must start with https://")
+        return False
+    return True
+
 def ask_value(prompt, is_valid, prefill=""):
     value = rlinput(prompt, prefill)
     while not is_valid(value):
         value = rlinput(prompt, value)
     return value.strip()
 
-def add_image(i, n, db, image):
+def add_image(i, n, prev, db, image):
     print("[{}/{}] 'images/{}'".format(i, n, image))
 
     '''
@@ -130,13 +146,14 @@ def add_image(i, n, db, image):
             print("ignore")
             return 0
 
-    default = get_defaults_entry(db, image)
+    default = get_defaults_entry(db, prev[0], image)
 
     tags = default.get("tags", "")
     title = default.get("title", "")
     author = default.get("author", "")
     license = default.get("license", "")
     language = default.get("language", "")
+    link = default.get("link", "")
 
     while True:
         tags = ask_value("Tags: ", is_valid_tags, tags)
@@ -144,6 +161,7 @@ def add_image(i, n, db, image):
         author = ask_value("Author: ", is_valid_author, author)
         license = ask_value("License: ", is_valid_license, license)
         language = ask_value("Language: ", is_valid_language, language)
+        link = ask_value("Link: ", is_valid_link, link)
 
         answer = ask_value("next (1), again (2), skip (3), exit (4): ",
             lambda v: v in ["1", "2", "3", "4"], "1")
@@ -169,8 +187,11 @@ def add_image(i, n, db, image):
         obj["author"] = author
     if len(license) > 0:
         obj["license"] = license
+    if len(link) > 0:
+        obj["link"] = link
 
     db[name] = obj
+    prev[0] = obj
 
     print("done")
 
@@ -205,7 +226,8 @@ def main():
     images = get_image_set()
 
     db_images = get_db_set(db)
-    new_images = images - db_images
+    new_images = list(images - db_images)
+    new_images.sort()
 
     if check_duplicate_images(db_images, images):
         print("Please remove duplicate files first!")
@@ -220,7 +242,7 @@ def main():
 
     def sigint_handler():
         if new_image_count > 0:
-            print("Nothing saved")
+            print("\nNothing saved")
         sys.exit(0)
 
     # Exit Ctrl+C gracefully
@@ -230,8 +252,9 @@ def main():
     if answer == "n":
         return
 
+    prev = [{}] # list for pass by reference
     for i, image in enumerate(new_images):
-        ret = add_image(i + 1, len(new_images), db, image)
+        ret = add_image(i + 1, len(new_images), prev, db, image)
         if ret > 0:
             new_image_count += 1
         if ret < 0:
