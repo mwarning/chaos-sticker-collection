@@ -78,6 +78,8 @@ function getUnderline(name, obj) {
 }
 
 function addImages(myJson, filter) {
+  let count = 0
+
   // remove all images
   $('#imagesContainer').textContent = ""
 
@@ -100,10 +102,13 @@ function addImages(myJson, filter) {
     img.setAttribute('data-lazy-name', name);
     img.classList.add('lazy-loading');
     $('#imagesContainer').appendChild(div);
+
+    count += 1
   }
 
   lazyTargets = document.querySelectorAll('.lazy-loading');
   lazyTargets.forEach(e => lazyLoad(e, myJson));
+  $('#count').innerText = count
 }
 
 function get_preferred_ext(exts) {
