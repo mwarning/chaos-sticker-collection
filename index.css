@@ -14,8 +14,8 @@ html, body {
 }
 
 #imagesContainer img {
-  width: 300px;
-  min-height: 200px;
+  width: 200px;
+  height: auto;
   margin: 10px;
   box-shadow: 1px 4px 10px;
 }
