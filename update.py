@@ -93,9 +93,10 @@ def is_valid_language(language):
     return True
 
 def is_valid_link(link):
-    if not link.startswith("https://"):
-        print("Link must start with https://")
-        return False
+    if len(link) > 0:
+        if not link.startswith("https://") and not link.startswith("http://"):
+            print("Link must start with https://")
+            return False
     return True
 
 def ask_value(prompt, is_valid, prefill=""):
