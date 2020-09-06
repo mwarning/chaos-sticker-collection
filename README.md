@@ -16,8 +16,9 @@ Supported fields:
 * Tags: `unicorns advertisement` (lower case)
 * Title: `We Deploy Unicorns`
 * Author: `Mrs. Unicorn <unicorn@example.com>`
-* License: `CC0-1.0` [SPDX](https://spdx.org/licenses/) format
+* License: `CC0-1.0` ([SPDX](https://spdx.org/licenses/) format)
 * Language: `english` (lower case)
+* Link: `https://example.com` (lower case)
 
 All fields are optional!
 
