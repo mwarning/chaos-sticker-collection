@@ -232,6 +232,47 @@
     "tags": "nsa",
     "title": "FCK NSA"
   },
+  "freifunk_gr\u00f6\u00dftes_funknetz": {
+    "author": "mwarning",
+    "exts": [
+      "png",
+      "svg"
+    ],
+    "language": "german",
+    "license": "CC0-1.0",
+    "tags": "freifunk siedler",
+    "title": "Gr\u00f6\u00dftes Funknetz"
+  },
+  "freifunk_logo": {
+    "exts": [
+      "svg"
+    ],
+    "license": "CC0-1.0",
+    "link": "https://freifunk.net/",
+    "tags": "freifunk"
+  },
+  "freifunk_l\u00e4ngste_funkstrecke": {
+    "author": "mwarning",
+    "exts": [
+      "png",
+      "svg"
+    ],
+    "language": "german",
+    "license": "CC0-1.0",
+    "tags": "freifunk siedler",
+    "title": "L\u00e4ngste Funkstrecke"
+  },
+  "freifunk_l\u00e4ngste_wlan_verbindung": {
+    "author": "mwarning",
+    "exts": [
+      "png",
+      "svg"
+    ],
+    "language": "german",
+    "license": "CC0-1.0",
+    "tags": "freifunk siedler",
+    "title": "L\u00e4ngste WLAN-Verbindung"
+  },
   "gopher-stickers-angry": {
     "author": "Takuya Ueda",
     "exts": [
