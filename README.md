@@ -37,3 +37,7 @@ For preview, the image with the shortes extension and png/jpg/svg is chosen. Thi
 
 * Do not submit stickers that are not free for everyone to use for any purpose.
 * Prefer images rather then photos of stickers, those are better for printing.
+
+## Karma
+
+Give stars/karma points to the source repository if possible!
