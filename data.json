@@ -359,28 +359,9 @@
     "author": "jj",
     "exts": [
       "pdf",
-      "png"
-    ],
-    "language": "german",
-    "license": "CC0-1.0",
-    "link": "https://github.com/SFTtech/sticker",
-    "title": "Dieses System ist sicher"
-  },
-  "system_ist_sicher_bg": {
-    "author": "jj",
-    "exts": [
-      "svg"
-    ],
-    "language": "german",
-    "license": "CC0-1.0",
-    "link": "https://github.com/SFTtech/sticker",
-    "title": "Dieses System ist sicher"
-  },
-  "system_ist_sicher_uvlack": {
-    "author": "jj",
-    "exts": [
-      "pdf",
-      "png"
+      "png",
+      "uv.pdf",
+      "bl.svg"
     ],
     "language": "german",
     "license": "CC0-1.0",
@@ -406,20 +387,10 @@
     "tags": "otf",
     "title": "VADE RETRO OTF"
   },
-  "verbastelt-blue": {
+  "verbastelt": {
     "author": "markush",
     "exts": [
-      "pdf",
-      "png"
-    ],
-    "language": "german",
-    "license": "CC0-1.0",
-    "link": "https://github.com/SFTtech/sticker",
-    "title": "DIESES SYSTEM IST VERBASTELT"
-  },
-  "verbastelt-uv": {
-    "author": "markush",
-    "exts": [
+      "uv.pdf",
       "pdf",
       "png"
     ],
