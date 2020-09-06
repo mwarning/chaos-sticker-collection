@@ -29,10 +29,6 @@ figure {
   box-shadow: 1px 4px 10px;
 }
 
-figcaption {
-  text-align: center;
-}
-
 @keyframes fadeIn {
   from {
     opacity: 0;
