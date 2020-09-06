@@ -71,3 +71,13 @@ figure {
 .navbar title {
   font-size: 1.5em;
 }
+
+@media only screen and (max-width: 600px) {
+  #imagesContainer img {
+    width: 150px;
+  }
+
+  #imagesContainer {
+    margin-top: 5em;
+  }
+}
