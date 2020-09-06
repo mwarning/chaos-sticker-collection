@@ -265,6 +265,789 @@
     "tags": "caution",
     "title": "Device held together only by..."
   },
+  "hex-stickers-R6": {
+    "exts": [
+      "png",
+      "svg"
+    ],
+    "license": "CC0-1.0",
+    "link": "https://github.com/rstudio/hex-stickers/",
+    "tags": "rstudio"
+  },
+  "hex-stickers-RStudio": {
+    "exts": [
+      "png",
+      "svg"
+    ],
+    "license": "CC0-1.0",
+    "link": "https://github.com/rstudio/hex-stickers/",
+    "tags": "rstudio"
+  },
+  "hex-stickers-applicable": {
+    "exts": [
+      "png",
+      "svg"
+    ],
+    "license": "CC0-1.0",
+    "link": "https://github.com/rstudio/hex-stickers/",
+    "tags": "rstudio"
+  },
+  "hex-stickers-blastula": {
+    "exts": [
+      "png",
+      "svg"
+    ],
+    "license": "CC0-1.0",
+    "link": "https://github.com/rstudio/hex-stickers/",
+    "tags": "rstudio"
+  },
+  "hex-stickers-blogdown": {
+    "exts": [
+      "png",
+      "svg"
+    ],
+    "license": "CC0-1.0",
+    "link": "https://github.com/rstudio/hex-stickers/",
+    "tags": "rstudio"
+  },
+  "hex-stickers-bookdown": {
+    "exts": [
+      "png",
+      "svg"
+    ],
+    "license": "CC0-1.0",
+    "link": "https://github.com/rstudio/hex-stickers/",
+    "tags": "rstudio"
+  },
+  "hex-stickers-broom": {
+    "exts": [
+      "png",
+      "svg"
+    ],
+    "license": "CC0-1.0",
+    "link": "https://github.com/rstudio/hex-stickers/",
+    "tags": "rstudio"
+  },
+  "hex-stickers-connectapi": {
+    "exts": [
+      "png",
+      "svg"
+    ],
+    "license": "CC0-1.0",
+    "link": "https://github.com/rstudio/hex-stickers/",
+    "tags": "rstudio"
+  },
+  "hex-stickers-connections": {
+    "exts": [
+      "png",
+      "svg"
+    ],
+    "license": "CC0-1.0",
+    "link": "https://github.com/rstudio/hex-stickers/",
+    "tags": "rstudio"
+  },
+  "hex-stickers-covr": {
+    "exts": [
+      "png",
+      "svg"
+    ],
+    "license": "CC0-1.0",
+    "link": "https://github.com/rstudio/hex-stickers/",
+    "tags": "rstudio"
+  },
+  "hex-stickers-dbplot": {
+    "exts": [
+      "png",
+      "svg"
+    ],
+    "license": "CC0-1.0",
+    "link": "https://github.com/rstudio/hex-stickers/",
+    "tags": "rstudio"
+  },
+  "hex-stickers-dbplyr": {
+    "exts": [
+      "png",
+      "svg"
+    ],
+    "license": "CC0-1.0",
+    "link": "https://github.com/rstudio/hex-stickers/",
+    "tags": "rstudio"
+  },
+  "hex-stickers-devtools": {
+    "exts": [
+      "png",
+      "svg"
+    ],
+    "license": "CC0-1.0",
+    "link": "https://github.com/rstudio/hex-stickers/",
+    "tags": "rstudio"
+  },
+  "hex-stickers-dials": {
+    "exts": [
+      "png",
+      "svg"
+    ],
+    "license": "CC0-1.0",
+    "link": "https://github.com/rstudio/hex-stickers/",
+    "tags": "rstudio"
+  },
+  "hex-stickers-dplyr": {
+    "exts": [
+      "png",
+      "svg"
+    ],
+    "license": "CC0-1.0",
+    "link": "https://github.com/rstudio/hex-stickers/",
+    "tags": "rstudio"
+  },
+  "hex-stickers-dsbox": {
+    "exts": [
+      "png",
+      "svg"
+    ],
+    "license": "CC0-1.0",
+    "link": "https://github.com/rstudio/hex-stickers/",
+    "tags": "rstudio"
+  },
+  "hex-stickers-dtplyr": {
+    "exts": [
+      "png",
+      "svg"
+    ],
+    "license": "CC0-1.0",
+    "link": "https://github.com/rstudio/hex-stickers/",
+    "tags": "rstudio"
+  },
+  "hex-stickers-feather": {
+    "exts": [
+      "png",
+      "svg"
+    ],
+    "license": "CC0-1.0",
+    "link": "https://github.com/rstudio/hex-stickers/",
+    "tags": "rstudio"
+  },
+  "hex-stickers-flexdashboard": {
+    "exts": [
+      "png",
+      "svg"
+    ],
+    "license": "CC0-1.0",
+    "link": "https://github.com/rstudio/hex-stickers/",
+    "tags": "rstudio"
+  },
+  "hex-stickers-forcats": {
+    "exts": [
+      "png",
+      "svg"
+    ],
+    "license": "CC0-1.0",
+    "link": "https://github.com/rstudio/hex-stickers/",
+    "tags": "rstudio"
+  },
+  "hex-stickers-fs": {
+    "exts": [
+      "png",
+      "svg"
+    ],
+    "license": "CC0-1.0",
+    "link": "https://github.com/rstudio/hex-stickers/",
+    "tags": "rstudio"
+  },
+  "hex-stickers-furrr": {
+    "exts": [
+      "png",
+      "svg"
+    ],
+    "license": "CC0-1.0",
+    "link": "https://github.com/rstudio/hex-stickers/",
+    "tags": "rstudio"
+  },
+  "hex-stickers-ggplot2": {
+    "exts": [
+      "png",
+      "svg"
+    ],
+    "license": "CC0-1.0",
+    "link": "https://github.com/rstudio/hex-stickers/",
+    "tags": "rstudio"
+  },
+  "hex-stickers-glue": {
+    "exts": [
+      "png",
+      "svg"
+    ],
+    "license": "CC0-1.0",
+    "link": "https://github.com/rstudio/hex-stickers/",
+    "tags": "rstudio"
+  },
+  "hex-stickers-googledrive": {
+    "exts": [
+      "png",
+      "svg"
+    ],
+    "license": "CC0-1.0",
+    "link": "https://github.com/rstudio/hex-stickers/",
+    "tags": "rstudio"
+  },
+  "hex-stickers-googlesheets": {
+    "exts": [
+      "png",
+      "svg"
+    ],
+    "license": "CC0-1.0",
+    "link": "https://github.com/rstudio/hex-stickers/",
+    "tags": "rstudio"
+  },
+  "hex-stickers-googlesheets4": {
+    "exts": [
+      "png",
+      "svg"
+    ],
+    "license": "CC0-1.0",
+    "link": "https://github.com/rstudio/hex-stickers/",
+    "tags": "rstudio"
+  },
+  "hex-stickers-gt": {
+    "exts": [
+      "png",
+      "svg"
+    ],
+    "license": "CC0-1.0",
+    "link": "https://github.com/rstudio/hex-stickers/",
+    "tags": "rstudio"
+  },
+  "hex-stickers-gtable": {
+    "exts": [
+      "png",
+      "svg"
+    ],
+    "license": "CC0-1.0",
+    "link": "https://github.com/rstudio/hex-stickers/",
+    "tags": "rstudio"
+  },
+  "hex-stickers-hardhat": {
+    "exts": [
+      "png",
+      "svg"
+    ],
+    "license": "CC0-1.0",
+    "link": "https://github.com/rstudio/hex-stickers/",
+    "tags": "rstudio"
+  },
+  "hex-stickers-haven": {
+    "exts": [
+      "png",
+      "svg"
+    ],
+    "license": "CC0-1.0",
+    "link": "https://github.com/rstudio/hex-stickers/",
+    "tags": "rstudio"
+  },
+  "hex-stickers-hms": {
+    "exts": [
+      "png",
+      "svg"
+    ],
+    "license": "CC0-1.0",
+    "link": "https://github.com/rstudio/hex-stickers/",
+    "tags": "rstudio"
+  },
+  "hex-stickers-knitr": {
+    "exts": [
+      "png",
+      "svg"
+    ],
+    "license": "CC0-1.0",
+    "link": "https://github.com/rstudio/hex-stickers/",
+    "tags": "rstudio"
+  },
+  "hex-stickers-lobstr": {
+    "exts": [
+      "png",
+      "svg"
+    ],
+    "license": "CC0-1.0",
+    "link": "https://github.com/rstudio/hex-stickers/",
+    "tags": "rstudio"
+  },
+  "hex-stickers-lubridate": {
+    "exts": [
+      "png",
+      "svg"
+    ],
+    "license": "CC0-1.0",
+    "link": "https://github.com/rstudio/hex-stickers/",
+    "tags": "rstudio"
+  },
+  "hex-stickers-miniCRAN": {
+    "exts": [
+      "png",
+      "svg"
+    ],
+    "license": "CC0-1.0",
+    "link": "https://github.com/rstudio/hex-stickers/",
+    "tags": "rstudio"
+  },
+  "hex-stickers-modeldb": {
+    "exts": [
+      "png",
+      "svg"
+    ],
+    "license": "CC0-1.0",
+    "link": "https://github.com/rstudio/hex-stickers/",
+    "tags": "rstudio"
+  },
+  "hex-stickers-modelr": {
+    "exts": [
+      "png",
+      "svg"
+    ],
+    "license": "CC0-1.0",
+    "link": "https://github.com/rstudio/hex-stickers/",
+    "tags": "rstudio"
+  },
+  "hex-stickers-pagedown": {
+    "exts": [
+      "png",
+      "svg"
+    ],
+    "license": "CC0-1.0",
+    "link": "https://github.com/rstudio/hex-stickers/",
+    "tags": "rstudio"
+  },
+  "hex-stickers-parsnip": {
+    "exts": [
+      "png",
+      "svg"
+    ],
+    "license": "CC0-1.0",
+    "link": "https://github.com/rstudio/hex-stickers/",
+    "tags": "rstudio"
+  },
+  "hex-stickers-pins": {
+    "exts": [
+      "png",
+      "svg"
+    ],
+    "license": "CC0-1.0",
+    "link": "https://github.com/rstudio/hex-stickers/",
+    "tags": "rstudio"
+  },
+  "hex-stickers-pipe": {
+    "exts": [
+      "png",
+      "svg"
+    ],
+    "license": "CC0-1.0",
+    "link": "https://github.com/rstudio/hex-stickers/",
+    "tags": "rstudio"
+  },
+  "hex-stickers-pkgdown": {
+    "exts": [
+      "png",
+      "svg"
+    ],
+    "license": "CC0-1.0",
+    "link": "https://github.com/rstudio/hex-stickers/",
+    "tags": "rstudio"
+  },
+  "hex-stickers-plumber": {
+    "exts": [
+      "png",
+      "svg"
+    ],
+    "license": "CC0-1.0",
+    "link": "https://github.com/rstudio/hex-stickers/",
+    "tags": "rstudio"
+  },
+  "hex-stickers-purrr": {
+    "exts": [
+      "png",
+      "svg"
+    ],
+    "license": "CC0-1.0",
+    "link": "https://github.com/rstudio/hex-stickers/",
+    "tags": "rstudio"
+  },
+  "hex-stickers-r2d3": {
+    "exts": [
+      "png",
+      "svg"
+    ],
+    "license": "CC0-1.0",
+    "link": "https://github.com/rstudio/hex-stickers/",
+    "tags": "rstudio"
+  },
+  "hex-stickers-ragg": {
+    "exts": [
+      "png",
+      "svg"
+    ],
+    "license": "CC0-1.0",
+    "link": "https://github.com/rstudio/hex-stickers/",
+    "tags": "rstudio"
+  },
+  "hex-stickers-reactlog": {
+    "exts": [
+      "png",
+      "svg"
+    ],
+    "license": "CC0-1.0",
+    "link": "https://github.com/rstudio/hex-stickers/",
+    "tags": "rstudio"
+  },
+  "hex-stickers-readr": {
+    "exts": [
+      "png",
+      "svg"
+    ],
+    "license": "CC0-1.0",
+    "link": "https://github.com/rstudio/hex-stickers/",
+    "tags": "rstudio"
+  },
+  "hex-stickers-readxl": {
+    "exts": [
+      "png",
+      "svg"
+    ],
+    "license": "CC0-1.0",
+    "link": "https://github.com/rstudio/hex-stickers/",
+    "tags": "rstudio"
+  },
+  "hex-stickers-recipes": {
+    "exts": [
+      "png",
+      "svg"
+    ],
+    "license": "CC0-1.0",
+    "link": "https://github.com/rstudio/hex-stickers/",
+    "tags": "rstudio"
+  },
+  "hex-stickers-renv": {
+    "exts": [
+      "png",
+      "svg"
+    ],
+    "license": "CC0-1.0",
+    "link": "https://github.com/rstudio/hex-stickers/",
+    "tags": "rstudio"
+  },
+  "hex-stickers-reprex": {
+    "exts": [
+      "png",
+      "svg"
+    ],
+    "license": "CC0-1.0",
+    "link": "https://github.com/rstudio/hex-stickers/",
+    "tags": "rstudio"
+  },
+  "hex-stickers-reticulate": {
+    "exts": [
+      "png",
+      "svg"
+    ],
+    "license": "CC0-1.0",
+    "link": "https://github.com/rstudio/hex-stickers/",
+    "tags": "rstudio"
+  },
+  "hex-stickers-rlang": {
+    "exts": [
+      "png",
+      "svg"
+    ],
+    "license": "CC0-1.0",
+    "link": "https://github.com/rstudio/hex-stickers/",
+    "tags": "rstudio"
+  },
+  "hex-stickers-rmarkdown": {
+    "exts": [
+      "png",
+      "svg"
+    ],
+    "license": "CC0-1.0",
+    "link": "https://github.com/rstudio/hex-stickers/",
+    "tags": "rstudio"
+  },
+  "hex-stickers-roxygen2": {
+    "exts": [
+      "png",
+      "svg"
+    ],
+    "license": "CC0-1.0",
+    "link": "https://github.com/rstudio/hex-stickers/",
+    "tags": "rstudio"
+  },
+  "hex-stickers-rray": {
+    "exts": [
+      "png",
+      "svg"
+    ],
+    "license": "CC0-1.0",
+    "link": "https://github.com/rstudio/hex-stickers/",
+    "tags": "rstudio"
+  },
+  "hex-stickers-rrd": {
+    "exts": [
+      "png",
+      "svg"
+    ],
+    "license": "CC0-1.0",
+    "link": "https://github.com/rstudio/hex-stickers/",
+    "tags": "rstudio"
+  },
+  "hex-stickers-rsample": {
+    "exts": [
+      "png",
+      "svg"
+    ],
+    "license": "CC0-1.0",
+    "link": "https://github.com/rstudio/hex-stickers/",
+    "tags": "rstudio"
+  },
+  "hex-stickers-rsconnect": {
+    "exts": [
+      "png",
+      "svg"
+    ],
+    "license": "CC0-1.0",
+    "link": "https://github.com/rstudio/hex-stickers/",
+    "tags": "rstudio"
+  },
+  "hex-stickers-rstudioapi": {
+    "exts": [
+      "png",
+      "svg"
+    ],
+    "license": "CC0-1.0",
+    "link": "https://github.com/rstudio/hex-stickers/",
+    "tags": "rstudio"
+  },
+  "hex-stickers-rvest": {
+    "exts": [
+      "png",
+      "svg"
+    ],
+    "license": "CC0-1.0",
+    "link": "https://github.com/rstudio/hex-stickers/",
+    "tags": "rstudio"
+  },
+  "hex-stickers-sass": {
+    "exts": [
+      "png",
+      "svg"
+    ],
+    "license": "CC0-1.0",
+    "link": "https://github.com/rstudio/hex-stickers/",
+    "tags": "rstudio"
+  },
+  "hex-stickers-scales": {
+    "exts": [
+      "png",
+      "svg"
+    ],
+    "license": "CC0-1.0",
+    "link": "https://github.com/rstudio/hex-stickers/",
+    "tags": "rstudio"
+  },
+  "hex-stickers-shiny": {
+    "exts": [
+      "png",
+      "svg"
+    ],
+    "license": "CC0-1.0",
+    "link": "https://github.com/rstudio/hex-stickers/",
+    "tags": "rstudio"
+  },
+  "hex-stickers-sloop": {
+    "exts": [
+      "png",
+      "svg"
+    ],
+    "license": "CC0-1.0",
+    "link": "https://github.com/rstudio/hex-stickers/",
+    "tags": "rstudio"
+  },
+  "hex-stickers-sortable": {
+    "exts": [
+      "png",
+      "svg"
+    ],
+    "license": "CC0-1.0",
+    "link": "https://github.com/rstudio/hex-stickers/",
+    "tags": "rstudio"
+  },
+  "hex-stickers-sparklyr": {
+    "exts": [
+      "png",
+      "svg"
+    ],
+    "license": "CC0-1.0",
+    "link": "https://github.com/rstudio/hex-stickers/",
+    "tags": "rstudio"
+  },
+  "hex-stickers-sss": {
+    "exts": [
+      "png",
+      "svg"
+    ],
+    "license": "CC0-1.0",
+    "link": "https://github.com/rstudio/hex-stickers/",
+    "tags": "rstudio"
+  },
+  "hex-stickers-stringr": {
+    "exts": [
+      "png",
+      "svg"
+    ],
+    "license": "CC0-1.0",
+    "link": "https://github.com/rstudio/hex-stickers/",
+    "tags": "rstudio"
+  },
+  "hex-stickers-tensorflow": {
+    "exts": [
+      "png",
+      "svg"
+    ],
+    "license": "CC0-1.0",
+    "link": "https://github.com/rstudio/hex-stickers/",
+    "tags": "rstudio"
+  },
+  "hex-stickers-testthat": {
+    "exts": [
+      "png",
+      "svg"
+    ],
+    "license": "CC0-1.0",
+    "link": "https://github.com/rstudio/hex-stickers/",
+    "tags": "rstudio"
+  },
+  "hex-stickers-textrecipes": {
+    "exts": [
+      "png",
+      "svg"
+    ],
+    "license": "CC0-1.0",
+    "link": "https://github.com/rstudio/hex-stickers/",
+    "tags": "rstudio"
+  },
+  "hex-stickers-tibble": {
+    "exts": [
+      "png",
+      "svg"
+    ],
+    "license": "CC0-1.0",
+    "link": "https://github.com/rstudio/hex-stickers/",
+    "tags": "rstudio"
+  },
+  "hex-stickers-tidymodels": {
+    "exts": [
+      "png",
+      "svg"
+    ],
+    "license": "CC0-1.0",
+    "link": "https://github.com/rstudio/hex-stickers/",
+    "tags": "rstudio"
+  },
+  "hex-stickers-tidyposterior": {
+    "exts": [
+      "png",
+      "svg"
+    ],
+    "license": "CC0-1.0",
+    "link": "https://github.com/rstudio/hex-stickers/",
+    "tags": "rstudio"
+  },
+  "hex-stickers-tidypredict": {
+    "exts": [
+      "png",
+      "svg"
+    ],
+    "license": "CC0-1.0",
+    "link": "https://github.com/rstudio/hex-stickers/",
+    "tags": "rstudio"
+  },
+  "hex-stickers-tidyr": {
+    "exts": [
+      "png",
+      "svg"
+    ],
+    "license": "CC0-1.0",
+    "link": "https://github.com/rstudio/hex-stickers/",
+    "tags": "rstudio"
+  },
+  "hex-stickers-tidyverse": {
+    "exts": [
+      "png",
+      "svg"
+    ],
+    "license": "CC0-1.0",
+    "link": "https://github.com/rstudio/hex-stickers/",
+    "tags": "rstudio"
+  },
+  "hex-stickers-tune": {
+    "exts": [
+      "png",
+      "svg"
+    ],
+    "license": "CC0-1.0",
+    "link": "https://github.com/rstudio/hex-stickers/",
+    "tags": "rstudio"
+  },
+  "hex-stickers-usethis": {
+    "exts": [
+      "png",
+      "svg"
+    ],
+    "license": "CC0-1.0",
+    "link": "https://github.com/rstudio/hex-stickers/",
+    "tags": "rstudio"
+  },
+  "hex-stickers-vctrs": {
+    "exts": [
+      "png",
+      "svg"
+    ],
+    "license": "CC0-1.0",
+    "link": "https://github.com/rstudio/hex-stickers/",
+    "tags": "rstudio"
+  },
+  "hex-stickers-withr": {
+    "exts": [
+      "png",
+      "svg"
+    ],
+    "license": "CC0-1.0",
+    "link": "https://github.com/rstudio/hex-stickers/",
+    "tags": "rstudio"
+  },
+  "hex-stickers-workflows": {
+    "exts": [
+      "png",
+      "svg"
+    ],
+    "license": "CC0-1.0",
+    "link": "https://github.com/rstudio/hex-stickers/",
+    "tags": "rstudio"
+  },
+  "hex-stickers-xaringan": {
+    "exts": [
+      "png",
+      "svg"
+    ],
+    "license": "CC0-1.0",
+    "link": "https://github.com/rstudio/hex-stickers/",
+    "tags": "rstudio"
+  },
+  "hex-stickers-yardstick": {
+    "exts": [
+      "png",
+      "svg"
+    ],
+    "license": "CC0-1.0",
+    "link": "https://github.com/rstudio/hex-stickers/",
+    "tags": "rstudio"
+  },
   "internet_warning": {
     "author": "markush",
     "exts": [
