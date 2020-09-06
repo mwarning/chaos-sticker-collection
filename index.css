@@ -4,6 +4,15 @@ html, body {
   width: 100%;
 }
 
+figure {
+  float: right;
+  text-align: center;
+  font-size: smaller;
+  text-indent: 0;
+  margin: 0.5em;
+  padding: 0.5em;
+}
+
 #imagesContainer {
   display: flex;
   flex-wrap: wrap;
