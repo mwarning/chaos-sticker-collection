@@ -9,7 +9,7 @@ import os
 
 
 # subset of https://spdx.org/licenses/
-valid_licenses = ["", "CC0-1.0", "Unlicense"]
+valid_licenses = ["", "CC0-1.0", "Unlicense", "CC-BY-3.0"]
 valid_languages = ["", "dutch", "english", "french", "german"]
 
 # Only works on *nix systems
