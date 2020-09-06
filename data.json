@@ -53,7 +53,8 @@
     "author": "maryshiro",
     "exts": [
       "pdf",
-      "svg"
+      "svg",
+      "jpg"
     ],
     "language": "german",
     "link": "https://maryshi.ro",
@@ -85,7 +86,8 @@
   "Hypnofrog": {
     "author": "Lachmoewe",
     "exts": [
-      "png"
+      "png",
+      "jpg"
     ],
     "link": "https://wiki.c3d2.de/Sticker"
   },
@@ -722,7 +724,8 @@
   "hex-stickers-covr": {
     "exts": [
       "png",
-      "svg"
+      "svg",
+      "jpg"
     ],
     "license": "CC0-1.0",
     "link": "https://github.com/rstudio/hex-stickers/",
@@ -803,7 +806,8 @@
   "hex-stickers-flexdashboard": {
     "exts": [
       "png",
-      "svg"
+      "svg",
+      "jpg"
     ],
     "license": "CC0-1.0",
     "link": "https://github.com/rstudio/hex-stickers/",
@@ -830,7 +834,8 @@
   "hex-stickers-furrr": {
     "exts": [
       "png",
-      "svg"
+      "svg",
+      "jpg"
     ],
     "license": "CC0-1.0",
     "link": "https://github.com/rstudio/hex-stickers/",
@@ -848,7 +853,8 @@
   "hex-stickers-glue": {
     "exts": [
       "png",
-      "svg"
+      "svg",
+      "jpg"
     ],
     "license": "CC0-1.0",
     "link": "https://github.com/rstudio/hex-stickers/",
@@ -875,7 +881,8 @@
   "hex-stickers-googlesheets4": {
     "exts": [
       "png",
-      "svg"
+      "svg",
+      "jpg"
     ],
     "license": "CC0-1.0",
     "link": "https://github.com/rstudio/hex-stickers/",
@@ -884,7 +891,8 @@
   "hex-stickers-gt": {
     "exts": [
       "png",
-      "svg"
+      "svg",
+      "jpg"
     ],
     "license": "CC0-1.0",
     "link": "https://github.com/rstudio/hex-stickers/",
@@ -893,7 +901,8 @@
   "hex-stickers-gtable": {
     "exts": [
       "png",
-      "svg"
+      "svg",
+      "jpg"
     ],
     "license": "CC0-1.0",
     "link": "https://github.com/rstudio/hex-stickers/",
@@ -1001,7 +1010,8 @@
   "hex-stickers-pins": {
     "exts": [
       "png",
-      "svg"
+      "svg",
+      "jpg"
     ],
     "license": "CC0-1.0",
     "link": "https://github.com/rstudio/hex-stickers/",
@@ -1019,7 +1029,8 @@
   "hex-stickers-pkgdown": {
     "exts": [
       "png",
-      "svg"
+      "svg",
+      "jpg"
     ],
     "license": "CC0-1.0",
     "link": "https://github.com/rstudio/hex-stickers/",
@@ -1037,7 +1048,8 @@
   "hex-stickers-purrr": {
     "exts": [
       "png",
-      "svg"
+      "svg",
+      "jpg"
     ],
     "license": "CC0-1.0",
     "link": "https://github.com/rstudio/hex-stickers/",
@@ -1046,7 +1058,8 @@
   "hex-stickers-r2d3": {
     "exts": [
       "png",
-      "svg"
+      "svg",
+      "jpg"
     ],
     "license": "CC0-1.0",
     "link": "https://github.com/rstudio/hex-stickers/",
@@ -1055,7 +1068,8 @@
   "hex-stickers-ragg": {
     "exts": [
       "png",
-      "svg"
+      "svg",
+      "jpg"
     ],
     "license": "CC0-1.0",
     "link": "https://github.com/rstudio/hex-stickers/",
@@ -1118,7 +1132,8 @@
   "hex-stickers-reticulate": {
     "exts": [
       "png",
-      "svg"
+      "svg",
+      "jpg"
     ],
     "license": "CC0-1.0",
     "link": "https://github.com/rstudio/hex-stickers/",
@@ -1127,7 +1142,8 @@
   "hex-stickers-rlang": {
     "exts": [
       "png",
-      "svg"
+      "svg",
+      "jpg"
     ],
     "license": "CC0-1.0",
     "link": "https://github.com/rstudio/hex-stickers/",
@@ -1154,7 +1170,8 @@
   "hex-stickers-rray": {
     "exts": [
       "png",
-      "svg"
+      "svg",
+      "jpg"
     ],
     "license": "CC0-1.0",
     "link": "https://github.com/rstudio/hex-stickers/",
@@ -1199,7 +1216,8 @@
   "hex-stickers-rvest": {
     "exts": [
       "png",
-      "svg"
+      "svg",
+      "jpg"
     ],
     "license": "CC0-1.0",
     "link": "https://github.com/rstudio/hex-stickers/",
@@ -1217,7 +1235,8 @@
   "hex-stickers-scales": {
     "exts": [
       "png",
-      "svg"
+      "svg",
+      "jpg"
     ],
     "license": "CC0-1.0",
     "link": "https://github.com/rstudio/hex-stickers/",
@@ -1271,7 +1290,8 @@
   "hex-stickers-stringr": {
     "exts": [
       "png",
-      "svg"
+      "svg",
+      "jpg"
     ],
     "license": "CC0-1.0",
     "link": "https://github.com/rstudio/hex-stickers/",
@@ -1280,7 +1300,8 @@
   "hex-stickers-tensorflow": {
     "exts": [
       "png",
-      "svg"
+      "svg",
+      "jpg"
     ],
     "license": "CC0-1.0",
     "link": "https://github.com/rstudio/hex-stickers/",
@@ -1307,7 +1328,8 @@
   "hex-stickers-tibble": {
     "exts": [
       "png",
-      "svg"
+      "svg",
+      "jpg"
     ],
     "license": "CC0-1.0",
     "link": "https://github.com/rstudio/hex-stickers/",
@@ -1334,7 +1356,8 @@
   "hex-stickers-tidypredict": {
     "exts": [
       "png",
-      "svg"
+      "svg",
+      "jpg"
     ],
     "license": "CC0-1.0",
     "link": "https://github.com/rstudio/hex-stickers/",
@@ -1379,7 +1402,8 @@
   "hex-stickers-vctrs": {
     "exts": [
       "png",
-      "svg"
+      "svg",
+      "jpg"
     ],
     "license": "CC0-1.0",
     "link": "https://github.com/rstudio/hex-stickers/",
@@ -1388,7 +1412,8 @@
   "hex-stickers-withr": {
     "exts": [
       "png",
-      "svg"
+      "svg",
+      "jpg"
     ],
     "license": "CC0-1.0",
     "link": "https://github.com/rstudio/hex-stickers/",
@@ -1406,7 +1431,8 @@
   "hex-stickers-xaringan": {
     "exts": [
       "png",
-      "svg"
+      "svg",
+      "jpg"
     ],
     "license": "CC0-1.0",
     "link": "https://github.com/rstudio/hex-stickers/",
@@ -1504,7 +1530,8 @@
   "sticker chelsea defdef": {
     "author": "maryshiro",
     "exts": [
-      "png"
+      "png",
+      "jpg"
     ],
     "language": "english",
     "link": "https://maryshi.ro",
@@ -1527,8 +1554,8 @@
   "tuwat-a8": {
     "author": "irimi",
     "exts": [
-      "png",
-      "xcf"
+      "xcf",
+      "jpg"
     ],
     "license": "CC0-1.0",
     "link": "https://github.com/irimi1/cyberwehr-aufkleber"
