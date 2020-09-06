@@ -244,6 +244,7 @@ def main():
     def sigint_handler():
         if new_image_count > 0:
             print("\nNothing saved")
+        print("")
         sys.exit(0)
 
     # Exit Ctrl+C gracefully
