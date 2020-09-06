@@ -124,7 +124,7 @@ function get_preferred_ext(exts) {
   exts.sort((a, b) => a.length - b.length);
 
   // get preferred image extensions
-  for (const fmt of ["png", "jpg", "svg", "gif", "tif", "pdf"]) {
+  for (const fmt of ["gif", "jpg", "svg", "png", "tif", "pdf"]) {
     for (const ext of exts) {
       if (ext.endsWith(fmt)) {
         return ext
