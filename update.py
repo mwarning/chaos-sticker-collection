@@ -9,7 +9,7 @@ import os
 
 
 # subset of https://spdx.org/licenses/
-valid_licenses = ["", "CC0-1.0", "Unlicense", "CC-BY-3.0"]
+valid_licenses = ["", "CC0-1.0", "Unlicense", "CC-BY-3.0", "CC-BY-SA-4.0", "CC-BY-SA-3.0", "LAL-1.3"]
 valid_languages = ["", "dutch", "english", "french", "german"]
 
 # Only works on *nix systems
@@ -130,7 +130,7 @@ def add_image(i, n, prev, db, image):
                 return True
         return False
 
-    if not endswith_any(image, [".svg", ".pdf", ".jpg", ".png", ".eps", ".tif"]):
+    if not endswith_any(image, [".svg", ".pdf", ".jpg", ".png", ".eps", ".tif", ".ai"]):
         print("File has invalid format extension => ignore")
         return 0
 

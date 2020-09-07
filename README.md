@@ -24,7 +24,7 @@ All fields are optional!
 
 ## Sticker File Formats
 
-SVG, PDF, JPG, PNG, EPS, and TIF image formats are accepted.
+SVG, PDF, JPG, PNG images are acceptd. Additional versions may be as EPS, AI, SLA or TIF as well.
 
 If you have multiple image formats or components of a sticker, then encode the difference after a dot. Example:
 
