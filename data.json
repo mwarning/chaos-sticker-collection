@@ -90,6 +90,15 @@
     "tags": "google",
     "title": "GOOGLE? NEIN DANKE"
   },
+  "Hacker_Inside_Logo": {
+    "exts": [
+      "svg"
+    ],
+    "language": "english",
+    "license": "CC-BY-SA-3.0",
+    "link": "https://commons.wikimedia.org/wiki/File:Hacker_Inside_Logo.svg",
+    "title": "hacker inside"
+  },
   "Headphones": {
     "author": "maryshiro",
     "exts": [
@@ -100,6 +109,13 @@
     "link": "https://maryshi.ro",
     "tags": "headphones",
     "title": "DON'T TALK TO ME"
+  },
+  "Heartbleed": {
+    "exts": [
+      "svg"
+    ],
+    "license": "CC0-1.0",
+    "link": "https://commons.wikimedia.org/wiki/File:Heartbleed.svg"
   },
   "Hypnofrog": {
     "author": "Lachmoewe",
@@ -120,6 +136,15 @@
     "tags": "0day",
     "title": "I Love EnCase 0day"
   },
+  "Laughing_man": {
+    "exts": [
+      "svg"
+    ],
+    "language": "english",
+    "license": "LAL-1.3",
+    "link": "https://ghostintheshell.fandom.com/wiki/Laughing_Man?file=Laughing_man.svg",
+    "title": "Laughing Man"
+  },
   "Microsoft_Nein_Danke print": {
     "author": "maryshiro",
     "exts": [
@@ -130,6 +155,16 @@
     "link": "https://maryshi.ro",
     "tags": "microsoft",
     "title": "MICROSOFT? NEIN DANKE"
+  },
+  "MullvadVPN_logo_Round_RGB_Color_positive": {
+    "author": "Mullvad VPN AB",
+    "exts": [
+      "svg"
+    ],
+    "language": "english",
+    "link": "https://mullvad.net/en/press/",
+    "tags": "mullvad",
+    "title": "PRIVACY IS A UNIVERSAL RIGHT"
   },
   "Pesth\u00f6rnchen": {
     "author": "Reinhard Schrutzki",
@@ -145,6 +180,17 @@
     ],
     "link": "https://maryshi.ro",
     "title": "Shrug"
+  },
+  "The_Pirate_Bay_logo": {
+    "exts": [
+      "svg",
+      "jpg"
+    ],
+    "language": "english",
+    "license": "CC0-1.0",
+    "link": "https://commons.wikimedia.org/wiki/File:The_Pirate_Bay_logo.svg",
+    "tags": "logo",
+    "title": "The Pirate Bay"
   },
   "Tor-logo-2011-sticker": {
     "exts": [
@@ -810,6 +856,15 @@
     "link": "https://maryshi.ro",
     "tags": "cryptoparty",
     "title": "GPG TOR OTR WTF"
+  },
+  "hacker-inside-marlin-2-logo": {
+    "exts": [
+      "svg",
+      "jpg"
+    ],
+    "language": "english",
+    "license": "CC0-1.0",
+    "link": "https://freesvg.org/hacker-inside-marvin-20"
   },
   "heart-of-code": {
     "exts": [
