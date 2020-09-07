@@ -32,6 +32,15 @@
     "tags": "c3 sticker",
     "title": "C3STOC"
   },
+  "Chaos-sticker-1-cmyk": {
+    "author": "Mic",
+    "exts": [
+      "pdf",
+      "jpg"
+    ],
+    "link": "https://chaos-west.de/wiki/index.php?title=Sticker",
+    "title": "Chaos West"
+  },
   "Chaosknoten": {
     "author": "Chaos Computer Club e.V.",
     "exts": [
@@ -137,6 +146,14 @@
     "link": "https://maryshi.ro",
     "title": "Shrug"
   },
+  "Tor-logo-2011-sticker": {
+    "exts": [
+      "svg"
+    ],
+    "license": "CC-BY-SA-3.0",
+    "link": "https://en.m.wikipedia.org/wiki/File:Tor-logo-2011-sticker.svg",
+    "tags": "tor logo"
+  },
   "all_computers_are_broken_nofont": {
     "author": "irimi1",
     "exts": [
@@ -146,6 +163,15 @@
     "license": "CC0-1.0",
     "link": "https://github.com/irimi1/cyberwehr-aufkleber",
     "title": "all computers are broken"
+  },
+  "bold_initiative_gnu_head": {
+    "author": "Aurelio A. Heckert",
+    "exts": [
+      "svg"
+    ],
+    "license": "LAL-1.3",
+    "link": "https://www.gnu.org/graphics/gnusvgart.html",
+    "tags": "gnu"
   },
   "broken_C": {
     "author": "markush",
@@ -171,6 +197,15 @@
     "tags": "caution",
     "title": "If you break it, it's broken..."
   },
+  "bwcartoon-m": {
+    "author": "Victor Siame",
+    "exts": [
+      "svg"
+    ],
+    "license": "LAL-1.3",
+    "link": "https://www.gnu.org/graphics/gnusvgart.html",
+    "tags": "gnu"
+  },
   "c3woc": {
     "exts": [
       "svg",
@@ -179,6 +214,26 @@
     "link": "https://c3woc.de",
     "tags": "logo",
     "title": "Waffle Operation Center"
+  },
+  "chaos_west_mitRand_randlos_17": {
+    "author": "Hans",
+    "exts": [
+      "12.14.pdf",
+      "jpg"
+    ],
+    "link": "https://chaos-west.de/wiki/index.php?title=Sticker",
+    "tags": "chaoswest",
+    "title": "Chaos West"
+  },
+  "chaos_west_randlos_17": {
+    "author": "Hans",
+    "exts": [
+      "12.14.pdf",
+      "jpg"
+    ],
+    "link": "https://chaos-west.de/wiki/index.php?title=Sticker",
+    "tags": "chaoswest",
+    "title": "Chaos West"
   },
   "chaossocial": {
     "author": "rixx",
@@ -199,6 +254,15 @@
     "link": "https://github.com/SFTtech/sticker",
     "tags": "cyber",
     "title": "Cyb\u00e4rangriff"
+  },
+  "cyber_sticker_export": {
+    "exts": [
+      "jpg",
+      "pdf"
+    ],
+    "license": "CC-BY-NC 4.0",
+    "link": "https://cyber.equipment/",
+    "tags": "cyber"
   },
   "cyberwehr": {
     "author": "C3D2 Dresden",
@@ -400,6 +464,17 @@
     "license": "CC0-1.0",
     "tags": "freifunk siedler",
     "title": "L\u00e4ngste WLAN-Verbindung"
+  },
+  "gnu_meditate": {
+    "author": "Nevrax Design Team",
+    "exts": [
+      "svg",
+      "jpg"
+    ],
+    "license": "GPL-3.0-or-later/GFDL-1.1-or-later",
+    "link": "https://www.gnu.org/graphics/meditate.html",
+    "tags": "gnu",
+    "title": "Levitating, Meditating, Flute-playing Gnu"
   },
   "gopher-stickers-angry": {
     "author": "Takuya Ueda",
@@ -753,6 +828,15 @@
     "link": "https://github.com/irimi1/cyberwehr-aufkleber",
     "tags": "headphone",
     "title": "Heart Phones"
+  },
+  "heckert_gnu": {
+    "author": "Aurelio A. Heckert",
+    "exts": [
+      "svg"
+    ],
+    "license": "LAL-1.3",
+    "link": "https://www.gnu.org/graphics/gnusvgart.html",
+    "tags": "gnu"
   },
   "held_together": {
     "author": "markush",
@@ -1624,6 +1708,16 @@
     ],
     "link": "https://wiki.c3d2.de/Sticker"
   },
+  "official gnu": {
+    "author": "Victor Siame",
+    "exts": [
+      "svg",
+      "jpg"
+    ],
+    "license": "LAL-1.3",
+    "link": "https://www.gnu.org/graphics/gnusvgart.html",
+    "tags": "gnu"
+  },
   "openage": {
     "author": "jj",
     "exts": [
@@ -1768,7 +1862,7 @@
       "pdf"
     ],
     "language": "english",
-    "link": "wemakeporn.tetalab.org",
+    "link": "https://wemakeporn.tetalab.org",
     "title": "WE MAKE PORN"
   }
 }
