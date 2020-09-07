@@ -4,6 +4,8 @@ A collection of stickers found at hacker events made available for free reproduc
 
 [View Collection](https://mwarning.github.io/chaos-sticker-collection/)
 
+Merge Request are Welcome!
+
 ## Add Stickers
 
 1. Fork the repository
