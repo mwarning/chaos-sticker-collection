@@ -61,6 +61,15 @@
     "tags": "facebook",
     "title": "FACEBOOK? NEIN DANKE"
   },
+  "GPN2_Logo_Final": {
+    "exts": [
+      "svg",
+      "jpg"
+    ],
+    "link": "https://entropia.de/GPN2",
+    "tags": "logo",
+    "title": "2. Gulaschprogrammiernacht"
+  },
   "Google_Nein_Danke print": {
     "author": "maryshiro",
     "exts": [
@@ -162,6 +171,15 @@
     "tags": "caution",
     "title": "If you break it, it's broken..."
   },
+  "c3woc": {
+    "exts": [
+      "svg",
+      "jpg"
+    ],
+    "link": "https://c3woc.de",
+    "tags": "logo",
+    "title": "Waffle Operation Center"
+  },
   "chaossocial": {
     "author": "rixx",
     "exts": [
@@ -232,6 +250,115 @@
     "link": "https://maryshi.ro",
     "tags": "nsa",
     "title": "FCK NSA"
+  },
+  "freifunk-fulda-logo-lilie_v1": {
+    "exts": [
+      "png"
+    ],
+    "license": "CC-BY-SA-4.0",
+    "link": "https://git.maglab.space/fffd/fffd-artwork",
+    "tags": "freifunk"
+  },
+  "freifunk-fulda-logo-segelflieger": {
+    "exts": [
+      "ai",
+      "png"
+    ],
+    "license": "CC-BY-SA-4.0",
+    "link": "https://git.maglab.space/fffd/fffd-artwork",
+    "tags": "freifunk"
+  },
+  "freifunk-fulda-logo-stadtlicht": {
+    "exts": [
+      "png"
+    ],
+    "license": "CC-BY-SA-4.0",
+    "link": "https://git.maglab.space/fffd/fffd-artwork",
+    "tags": "freifunk"
+  },
+  "freifunk-hamburg-funkt-frei": {
+    "exts": [
+      "svg"
+    ],
+    "language": "german",
+    "link": "https://hamburg.freifunk.net/2015/12/aufkleber.html"
+  },
+  "freifunk-kiel-skyline_85x55mm": {
+    "exts": [
+      "png",
+      "jpg"
+    ],
+    "license": "CC0-1.0",
+    "link": "https://freifunk.in-kiel.de",
+    "tags": "freifunk"
+  },
+  "freifunk-kiel_85x55mm": {
+    "exts": [
+      "pdf",
+      "jpg"
+    ],
+    "license": "CC0-1.0",
+    "link": "https://freifunk.in-kiel.de",
+    "tags": "freifunk"
+  },
+  "freifunk-nord_85x55mm": {
+    "exts": [
+      "pdf",
+      "jpg"
+    ],
+    "license": "CC0-1.0",
+    "link": "https://nord.freifunk.net",
+    "tags": "freifunk"
+  },
+  "freifunk-router-neutral_35x105mm_1": {
+    "exts": [
+      "eps",
+      "pdf",
+      "jpg"
+    ],
+    "language": "german",
+    "link": "https://wiki.freifunk.net/Freifunk-Styles/Aufkleber",
+    "tags": "freifunk"
+  },
+  "freifunk-router-neutral_35x105mm_2": {
+    "exts": [
+      "eps",
+      "pdf",
+      "jpg"
+    ],
+    "language": "german",
+    "link": "https://wiki.freifunk.net/Freifunk-Styles/Aufkleber",
+    "tags": "freifunk"
+  },
+  "freifunk-router-neutral_35x105mm_3": {
+    "exts": [
+      "eps",
+      "pdf",
+      "jpg"
+    ],
+    "language": "german",
+    "link": "https://wiki.freifunk.net/Freifunk-Styles/Aufkleber",
+    "tags": "freifunk"
+  },
+  "freifunk-router-neutral_35x105mm_4": {
+    "exts": [
+      "eps",
+      "pdf",
+      "jpg"
+    ],
+    "language": "german",
+    "link": "https://wiki.freifunk.net/Freifunk-Styles/Aufkleber",
+    "tags": "freifunk"
+  },
+  "freifunk-router-neutral_35x105mm_5": {
+    "exts": [
+      "eps",
+      "pdf",
+      "jpg"
+    ],
+    "language": "german",
+    "link": "https://wiki.freifunk.net/Freifunk-Styles/Aufkleber",
+    "tags": "freifunk"
   },
   "freifunk_gr\u00f6\u00dftes_funknetz": {
     "author": "mwarning",
