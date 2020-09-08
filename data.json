@@ -32,6 +32,12 @@
     "tags": "c3 sticker",
     "title": "C3STOC"
   },
+  "C3d2-Bubbles": {
+    "exts": [
+      "svg"
+    ],
+    "link": "https://wiki.c3d2.de/w/images/a/ab/C3d2-Bubbles.svg"
+  },
   "Chaos-sticker-1-cmyk": {
     "author": "Mic",
     "exts": [
@@ -98,6 +104,14 @@
     "license": "CC-BY-SA-3.0",
     "link": "https://commons.wikimedia.org/wiki/File:Hacker_Inside_Logo.svg",
     "title": "hacker inside"
+  },
+  "Haskell-Logo": {
+    "exts": [
+      "svg"
+    ],
+    "license": "CC0-1.0",
+    "link": "https://en.wikipedia.org/wiki/File:Haskell-Logo.svg",
+    "tags": "haskell"
   },
   "Headphones": {
     "author": "maryshiro",
@@ -200,6 +214,16 @@
     "link": "https://en.m.wikipedia.org/wiki/File:Tor-logo-2011-sticker.svg",
     "tags": "tor logo"
   },
+  "WinLess-Logo_1290x480": {
+    "author": "luckydonald",
+    "exts": [
+      "png",
+      "jpg"
+    ],
+    "link": "https://www.deviantart.com/luckydonald/",
+    "tags": "pony",
+    "title": "WinLess Logo"
+  },
   "all_computers_are_broken_nofont": {
     "author": "irimi1",
     "exts": [
@@ -209,6 +233,18 @@
     "license": "CC0-1.0",
     "link": "https://github.com/irimi1/cyberwehr-aufkleber",
     "title": "all computers are broken"
+  },
+  "bitte nicht in den mund nehmen": {
+    "author": "jaseg",
+    "exts": [
+      "pdf",
+      "jpg"
+    ],
+    "language": "german",
+    "license": "CC0-1",
+    "link": "https://github.com/jaseg/sticker",
+    "notes": "3mm bleed box",
+    "title": "Bitte nicht in den Mund nehmen!"
   },
   "bold_initiative_gnu_head": {
     "author": "Aurelio A. Heckert",
@@ -289,6 +325,18 @@
     "link": "https://github.com/rixx/sticker",
     "tags": "mastodon"
   },
+  "computer sind scheisse export": {
+    "author": "jaseg",
+    "exts": [
+      "pdf",
+      "jpg"
+    ],
+    "language": "german",
+    "license": "CC0-1",
+    "link": "https://github.com/jaseg/sticker",
+    "notes": "3mm bleed box",
+    "title": "Computer sind scheisse!"
+  },
   "cybaer_angriff": {
     "author": "markush",
     "exts": [
@@ -300,6 +348,30 @@
     "link": "https://github.com/SFTtech/sticker",
     "tags": "cyber",
     "title": "Cyb\u00e4rangriff"
+  },
+  "cyber computer club": {
+    "author": "jaseg",
+    "exts": [
+      "pdf",
+      "jpg"
+    ],
+    "language": "german",
+    "license": "CC0-1",
+    "link": "https://github.com/jaseg/sticker",
+    "notes": "3mm bleed box",
+    "title": "Cyber Computer Club"
+  },
+  "cyber-siegel": {
+    "author": "jaseg",
+    "exts": [
+      "pdf",
+      "jpg"
+    ],
+    "language": "german",
+    "license": "CC0-1",
+    "link": "https://github.com/jaseg/sticker",
+    "notes": "3mm bleed box",
+    "title": "Cyber-Gepr\u00fcft"
   },
   "cyber_sticker_export": {
     "exts": [
@@ -1712,6 +1784,18 @@
     "link": "https://github.com/rstudio/hex-stickers/",
     "tags": "rstudio"
   },
+  "i hate computers": {
+    "author": "jaseg",
+    "exts": [
+      "pdf",
+      "jpg"
+    ],
+    "language": "german",
+    "license": "CC0-1",
+    "link": "https://github.com/jaseg/sticker",
+    "notes": "3mm bleed box",
+    "title": "I hate computers!"
+  },
   "internet_warning": {
     "author": "markush",
     "exts": [
@@ -1783,6 +1867,19 @@
     "link": "https://github.com/SFTtech/sticker",
     "tags": "openage"
   },
+  "radioactive-export": {
+    "author": "jaseg",
+    "exts": [
+      "pdf",
+      "jpg"
+    ],
+    "language": "german",
+    "license": "CC0-1",
+    "link": "https://github.com/jaseg/sticker",
+    "notes": "3mm bleed box",
+    "tags": "caution",
+    "title": "device is a tiny bit radioactive"
+  },
   "resistance_sticker_print": {
     "author": "maryshiro",
     "exts": [
@@ -1794,6 +1891,30 @@
     "tags": "resistance",
     "title": "RESISTANCE IS NOT FUTILE"
   },
+  "rust_ferris_trans": {
+    "exts": [
+      "jpg"
+    ],
+    "license": "CC-BY-3.0",
+    "link": "https://rustacean.net",
+    "tags": "rust"
+  },
+  "rustacean-flat-gesture": {
+    "exts": [
+      "svg"
+    ],
+    "license": "CC0-1.0",
+    "link": "https://rustacean.net",
+    "tags": "rust"
+  },
+  "rustacean-orig-noshadow": {
+    "exts": [
+      "svg"
+    ],
+    "license": "CC0-1.0",
+    "link": "https://rustacean.net",
+    "tags": "rust"
+  },
   "sacred-chao": {
     "author": "irimi1",
     "exts": [
@@ -1801,6 +1922,13 @@
     ],
     "license": "CC0-1.0",
     "link": "https://github.com/irimi1/cyberwehr-aufkleber"
+  },
+  "shellshock-bug": {
+    "exts": [
+      "svg"
+    ],
+    "license": "CC0-1.0",
+    "link": "https://freesvg.org/vector-image-of-shellshock-bug"
   },
   "sticker chelsea defdef": {
     "author": "maryshiro",
@@ -1813,11 +1941,20 @@
     "tags": "wikileaks",
     "title": "FREE CHELSEA MANNING"
   },
+  "sticker-nsa": {
+    "exts": [
+      "svg"
+    ],
+    "language": "english",
+    "license": "CC-BY-SA-3.0",
+    "link": "https://media.c3d2.de/u/vv01f/m/they-have-the-key/",
+    "title": "NSA MONITORED DEVICE"
+  },
   "system_ist_sicher": {
     "author": "jj",
     "exts": [
       "pdf",
-      "png",
+      "jpg",
       "uv.pdf",
       "bl.svg"
     ],
@@ -1856,6 +1993,15 @@
     "license": "CC0-1.0",
     "link": "https://github.com/SFTtech/sticker",
     "title": "DIESES SYSTEM IST VERBASTELT"
+  },
+  "vim-actual-size-export": {
+    "author": "Liggliluff",
+    "exts": [
+      "pdf",
+      "svg"
+    ],
+    "link": "https://www.deviantart.com/liggliluff/art/Vim-329279125",
+    "tags": "vim pony"
   },
   "voll_gut": {
     "author": "jj",
