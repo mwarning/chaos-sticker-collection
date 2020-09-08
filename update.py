@@ -20,7 +20,7 @@ def rlinput(prompt, prefill=""):
     finally:
         readline.set_startup_hook()
 
-def check_duplicate_images(db_images, images_set):
+def check_duplicate_images(db_images, new_images):
     def hash_file(path):
         with open(path, "rb") as file:
             hasher = hashlib.sha1()
@@ -29,7 +29,7 @@ def check_duplicate_images(db_images, images_set):
 
     duplicates_found = False
     hashes = {}
-    for image in images_set:
+    for image in new_images:
         file_hash = hash_file("images/{}".format(image))
         if file_hash in hashes:
             other_image = hashes[file_hash]
@@ -74,6 +74,9 @@ def is_valid_author(author):
 def is_valid_title(author):
     return True
 
+def is_valid_notes(notes):
+    return True
+
 def is_valid_tags(tags):
     if tags.lower() != tags:
         print("Only lower case letters please.")
@@ -111,8 +114,11 @@ def get_size(path):
         file.seek(0,2)
         return file.tell()
 
-def add_image(i, n, prev, db, image):
-    print("[{}/{}] 'images/{}'".format(i, n, image))
+# add or update image
+def handle_image(i, n, prev, db, image):
+    print('#######################################')
+    print('[{}/{}] "images/{}"'.format(i, n, image))
+    print('#######################################')
 
     '''
     cool_image.front.png => ("cool_image", "front.png")
@@ -140,24 +146,30 @@ def add_image(i, n, prev, db, image):
         print("File has no extension => ignore")
         return 0
 
+    default = None
+
     # image name exists
     if name in db:
-        obj = db[name]
-        answer = ask_value("Image exists with extensions {}. Add '{}' to image entry? [Y/n] ".format(obj["exts"], ext),
-            lambda v: v in ["", "Y", "n"], "")
-        if answer == "" or answer == "Y":
-            obj["exts"].append(ext)
-            print("done")
-            return 1
+        if ext in db[name]["exts"]:
+            print("Image exists => edit")
+            default = db[name]
         else:
-            print("ignore")
-            return 0
-
-    default = get_defaults_entry(db, prev[0], image)
+            answer = ask_value("Image exists with extensions {}. Add '{}' to image entry? [Y/n] ".format(db[name]["exts"], ext),
+                lambda v: v in ["", "Y", "n"], "")
+            if answer == "" or answer == "Y":
+                db[name]["exts"].append(ext)
+                print("done")
+                return 1
+            else:
+                print("ignore")
+                return 0
+    else:
+        default = get_defaults_entry(db, prev[0], image)
 
     tags = default.get("tags", "")
     title = default.get("title", "")
     author = default.get("author", "")
+    notes = default.get("notes", "")
     license = default.get("license", "")
     language = default.get("language", "")
     link = default.get("link", "")
@@ -166,6 +178,7 @@ def add_image(i, n, prev, db, image):
         tags = ask_value("Tags: ", is_valid_tags, tags)
         title = ask_value("Title: ", is_valid_title, title)
         author = ask_value("Author: ", is_valid_author, author)
+        notes = ask_value("Notes: ", is_valid_notes, notes)
         license = ask_value("License: ", is_valid_license, license)
         language = ask_value("Language: ", is_valid_language, language)
         link = ask_value("Link: ", is_valid_link, link)
@@ -192,6 +205,8 @@ def add_image(i, n, prev, db, image):
         obj["language"] = language
     if len(author) > 0:
         obj["author"] = author
+    if len(notes) > 0:
+        obj["notes"] = notes
     if len(license) > 0:
         obj["license"] = license
     if len(link) > 0:
@@ -254,19 +269,30 @@ def main():
                 images.add("{}.{}".format(name, ext))
         return images
 
-
     db = get_database()
-    images = get_image_set()
-
     db_images = get_db_set(db)
-    new_images = list(images - db_images)
-    new_images.sort()
+
+    images = []
+    if len(sys.argv) > 1:
+        for image in sys.argv[1:]:
+            if not image.startswith("images/"):
+                print("Outside images folder: {}".format(image))
+                sys.exit(1)
+            elif os.path.isfile(image):
+                images.append(os.path.basename(image))
+            else:
+                print("{} does not exist".format(image))
+                sys.exit(1)
+    else:
+        images = list(get_image_set() - db_images)
+
+    images.sort()
 
     if check_duplicate_images(db_images, images):
         print("Please remove duplicate files first!")
         return
 
-    if len(new_images) == 0:
+    if len(images) == 0:
         print("Read {} entries, no new images => abort".format(len(db_images)))
         return
 
@@ -282,13 +308,13 @@ def main():
     # Exit Ctrl+C gracefully
     signal.signal(signal.SIGINT, lambda sig, frame: sigint_handler())
 
-    answer = input("Start to add {} new images [Y, n]? ".format(len(new_images)))
+    answer = input("Start to add {} new images [Y, n]? ".format(len(images)))
     if answer == "n":
         return
 
     prev = [{}] # list for pass by reference
-    for i, image in enumerate(new_images):
-        ret = add_image(i + 1, len(new_images), prev, db, image)
+    for i, image in enumerate(images):
+        ret = handle_image(i + 1, len(images), prev, db, image)
         if ret > 0:
             new_image_count += 1
         if ret < 0:
