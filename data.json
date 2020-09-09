@@ -1,4 +1,9 @@
 {
+  "18C3": {
+    "exts": [
+      "svg"
+    ]
+  },
   "Amazon_Nein_Danke print": {
     "author": "maryshiro",
     "exts": [
@@ -41,8 +46,7 @@
   "Chaos-sticker-1-cmyk": {
     "author": "Mic",
     "exts": [
-      "pdf",
-      "jpg"
+      "pdf"
     ],
     "link": "https://chaos-west.de/wiki/index.php?title=Sticker",
     "title": "Chaos West"
@@ -56,7 +60,6 @@
   "Cyberwehr": {
     "author": "irimi1",
     "exts": [
-      "jpg",
       "text.svg",
       "path.svg"
     ],
@@ -68,8 +71,7 @@
     "author": "maryshiro",
     "exts": [
       "pdf",
-      "svg",
-      "jpg"
+      "svg"
     ],
     "language": "german",
     "link": "https://maryshi.ro",
@@ -78,12 +80,36 @@
   },
   "GPN2_Logo_Final": {
     "exts": [
-      "svg",
-      "jpg"
+      "svg"
     ],
     "link": "https://entropia.de/GPN2",
     "tags": "logo",
     "title": "2. Gulaschprogrammiernacht"
+  },
+  "Gendersticker_?": {
+    "exts": [
+      "pdf"
+    ]
+  },
+  "Gendersticker_HE": {
+    "exts": [
+      "pdf"
+    ]
+  },
+  "Gendersticker_Plain": {
+    "exts": [
+      "pdf"
+    ]
+  },
+  "Gendersticker_SHE": {
+    "exts": [
+      "pdf"
+    ]
+  },
+  "Gendersticker_THEY": {
+    "exts": [
+      "pdf"
+    ]
   },
   "Google_Nein_Danke print": {
     "author": "maryshiro",
@@ -104,6 +130,16 @@
     "license": "CC-BY-SA-3.0",
     "link": "https://commons.wikimedia.org/wiki/File:Hacker_Inside_Logo.svg",
     "title": "hacker inside"
+  },
+  "Hackerhalfmoon": {
+    "exts": [
+      "svg"
+    ]
+  },
+  "Hackerhammock": {
+    "exts": [
+      "svg"
+    ]
   },
   "Haskell-Logo": {
     "exts": [
@@ -134,8 +170,7 @@
   "Hypnofrog": {
     "author": "Lachmoewe",
     "exts": [
-      "png",
-      "jpg"
+      "png"
     ],
     "link": "https://wiki.c3d2.de/Sticker"
   },
@@ -180,10 +215,25 @@
     "tags": "mullvad",
     "title": "PRIVACY IS A UNIVERSAL RIGHT"
   },
+  "National_Security_Agency": {
+    "exts": [
+      "svg"
+    ]
+  },
+  "Pesthoernchen": {
+    "exts": [
+      "svg"
+    ]
+  },
   "Pesth\u00f6rnchen": {
     "author": "Reinhard Schrutzki",
     "exts": [
       "jpg"
+    ]
+  },
+  "Politische Aktion": {
+    "exts": [
+      "svg"
     ]
   },
   "Shrug": {
@@ -197,8 +247,7 @@
   },
   "The_Pirate_Bay_logo": {
     "exts": [
-      "svg",
-      "jpg"
+      "svg"
     ],
     "language": "english",
     "license": "CC0-1.0",
@@ -217,8 +266,7 @@
   "WinLess-Logo_1290x480": {
     "author": "luckydonald",
     "exts": [
-      "png",
-      "jpg"
+      "png"
     ],
     "link": "https://www.deviantart.com/luckydonald/",
     "tags": "pony",
@@ -234,11 +282,16 @@
     "link": "https://github.com/irimi1/cyberwehr-aufkleber",
     "title": "all computers are broken"
   },
+  "bad_gateway": {
+    "exts": [
+      "pdf",
+      "svg"
+    ]
+  },
   "bitte nicht in den mund nehmen": {
     "author": "jaseg",
     "exts": [
-      "pdf",
-      "jpg"
+      "pdf"
     ],
     "language": "german",
     "license": "CC0-1",
@@ -290,18 +343,37 @@
   },
   "c3woc": {
     "exts": [
-      "svg",
-      "jpg"
+      "svg"
     ],
     "link": "https://c3woc.de",
     "tags": "logo",
     "title": "Waffle Operation Center"
   },
+  "camp15_rocket": {
+    "exts": [
+      "pdf",
+      "svg"
+    ]
+  },
+  "ccc-ffm-logo": {
+    "exts": [
+      "svg"
+    ]
+  },
+  "cccamp2015-rocket": {
+    "exts": [
+      "svg"
+    ]
+  },
+  "cccamp2015-rocket-plain": {
+    "exts": [
+      "svg"
+    ]
+  },
   "chaos_west_mitRand_randlos_17": {
     "author": "Hans",
     "exts": [
-      "12.14.pdf",
-      "jpg"
+      "12.14.pdf"
     ],
     "link": "https://chaos-west.de/wiki/index.php?title=Sticker",
     "tags": "chaoswest",
@@ -310,12 +382,16 @@
   "chaos_west_randlos_17": {
     "author": "Hans",
     "exts": [
-      "12.14.pdf",
-      "jpg"
+      "12.14.pdf"
     ],
     "link": "https://chaos-west.de/wiki/index.php?title=Sticker",
     "tags": "chaoswest",
     "title": "Chaos West"
+  },
+  "chaosmachtschule_tafel": {
+    "exts": [
+      "svg"
+    ]
   },
   "chaossocial": {
     "author": "rixx",
@@ -328,8 +404,7 @@
   "computer sind scheisse export": {
     "author": "jaseg",
     "exts": [
-      "pdf",
-      "jpg"
+      "pdf"
     ],
     "language": "german",
     "license": "CC0-1",
@@ -352,8 +427,7 @@
   "cyber computer club": {
     "author": "jaseg",
     "exts": [
-      "pdf",
-      "jpg"
+      "pdf"
     ],
     "language": "german",
     "license": "CC0-1",
@@ -364,8 +438,7 @@
   "cyber-siegel": {
     "author": "jaseg",
     "exts": [
-      "pdf",
-      "jpg"
+      "pdf"
     ],
     "language": "german",
     "license": "CC0-1",
@@ -375,7 +448,6 @@
   },
   "cyber_sticker_export": {
     "exts": [
-      "jpg",
       "pdf"
     ],
     "license": "CC-BY-NC 4.0",
@@ -390,6 +462,12 @@
     "language": "german",
     "title": "Wir. Dienen. Neuland."
   },
+  "easterhegg-2017-sticker-contour": {
+    "exts": [
+      "pdf",
+      "svg"
+    ]
+  },
   "einmal_mit_profis": {
     "author": "markush",
     "exts": [
@@ -400,6 +478,12 @@
     "license": "CC0-1.0",
     "link": "https://github.com/SFTtech/sticker",
     "title": "Einmal mit Profis arbeiten"
+  },
+  "employees_libc": {
+    "exts": [
+      "pdf",
+      "svg"
+    ]
   },
   "es_gibt_etliche_methoden": {
     "author": "maryshiro",
@@ -467,8 +551,7 @@
   },
   "freifunk-kiel-skyline_85x55mm": {
     "exts": [
-      "png",
-      "jpg"
+      "png"
     ],
     "license": "CC0-1.0",
     "link": "https://freifunk.in-kiel.de",
@@ -476,8 +559,7 @@
   },
   "freifunk-kiel_85x55mm": {
     "exts": [
-      "pdf",
-      "jpg"
+      "pdf"
     ],
     "license": "CC0-1.0",
     "link": "https://freifunk.in-kiel.de",
@@ -485,8 +567,7 @@
   },
   "freifunk-nord_85x55mm": {
     "exts": [
-      "pdf",
-      "jpg"
+      "pdf"
     ],
     "license": "CC0-1.0",
     "link": "https://nord.freifunk.net",
@@ -495,8 +576,7 @@
   "freifunk-router-neutral_35x105mm_1": {
     "exts": [
       "eps",
-      "pdf",
-      "jpg"
+      "pdf"
     ],
     "language": "german",
     "link": "https://wiki.freifunk.net/Freifunk-Styles/Aufkleber",
@@ -505,8 +585,7 @@
   "freifunk-router-neutral_35x105mm_2": {
     "exts": [
       "eps",
-      "pdf",
-      "jpg"
+      "pdf"
     ],
     "language": "german",
     "link": "https://wiki.freifunk.net/Freifunk-Styles/Aufkleber",
@@ -515,8 +594,7 @@
   "freifunk-router-neutral_35x105mm_3": {
     "exts": [
       "eps",
-      "pdf",
-      "jpg"
+      "pdf"
     ],
     "language": "german",
     "link": "https://wiki.freifunk.net/Freifunk-Styles/Aufkleber",
@@ -525,8 +603,7 @@
   "freifunk-router-neutral_35x105mm_4": {
     "exts": [
       "eps",
-      "pdf",
-      "jpg"
+      "pdf"
     ],
     "language": "german",
     "link": "https://wiki.freifunk.net/Freifunk-Styles/Aufkleber",
@@ -535,8 +612,7 @@
   "freifunk-router-neutral_35x105mm_5": {
     "exts": [
       "eps",
-      "pdf",
-      "jpg"
+      "pdf"
     ],
     "language": "german",
     "link": "https://wiki.freifunk.net/Freifunk-Styles/Aufkleber",
@@ -586,8 +662,7 @@
   "gnu_meditate": {
     "author": "Nevrax Design Team",
     "exts": [
-      "svg",
-      "jpg"
+      "svg"
     ],
     "license": "GPL-3.0-or-later/GFDL-1.1-or-later",
     "link": "https://www.gnu.org/graphics/meditate.html",
@@ -929,14 +1004,25 @@
     "tags": "cryptoparty",
     "title": "GPG TOR OTR WTF"
   },
+  "gpn15": {
+    "exts": [
+      "svg"
+    ],
+    "title": "15. Gulaschprogrammiernacht"
+  },
   "hacker-inside-marlin-2-logo": {
     "exts": [
-      "svg",
-      "jpg"
+      "svg"
     ],
     "language": "english",
     "license": "CC0-1.0",
     "link": "https://freesvg.org/hacker-inside-marvin-20"
+  },
+  "hackerhalfmoon": {
+    "exts": [
+      "pdf",
+      "svg"
+    ]
   },
   "heart-of-code": {
     "exts": [
@@ -1061,8 +1147,7 @@
   "hex-stickers-covr": {
     "exts": [
       "png",
-      "svg",
-      "jpg"
+      "svg"
     ],
     "license": "CC0-1.0",
     "link": "https://github.com/rstudio/hex-stickers/",
@@ -1143,8 +1228,7 @@
   "hex-stickers-flexdashboard": {
     "exts": [
       "png",
-      "svg",
-      "jpg"
+      "svg"
     ],
     "license": "CC0-1.0",
     "link": "https://github.com/rstudio/hex-stickers/",
@@ -1171,8 +1255,7 @@
   "hex-stickers-furrr": {
     "exts": [
       "png",
-      "svg",
-      "jpg"
+      "svg"
     ],
     "license": "CC0-1.0",
     "link": "https://github.com/rstudio/hex-stickers/",
@@ -1190,8 +1273,7 @@
   "hex-stickers-glue": {
     "exts": [
       "png",
-      "svg",
-      "jpg"
+      "svg"
     ],
     "license": "CC0-1.0",
     "link": "https://github.com/rstudio/hex-stickers/",
@@ -1218,8 +1300,7 @@
   "hex-stickers-googlesheets4": {
     "exts": [
       "png",
-      "svg",
-      "jpg"
+      "svg"
     ],
     "license": "CC0-1.0",
     "link": "https://github.com/rstudio/hex-stickers/",
@@ -1228,8 +1309,7 @@
   "hex-stickers-gt": {
     "exts": [
       "png",
-      "svg",
-      "jpg"
+      "svg"
     ],
     "license": "CC0-1.0",
     "link": "https://github.com/rstudio/hex-stickers/",
@@ -1238,8 +1318,7 @@
   "hex-stickers-gtable": {
     "exts": [
       "png",
-      "svg",
-      "jpg"
+      "svg"
     ],
     "license": "CC0-1.0",
     "link": "https://github.com/rstudio/hex-stickers/",
@@ -1347,8 +1426,7 @@
   "hex-stickers-pins": {
     "exts": [
       "png",
-      "svg",
-      "jpg"
+      "svg"
     ],
     "license": "CC0-1.0",
     "link": "https://github.com/rstudio/hex-stickers/",
@@ -1366,8 +1444,7 @@
   "hex-stickers-pkgdown": {
     "exts": [
       "png",
-      "svg",
-      "jpg"
+      "svg"
     ],
     "license": "CC0-1.0",
     "link": "https://github.com/rstudio/hex-stickers/",
@@ -1385,8 +1462,7 @@
   "hex-stickers-purrr": {
     "exts": [
       "png",
-      "svg",
-      "jpg"
+      "svg"
     ],
     "license": "CC0-1.0",
     "link": "https://github.com/rstudio/hex-stickers/",
@@ -1395,8 +1471,7 @@
   "hex-stickers-r2d3": {
     "exts": [
       "png",
-      "svg",
-      "jpg"
+      "svg"
     ],
     "license": "CC0-1.0",
     "link": "https://github.com/rstudio/hex-stickers/",
@@ -1405,8 +1480,7 @@
   "hex-stickers-ragg": {
     "exts": [
       "png",
-      "svg",
-      "jpg"
+      "svg"
     ],
     "license": "CC0-1.0",
     "link": "https://github.com/rstudio/hex-stickers/",
@@ -1469,8 +1543,7 @@
   "hex-stickers-reticulate": {
     "exts": [
       "png",
-      "svg",
-      "jpg"
+      "svg"
     ],
     "license": "CC0-1.0",
     "link": "https://github.com/rstudio/hex-stickers/",
@@ -1479,8 +1552,7 @@
   "hex-stickers-rlang": {
     "exts": [
       "png",
-      "svg",
-      "jpg"
+      "svg"
     ],
     "license": "CC0-1.0",
     "link": "https://github.com/rstudio/hex-stickers/",
@@ -1507,8 +1579,7 @@
   "hex-stickers-rray": {
     "exts": [
       "png",
-      "svg",
-      "jpg"
+      "svg"
     ],
     "license": "CC0-1.0",
     "link": "https://github.com/rstudio/hex-stickers/",
@@ -1553,8 +1624,7 @@
   "hex-stickers-rvest": {
     "exts": [
       "png",
-      "svg",
-      "jpg"
+      "svg"
     ],
     "license": "CC0-1.0",
     "link": "https://github.com/rstudio/hex-stickers/",
@@ -1572,8 +1642,7 @@
   "hex-stickers-scales": {
     "exts": [
       "png",
-      "svg",
-      "jpg"
+      "svg"
     ],
     "license": "CC0-1.0",
     "link": "https://github.com/rstudio/hex-stickers/",
@@ -1627,8 +1696,7 @@
   "hex-stickers-stringr": {
     "exts": [
       "png",
-      "svg",
-      "jpg"
+      "svg"
     ],
     "license": "CC0-1.0",
     "link": "https://github.com/rstudio/hex-stickers/",
@@ -1637,8 +1705,7 @@
   "hex-stickers-tensorflow": {
     "exts": [
       "png",
-      "svg",
-      "jpg"
+      "svg"
     ],
     "license": "CC0-1.0",
     "link": "https://github.com/rstudio/hex-stickers/",
@@ -1665,8 +1732,7 @@
   "hex-stickers-tibble": {
     "exts": [
       "png",
-      "svg",
-      "jpg"
+      "svg"
     ],
     "license": "CC0-1.0",
     "link": "https://github.com/rstudio/hex-stickers/",
@@ -1693,8 +1759,7 @@
   "hex-stickers-tidypredict": {
     "exts": [
       "png",
-      "svg",
-      "jpg"
+      "svg"
     ],
     "license": "CC0-1.0",
     "link": "https://github.com/rstudio/hex-stickers/",
@@ -1739,8 +1804,7 @@
   "hex-stickers-vctrs": {
     "exts": [
       "png",
-      "svg",
-      "jpg"
+      "svg"
     ],
     "license": "CC0-1.0",
     "link": "https://github.com/rstudio/hex-stickers/",
@@ -1749,8 +1813,7 @@
   "hex-stickers-withr": {
     "exts": [
       "png",
-      "svg",
-      "jpg"
+      "svg"
     ],
     "license": "CC0-1.0",
     "link": "https://github.com/rstudio/hex-stickers/",
@@ -1768,8 +1831,7 @@
   "hex-stickers-xaringan": {
     "exts": [
       "png",
-      "svg",
-      "jpg"
+      "svg"
     ],
     "license": "CC0-1.0",
     "link": "https://github.com/rstudio/hex-stickers/",
@@ -1787,14 +1849,19 @@
   "i hate computers": {
     "author": "jaseg",
     "exts": [
-      "pdf",
-      "jpg"
+      "pdf"
     ],
     "language": "german",
     "license": "CC0-1",
     "link": "https://github.com/jaseg/sticker",
     "notes": "3mm bleed box",
     "title": "I hate computers!"
+  },
+  "iipv6": {
+    "exts": [
+      "pdf",
+      "svg"
+    ]
   },
   "internet_warning": {
     "author": "markush",
@@ -1808,6 +1875,35 @@
     "license": "CC0-1.0",
     "link": "https://github.com/SFTtech/sticker",
     "title": "Device may contain Internet"
+  },
+  "just_do_git_logo": {
+    "exts": [
+      "pdf",
+      "svg"
+    ]
+  },
+  "just_do_git_swoosh": {
+    "exts": [
+      "pdf",
+      "svg"
+    ]
+  },
+  "kabelknoten": {
+    "exts": [
+      "svg"
+    ]
+  },
+  "kein_backup": {
+    "exts": [
+      "pdf",
+      "svg"
+    ]
+  },
+  "keine_software_illegal": {
+    "exts": [
+      "pdf",
+      "svg"
+    ]
   },
   "landesverraeter": {
     "author": "maryshiro",
@@ -1847,11 +1943,22 @@
     ],
     "link": "https://wiki.c3d2.de/Sticker"
   },
+  "meta": {
+    "exts": [
+      "pdf",
+      "svg"
+    ]
+  },
+  "mirror_beauty": {
+    "exts": [
+      "pdf",
+      "svg"
+    ]
+  },
   "official gnu": {
     "author": "Victor Siame",
     "exts": [
-      "svg",
-      "jpg"
+      "svg"
     ],
     "license": "LAL-1.3",
     "link": "https://www.gnu.org/graphics/gnusvgart.html",
@@ -1867,11 +1974,16 @@
     "link": "https://github.com/SFTtech/sticker",
     "tags": "openage"
   },
+  "pesthoernchen": {
+    "exts": [
+      "pdf",
+      "svg"
+    ]
+  },
   "radioactive-export": {
     "author": "jaseg",
     "exts": [
-      "pdf",
-      "jpg"
+      "pdf"
     ],
     "language": "german",
     "license": "CC0-1",
@@ -1879,6 +1991,12 @@
     "notes": "3mm bleed box",
     "tags": "caution",
     "title": "device is a tiny bit radioactive"
+  },
+  "refugees_welcome": {
+    "exts": [
+      "pdf",
+      "svg"
+    ]
   },
   "resistance_sticker_print": {
     "author": "maryshiro",
@@ -1933,8 +2051,7 @@
   "sticker chelsea defdef": {
     "author": "maryshiro",
     "exts": [
-      "png",
-      "jpg"
+      "png"
     ],
     "language": "english",
     "link": "https://maryshi.ro",
@@ -1950,11 +2067,16 @@
     "link": "https://media.c3d2.de/u/vv01f/m/they-have-the-key/",
     "title": "NSA MONITORED DEVICE"
   },
+  "stiftung_warentest_2017": {
+    "exts": [
+      "pdf",
+      "svg"
+    ]
+  },
   "system_ist_sicher": {
     "author": "jj",
     "exts": [
       "pdf",
-      "jpg",
       "uv.pdf",
       "bl.svg"
     ],
@@ -1963,11 +2085,22 @@
     "link": "https://github.com/SFTtech/sticker",
     "title": "Dieses System ist sicher"
   },
+  "toilette_videoueberwachung": {
+    "exts": [
+      "pdf",
+      "svg"
+    ]
+  },
+  "trump_schwachkopf": {
+    "exts": [
+      "pdf",
+      "svg"
+    ]
+  },
   "tuwat-a8": {
     "author": "irimi1",
     "exts": [
-      "xcf",
-      "jpg"
+      "xcf"
     ],
     "license": "CC0-1.0",
     "link": "https://github.com/irimi1/cyberwehr-aufkleber"
@@ -2002,6 +2135,30 @@
     ],
     "link": "https://www.deviantart.com/liggliluff/art/Vim-329279125",
     "tags": "vim pony"
+  },
+  "voc_logo": {
+    "exts": [
+      "svg"
+    ],
+    "tags": "voc"
+  },
+  "voc_sticker": {
+    "exts": [
+      "pdf",
+      "svg"
+    ]
+  },
+  "voc_winkekatze": {
+    "exts": [
+      "svg"
+    ],
+    "tags": "voc"
+  },
+  "voctocat": {
+    "exts": [
+      "svg"
+    ],
+    "tags": "voc"
   },
   "voll_gut": {
     "author": "jj",

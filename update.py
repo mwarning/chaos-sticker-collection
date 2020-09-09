@@ -108,12 +108,6 @@ def ask_value(prompt, is_valid, prefill=""):
         value = rlinput(prompt, value)
     return value.strip()
 
-def get_size(path):
-    with open(path) as file:
-        # move the cursor to the end of the file
-        file.seek(0,2)
-        return file.tell()
-
 # add or update image
 def handle_image(i, n, prev, db, image):
     print('#######################################')
@@ -136,7 +130,7 @@ def handle_image(i, n, prev, db, image):
                 return True
         return False
 
-    if not endswith_any(image, [".svg", ".pdf", ".jpg", ".png", ".eps", ".tif", ".ai"]):
+    if not endswith_any(image, [".svg", ".pdf", ".jpg", ".webp", ".png", ".eps", ".tif", ".ai"]):
         print("File has invalid format extension => ignore")
         return 0
 
@@ -219,31 +213,13 @@ def handle_image(i, n, prev, db, image):
 
     return 1
 
-def resize_files(db):
+def add_previews(db):
     for name in db:
-        min_size = float('inf')
-        min_ext = ''
-        has_jpg = False
-        for ext in db[name]['exts']:
-            size = get_size(f'images/{name}.{ext}')
-            min_size = min(size, min_size)
-            min_ext = ext
-            if ext == 'jpg':
-                has_jpg = True
-
-        if min_size > (100 * 1000):
-            answer = ask_value(f'images/{name}.{min_ext} might be too big ({min_size/1000} KB). Add small jpg? [Y, n] ', lambda v: v in ["y", "n", ""], "")
-            if answer == "y" or answer == "":
-                if not has_jpg:
-                    print(f'images/{name}.{min_ext} too big ({min_size/1000} KB) => resize')
-                    os.system(f'convert -resize 300 "images/{name}.{min_ext}" "images/{name}.jpg"')
-                    new_size = get_size(f'images/{name}.jpg')
-                    print(f' Now: {new_size/1000} KB')
-                    db[name]['exts'].append('jpg')
-                else:
-                    print('Don\'t know to what to convert images/{name}.{min_ext} to for smaller image. => skip')
-            else:
-                print('=> skip')
+        if not os.path.isfile(f'images/{name}_preview.webp'):
+            for ext in db[name]['exts']:
+                rc = os.system(f'convert -resize 300 "images/{name}.{ext}" "images/{name}_preview.webp"')
+                if rc == 0:
+                    break
 
 def save_database(db, new_image_count):
     # write anyway, this will format manual edits to data.json
@@ -259,7 +235,8 @@ def main():
     def get_image_set():
         images = set()
         for filename in os.listdir("images/"):
-            images.add(filename)
+            if not filename.endswith("_preview.webp"):
+                images.add(filename)
         return images
 
     def get_db_set(db):
@@ -320,7 +297,7 @@ def main():
         if ret < 0:
             break
 
-    resize_files(db)
+    add_previews(db)
 
     save_database(db, new_image_count)
 

@@ -60,7 +60,7 @@ function getUnderline(name, obj) {
   if ('exts' in obj) {
     const e = $('#files')
     const links = obj['exts'].reduce(function(acc, ext) {
-      acc.push('<a href="images/' + name + '.' + ext + '">' + ext + '</a>')
+      acc.push('<a href="images/' + encodeURIComponent(name + '.' + ext) + '">' + ext + '</a>')
       return acc
     }, [])
     html.push('[' + links.join(', ') + ']')
@@ -106,7 +106,6 @@ function addImages(myJson, filter) {
     p.innerHTML = getUnderline(name, obj)
     div.classList.add('container');
 
-    //const img = document.createElement('img');
     img.setAttribute('data-lazy-name', name);
     img.classList.add('lazy-loading');
     $('#imagesContainer').appendChild(div);
@@ -119,30 +118,15 @@ function addImages(myJson, filter) {
   $('#count').innerText = count
 }
 
-function get_preferred_ext(exts) {
-  // short string first
-  exts.sort((a, b) => a.length - b.length);
-
-  // get preferred image extensions
-  for (const fmt of ["gif", "jpg", "svg", "png", "tif", "pdf"]) {
-    for (const ext of exts) {
-      if (ext.endsWith(fmt)) {
-        return ext
-      }
-    }
-  }
-  return exts[0]
-}
-
 function lazyLoad(target, myJson) {
   const obs = new IntersectionObserver((entries, observer) => {
     entries.forEach(entry => {
       if (entry.isIntersecting) {
         const img = entry.target
         const name = img.getAttribute('data-lazy-name')
-        const path = 'images/' + name + '.' + get_preferred_ext(myJson[name]["exts"])
+        const src = 'images/' + encodeURIComponent(name + '_preview.webp')
 
-        img.setAttribute('src', encodeURI(path))
+        img.setAttribute('src', src)
         img.classList.add('fadeIn')
 
         observer.disconnect()
