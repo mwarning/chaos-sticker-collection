@@ -1,0 +1,57 @@
+<!doctype html>
+<html>
+  <head>
+    <title>Edit&Submit</title>
+    <link rel="stylesheet" href="submit.css" />
+  </head>
+  <body>
+    <h1>Submit</h1>
+    <b>This site is not operational yet!</b>
+    <p>Use the form below to change existing entries or submit new stickers.</p>
+    <p>Please be aware that any changes will be applied after a review by a human and a sniff from a dog. This can take some time.</p>
+    <p>As an alternative, you can also create a merge request on <a href="https://github.com/mwarning/chaos-sticker-collection">GitHub</a>.</p>
+
+    <div id="form">
+      <div><label>Tags</label><input id="tags" type="text" name="tags"></div>
+      <div><label>Title</label><input id="title" type="text" name="title"></div>
+      <div><label>Author</label><input id="author" type="text" name="author"></div>
+      <div><label>Notes</label><input id="notes" type="text" name="notes"></div>
+      <div><label>License</label>
+        <select id="license" name="license">
+          <option value="" default="default">Unknown</option>
+          <option value="CC0-1.0">CC0-1.0</option>
+          <option value="Unlicense">Unlicense</option>
+          <option value="CC-BY-3.0">CC-BY-3.0</option>
+          <option value="CC-BY-SA-4.0">CC-BY-SA-4.0</option>
+          <option value="CC-BY-SA-3.0">CC-BY-SA-3.0</option>
+          <option value="LAL-1.3">LAL-1.3</option>
+        </select>
+      </div>
+      <div>
+        <label>Language</label>
+        <select id="language" name="language">
+          <option value="" default="default">Unknown</option>
+          <option value="english">English</option>
+          <option value="french">French</option>
+          <option value="dutch">Dutch</option>
+          <option value="german">German</option>
+        </select>
+      </div>
+      <div>
+        <label>Image Files</label>
+        <div>
+          <div>
+            <input id="file_input" type="file" name="files" accept=".jpg,.png,.svg,.pdf,.tiff,.ai,.eps">
+            <button id="file_select">Select File</button>
+          </div>
+          <span id="file_list"><span>
+        </div>
+      </div>
+      <div>
+        <button id="submit">Submit</button>
+      </div>
+    </div>
+    <script src="submit.js"></script>
+    </script>
+  </body>
+</html>
