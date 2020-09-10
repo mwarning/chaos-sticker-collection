@@ -680,6 +680,13 @@
     "tags": "nsa",
     "title": "FCK NSA"
   },
+  "freifunk-ehingen-logo-twitter": {
+    "exts": [
+      "png"
+    ],
+    "link": "https://wiki.freifunk.net/Datei:Ff-ehingen_twitter_logo.png",
+    "tags": "freifunk"
+  },
   "freifunk-fulda-logo-lilie_v1": {
     "exts": [
       "png"
@@ -711,6 +718,12 @@
     ],
     "language": "german",
     "link": "https://hamburg.freifunk.net/2015/12/aufkleber.html"
+  },
+  "freifunk-helgoland": {
+    "exts": [
+      "png"
+    ],
+    "tags": "freifunk"
   },
   "freifunk-kiel-skyline_85x55mm": {
     "exts": [
@@ -781,6 +794,13 @@
     "link": "https://wiki.freifunk.net/Freifunk-Styles/Aufkleber",
     "tags": "freifunk"
   },
+  "freifunk-wuppertal-logo-twitter": {
+    "exts": [
+      "eps",
+      "pdf"
+    ],
+    "tags": "freifunk"
+  },
   "freifunk_gr\u00f6\u00dftes_funknetz": {
     "author": "mwarning",
     "exts": [
@@ -822,6 +842,12 @@
     "tags": "freifunk siedler",
     "title": "L\u00e4ngste WLAN-Verbindung"
   },
+  "freifunk_neutral_freies_WLAN_aufkleber": {
+    "exts": [
+      "png"
+    ],
+    "tags": "freifunk"
+  },
   "freiheitsfoo_tree": {
     "exts": [
       "jpg"
@@ -851,6 +877,12 @@
       "jpg"
     ],
     "link": "https://thestickerarchive.tumblr.com"
+  },
+  "github-error-page-unicorn": {
+    "exts": [
+      "png"
+    ],
+    "link": "https://github.com"
   },
   "gnu_meditate": {
     "author": "Nevrax Design Team",
@@ -1185,6 +1217,14 @@
     "license": "CC-BY-3.0",
     "link": "https://github.com/tenntenn/gopher-stickers",
     "tags": "gopher"
+  },
+  "gopher_stickers": {
+    "exts": [
+      "ai",
+      "png"
+    ],
+    "license": "CC-BY-3.0",
+    "link": "https://github.com/tenntenn/gopher-stickers/"
   },
   "gpg_tor_otr-wtf": {
     "author": "maryshiro",
@@ -2331,7 +2371,7 @@
     "tags": "caution",
     "title": "device is a tiny bit radioactive"
   },
-  "refreshing-memories": {
+  "35c3-refreshing-memories": {
     "exts": [
       "jpg"
     ],
@@ -2499,7 +2539,7 @@
     "license": "CC0-1.0",
     "link": "https://github.com/irimi1/cyberwehr-aufkleber"
   },
-  "urlaub": {
+  "urlab": {
     "exts": [
       "jpg"
     ],
@@ -2532,6 +2572,14 @@
       "jpg"
     ],
     "link": "https://thestickerarchive.tumblr.com"
+  },
+  "vigo_the_carpathian": {
+    "exts": [
+      "jpg"
+    ],
+    "link": "https://www.reddit.com/r/pics/comments/3p910h/hires_version_of_vigo_the_carpathian_painting_in/",
+    "tags": "ghostbusters",
+    "title": "Vigo the Carpathian"
   },
   "vim-actual-size-export": {
     "author": "Liggliluff",
