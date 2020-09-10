@@ -22,6 +22,12 @@
     ],
     "link": "https://thestickerarchive.tumblr.com"
   },
+  "23c3_logo": {
+    "exts": [
+      "jpg"
+    ],
+    "link": "https://shop.digitalcourage.de/manufacturer/chaos-computer-club.html"
+  },
   "27C3": {
     "exts": [
       "jpg"
@@ -316,6 +322,13 @@
     "license": "CC-BY-SA-3.0",
     "link": "https://en.m.wikipedia.org/wiki/File:Tor-logo-2011-sticker.svg",
     "tags": "tor logo"
+  },
+  "Vorratsmatenspeicherung": {
+    "exts": [
+      "jpg"
+    ],
+    "language": "german",
+    "link": "https://shop.digitalcourage.de/manufacturer/chaos-computer-club.html"
   },
   "WinLess-Logo_1290x480": {
     "author": "luckydonald",
