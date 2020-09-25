@@ -195,7 +195,7 @@ def add_previews(db):
                 else:
                         print("Failed to create preview for images/{}/preview.webp".format(name))
 
-def updateFileListings(path, create_index=False):
+def update_file_listings(path, create_index=False):
     entries = []
     for entry in glob.glob("{}/*".format(path)):
         if not entry.endswith("/index.html"):
@@ -217,7 +217,7 @@ def updateFileListings(path, create_index=False):
 
     for entry in entries:
         if os.path.isdir(entry):
-            updateFileListings(entry, True)
+            update_file_listings(entry, True)
 
 def save_database(db, new_image_count):
     # write anyway, this will format manual edits to data.json
@@ -287,7 +287,7 @@ def main():
                 break
 
     add_previews(db)
-    updateFileListings("images")
+    update_file_listings("images")
 
     save_database(db, new_image_count)
 
