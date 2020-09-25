@@ -260,21 +260,6 @@
     "author": "Reinhard Schrutzki"
   },
   "Politische Aktion": {},
-  "SecuringHardware JTAG": {
-    "author": "securinghardware.com",
-    "link": "https://github.com/securingdev/awesome-stickers",
-    "title": "JTAG"
-  },
-  "SecuringHardware SPI": {
-    "author": "securinghardware.com",
-    "link": "https://github.com/securingdev/awesome-stickers",
-    "title": "SPI"
-  },
-  "SecuringHardware UART": {
-    "author": "securinghardware.com",
-    "link": "https://github.com/securingdev/awesome-stickers",
-    "title": "UART"
-  },
   "Security Innovation": {
     "link": "https://github.com/securingdev/awesome-stickers"
   },
