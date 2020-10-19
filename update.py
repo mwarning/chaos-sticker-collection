@@ -173,7 +173,7 @@ def add_previews(db):
         for entry in glob.glob("images/{}/*".format(name), recursive=True):
             if not os.path.isfile(entry):
                 continue
-            if entry.endswith(".pdf") or entry.endswith(".png") or entry.endswith(".jpg"):
+            if entry.endswith(".pdf") or entry.endswith(".png") or entry.endswith(".jpg") or entry.endswith(".svg"):
                 images.append(entry)
         return images
 
