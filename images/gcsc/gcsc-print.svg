@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="57.999996mm"
+   height="57.999996mm"
+   viewBox="0 0 57.999995 57.999995"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.4 5da689c313, 2019-01-14"
+   sodipodi:docname="gcsc-print.svg">
+  <defs
+     id="defs2">
+    <linearGradient
+       id="linearGradient1114"
+       inkscape:collect="always">
+      <stop
+         id="stop1110"
+         offset="0"
+         style="stop-color:#02328b;stop-opacity:1" />
+      <stop
+         style="stop-color:#033694;stop-opacity:1"
+         offset="0.51233453"
+         id="stop1116" />
+      <stop
+         id="stop1118"
+         offset="0.74958432"
+         style="stop-color:#0837a0;stop-opacity:1" />
+      <stop
+         id="stop1112"
+         offset="1"
+         style="stop-color:#0b3aa8;stop-opacity:1" />
+    </linearGradient>
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 148.49999 : 1"
+       inkscape:vp_y="0 : 999.99995 : 0"
+       inkscape:vp_z="210 : 148.49999 : 1"
+       inkscape:persp3d-origin="105 : 98.999995 : 1"
+       id="perspective1039" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect1251"
+       effect="spiro" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect1251-4"
+       effect="spiro" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1114"
+       id="linearGradient1100"
+       x1="294.66464"
+       y1="200.27516"
+       x2="322.77472"
+       y2="200.27516"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(0,0.04305187)" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="2.8284271"
+     inkscape:cx="303.45216"
+     inkscape:cy="167.45953"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="3834"
+     inkscape:window-height="2087"
+     inkscape:window-x="0"
+     inkscape:window-y="32"
+     inkscape:window-maximized="0"
+     inkscape:snap-global="false"
+     showguides="false"
+     inkscape:guide-bbox="true">
+    <sodipodi:guide
+       position="5.0377285,25.083272"
+       orientation="1,0"
+       id="guide1079"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="31.487388,22.276942"
+       orientation="1,0"
+       id="guide1081"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="11.024568,22.908368"
+       orientation="0,1"
+       id="guide1102"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="12.989008,12.454789"
+       orientation="0,1"
+       id="guide1104"
+       inkscape:locked="false" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-290.51558,-165.55772)">
+    <g
+       id="g1168"
+       transform="matrix(1.7081514,0,0,1.7081514,-207.85344,-156.18825)">
+      <rect
+         style="opacity:1;fill:#8b006e;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:11.15384579;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect836"
+         width="33.954834"
+         height="33.954834"
+         x="291.75928"
+         y="188.35916" />
+      <path
+         sodipodi:nodetypes="ccccccc"
+         inkscape:connector-curvature="0"
+         id="path1071"
+         d="m 294.68071,192.95059 v 14.69987 h 28.13005 v -13.79811 h -3.74189 v -0.90176 z"
+         style="opacity:1;fill:url(#linearGradient1100);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4.23333311;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <text
+         transform="scale(1.2962324,0.7714666)"
+         id="text1075"
+         y="260.16251"
+         x="248.74525"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.42870331px;line-height:100%;font-family:Impact;-inkscape-font-specification:Impact;font-variant-ligatures:discretionary-ligatures historical-ligatures;font-variant-caps:normal;font-variant-numeric:lining-nums tabular-nums slashed-zero;font-feature-settings:normal;text-align:end;writing-mode:lr-tb;text-anchor:end;opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4.23333311;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Anton;-inkscape-font-specification:Anton;fill:#ffffff;stroke-width:4.23333311"
+           y="260.16251"
+           x="248.74525"
+           id="tspan1073"
+           sodipodi:role="line">GUTES</tspan></text>
+      <text
+         transform="scale(1.3755683,0.72697225)"
+         id="text1087"
+         y="290.45157"
+         x="234.2565"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.35407639px;line-height:100%;font-family:Anton;-inkscape-font-specification:'Anton Bold';font-variant-ligatures:discretionary-ligatures historical-ligatures;font-variant-caps:normal;font-variant-numeric:lining-nums tabular-nums slashed-zero;font-feature-settings:normal;text-align:end;writing-mode:lr-tb;text-anchor:end;opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4.23333311;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Anton;-inkscape-font-specification:'Anton Bold';fill:#ffffff;stroke-width:4.23333311"
+           y="290.45157"
+           x="234.2565"
+           id="tspan1085"
+           sodipodi:role="line">SCHLECHTES</tspan></text>
+      <text
+         id="text2933-3"
+         y="298.41232"
+         x="222.9752"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.2164793px;line-height:100%;font-family:Anton;-inkscape-font-specification:'Anton Bold';font-variant-ligatures:discretionary-ligatures historical-ligatures;font-variant-caps:normal;font-variant-numeric:lining-nums tabular-nums slashed-zero;font-feature-settings:normal;text-align:end;writing-mode:lr-tb;text-anchor:end;opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4.23333311;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         xml:space="preserve"
+         transform="scale(1.4458427,0.69163818)"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Anton;-inkscape-font-specification:'Anton Bold';fill:#ffffff;stroke-width:4.23333311"
+           y="298.41232"
+           x="222.9752"
+           id="tspan2931-6"
+           sodipodi:role="line">CYBER</tspan></text>
+      <text
+         id="text2937-7"
+         y="308.60538"
+         x="226.77643"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.3543396px;line-height:100%;font-family:Anton;-inkscape-font-specification:'Anton Bold';font-variant-ligatures:discretionary-ligatures historical-ligatures;font-variant-caps:normal;font-variant-numeric:lining-nums tabular-nums slashed-zero;font-feature-settings:normal;text-align:end;writing-mode:lr-tb;text-anchor:end;opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4.23333311;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         xml:space="preserve"
+         transform="scale(1.4216084,0.7034286)"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Anton;-inkscape-font-specification:'Anton Bold';fill:#ffffff;stroke-width:4.23333311"
+           y="308.60538"
+           x="226.77643"
+           id="tspan2935-5"
+           sodipodi:role="line">CYBER</tspan></text>
+    </g>
+  </g>
+</svg>
