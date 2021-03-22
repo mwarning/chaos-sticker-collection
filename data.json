@@ -976,6 +976,13 @@
   "gpn15": {
     "title": "15. Gulaschprogrammiernacht"
   },
+  "hackback": {
+    "language": "english",
+    "license": "CC0-1.0",
+    "link": "https://lnrt.de/hackback.svg",
+    "tags": "hackback",
+    "title": "ANTIFASCIST HACKBACK"
+  },
   "hacker-inside-marlin-2-logo": {
     "language": "english",
     "license": "CC0-1.0",
@@ -1569,6 +1576,13 @@
     "link": "https://thestickerarchive.tumblr.com"
   },
   "mirror_beauty": {},
+  "nix-anarchy": {
+    "language": "english",
+    "license": "CC0-1.0",
+    "link": "https://github.com/krebs/nix-anarchy",
+    "tags": "nix anarchy",
+    "title": "Smash the state."
+  },
   "no_log_no_cry": {
     "link": "https://thestickerarchive.tumblr.com"
   },
