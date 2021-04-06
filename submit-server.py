@@ -22,18 +22,23 @@ cgitb.enable()
 
 # byte size of a single submission
 INBOX_SIZE_BYTES = 1_000_000_000
-# minimum seconds beween submissions 
+
+# minimum seconds between submissions
 SUBMIT_INTERVAL_SEC = 20
 
 
 last_submission = 0
-fn_regex = re.compile(r'^[0-9a-zA-Z_.-]{1,32}$')
+fn_regex = re.compile(r'^[0-9a-zA-Z_.-]{3,64}$')
+
 
 def check_file_name(filename):
     return bool(fn_regex.match(filename))
 
 def check_text_value(text):
     return len(text) < 64
+
+def check_file_size(data):
+    return len(data) < (10*1000*1000)
 
 def get_total_size(start_path):
     total_size = 0
@@ -86,11 +91,11 @@ def store_submission(form):
             file_name = os.path.basename(entry.filename)
             file_data = entry.value
 
-            if not check_file_size(entry.file):
-                return (False, "File too big.")
+            if not check_file_size(file_data):
+                return (False, "File too big: {}".format(file_name))
 
             if not check_file_name(file_name):
-                return (False, "Invalid filename: {}".format(file_name))
+                return (False, "Invalid file name: {}".format(file_name))
 
             files[file_name] = file_data
 
@@ -121,10 +126,10 @@ class MyHandler(http.server.BaseHTTPRequestHandler):
 
     def do_OPTIONS(self):
         self.send_response(200, "ok")
-        self.send_header('Access-Control-Allow-Credentials', 'true')
+        self.send_header('Access-Control-Allow-Credentials', 'false')
         self.send_header('Access-Control-Allow-Origin', '*')
         self.send_header('Access-Control-Allow-Methods', 'GET, POST, OPTIONS')
-        self.send_header("Access-Control-Allow-Headers", "X-Requested-With, Content-type")
+        self.send_header('Access-Control-Allow-Headers', '*')
 
     def do_POST(self, *args, **kwargs):
         #content_len = int(self.headers.get('content-length'))
@@ -150,8 +155,8 @@ class MyHandler(http.server.BaseHTTPRequestHandler):
             self.send_header('Access-Control-Allow-Credentials', 'true')
             self.send_header('Access-Control-Allow-Origin', '*')
             self.send_header('Access-Control-Allow-Methods', 'GET, POST, OPTIONS')
-            self.send_header("Content-type", "text/plain")
-            self.send_header("Content-length", str(len(body)))
+            self.send_header('Content-type', 'text/plain')
+            self.send_header('Content-length', str(len(body)))
             self.end_headers()
 
             self.wfile.write(body)

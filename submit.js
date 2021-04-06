@@ -1,6 +1,6 @@
 
 const remote_url = "//mwarning.de:4223/submit"
-let all_files = []
+let all_files = {}
 let entry_name = ""
 
 
@@ -46,8 +46,8 @@ window.onload = () => {
     const new_file = $('#file_input').files[0]
     $('#file_input').value = ""
 
-    for (let file in all_files) {
-      if (file.name == new_file.name) {
+    for (let name in all_files) {
+      if (name == new_file.name) {
         alert("File already added!")
         return
       }
@@ -57,12 +57,17 @@ window.onload = () => {
       entry_name = new_file.name.split(".")[0]
     } else {
       if (new_file.name.split(".")[0] != entry_name) {
-        alert("File prefixes need to be identical!")
+        alert("File names need to identical before the first dot in the name!")
         return
       }
     }
 
-    all_files.push(new_file)
+    if (!/^[0-9a-zA-Z_.-]{3,32}$/.test(new_file.name)) {
+      alert("File name has invalid characters or is not 3-64 characters long.");
+      return;
+    }
+
+    all_files[new_file.name] = new_file
 
     const p = document.createElement('p')
     p.innerText = new_file.name
@@ -72,7 +77,7 @@ window.onload = () => {
     button.setAttribute("name", new_file.name)
     button.onclick = function (e) {
       const name = e.target.getAttribute("name")
-      all_files.splice(all_files.indexOf(name), 1);
+      delete all_files[name]
       e.target.parentNode.remove()
     }
 
@@ -84,7 +89,7 @@ window.onload = () => {
 
   function clear() {
     entry_name = ""
-    all_files = []
+    all_files = {}
     $("#file_list").innerHTML = ""
   } 
 
@@ -120,8 +125,8 @@ window.onload = () => {
     formData.set('license', $("#license").value)
     formData.set('language', $("#language").value)
 
-    for (let file of all_files) {
-      formData.append("files[]", file)
+    for (let name in all_files) {
+      formData.append("files[]", all_files[name])
     }
 
     request.open("POST", remote_url)
