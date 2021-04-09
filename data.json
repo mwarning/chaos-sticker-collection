@@ -1503,6 +1503,11 @@
   "ipv4-nein-danke": {
     "link": "https://thestickerarchive.tumblr.com"
   },
+  "it-crowd-ticket": {
+    "language": "german",
+    "tags": "ticket itcrowd",
+    "title": "Wow, as klingt interessant!"
+  },
   "je-suis-cch": {
     "link": "https://thestickerarchive.tumblr.com"
   },
@@ -1616,6 +1621,11 @@
     "link": "https://github.com/securingdev/awesome-stickers",
     "notes": "Attrition / Jericho"
   },
+  "prowarning": {
+    "language": "english",
+    "tags": "warning",
+    "title": "WARNING - Disassembly only by the professionals"
+  },
   "pyongyang-hackerspace": {
     "link": "https://thestickerarchive.tumblr.com"
   },
@@ -1687,6 +1697,11 @@
     "link": "https://thestickerarchive.tumblr.com"
   },
   "spectre_bug": {},
+  "sprachgesteuert": {
+    "language": "german",
+    "tags": "sprachgesteuert papierhandtuch",
+    "title": "SAG LAUT: \"Papier Bitte\""
+  },
   "sternloetkolben_v01": {
     "author": "Thorsten Schroeder <ths@dev.io>",
     "license": "CC-BY-NC-SA-3.0",
