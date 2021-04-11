@@ -212,7 +212,7 @@ def update_file_listings(path, create_index=False):
             for entry in entries:
                 name = os.path.basename(entry)
                 if name != "preview.webp":
-                    file.write("   <li><a href=\"{}\">{}</li>\n".format(name, name))
+                    file.write("   <li><a href=\"{}\">{}</a></li>\n".format(name, name))
 
             file.write("  </ul>\n </body>\n</html>\n")
 
