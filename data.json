@@ -1603,6 +1603,11 @@
     "link": "https://www.gnu.org/graphics/gnusvgart.html",
     "tags": "gnu"
   },
+  "oko": {
+    "license": "Unlicense",
+    "tags": "oko",
+    "title": "\u00f8ko"
+  },
   "openage": {
     "author": "jj",
     "license": "CC0-1.0",
@@ -1692,6 +1697,11 @@
   },
   "snowden_ehrenmitglied": {
     "link": "https://thestickerarchive.tumblr.com"
+  },
+  "social-oko": {
+    "license": "Unlicense",
+    "tags": "social oko",
+    "title": "social \u00f8ko"
   },
   "sound-system-blow-whistle": {
     "link": "https://thestickerarchive.tumblr.com"
