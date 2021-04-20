@@ -13,7 +13,7 @@ label, button, p {
 
 input[type=text], select, textarea {
   font-size: 2em;
-  width: 100%;
+  width: 30em;
   padding: 0.5em;
   border: 1px solid #ccc;
   border-radius: 4px;
@@ -22,6 +22,7 @@ input[type=text], select, textarea {
 }
 
 label {
+  width: 8em;
   padding: 0.5em;
   display: inline-block;
 }
@@ -40,7 +41,7 @@ input[type=file] {
   border: none;
   border-radius: 4px;
   cursor: pointer;
-  float: right;
+  margin-top: 1em;
 }
 
 #file_list div * {
