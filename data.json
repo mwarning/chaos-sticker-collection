@@ -506,6 +506,11 @@
     "tags": "nsa",
     "title": "FCK NSA"
   },
+  "ferris_misbrand": {
+    "author": "Mikhai Korolev",
+    "license": "CC0-1.0",
+    "link": "https://github.com/mkrl/misbrands"
+  },
   "freifunk-bremen-logo": {},
   "freifunk-duesseldorf-logo-v3": {},
   "freifunk-ehingen-logo-twitter": {
@@ -737,6 +742,11 @@
   },
   "github-error-page-unicorn": {
     "link": "https://github.com"
+  },
+  "github_misbrand": {
+    "author": "Mikhai Korolev",
+    "license": "CC0-1.0",
+    "link": "https://github.com/mkrl/misbrands"
   },
   "gnu_meditate": {
     "author": "Nevrax Design Team",
@@ -1508,6 +1518,11 @@
     "tags": "ticket itcrowd",
     "title": "Wow, as klingt interessant!"
   },
+  "javascript_misbrand": {
+    "author": "Mikhai Korolev",
+    "license": "CC0-1.0",
+    "link": "https://github.com/mkrl/misbrands"
+  },
   "je-suis-cch": {
     "link": "https://thestickerarchive.tumblr.com"
   },
@@ -1615,6 +1630,11 @@
     "tags": "openage"
   },
   "pesthoernchen": {},
+  "pip_misbrand": {
+    "author": "Mikhai Korolev",
+    "license": "CC0-1.0",
+    "link": "https://github.com/mkrl/misbrands"
+  },
   "pirate-party-snowden": {
     "language": "dutch",
     "link": "https://thestickerarchive.tumblr.com"
@@ -1643,6 +1663,16 @@
     "tags": "caution",
     "title": "device is a tiny bit radioactive"
   },
+  "rails_misbrand": {
+    "author": "Mikhai Korolev",
+    "license": "CC0-1.0",
+    "link": "https://github.com/mkrl/misbrands"
+  },
+  "react_misbrand": {
+    "author": "Mikhai Korolev",
+    "license": "CC0-1.0",
+    "link": "https://github.com/mkrl/misbrands"
+  },
   "refugees_welcome": {},
   "remove_this_sticker": {
     "link": "https://thestickerarchive.tumblr.com"
@@ -1665,6 +1695,11 @@
     "license": "CC-BY-3.0",
     "link": "https://rustacean.net",
     "tags": "rust"
+  },
+  "rust_misbrand": {
+    "author": "Mikhai Korolev",
+    "license": "CC0-1.0",
+    "link": "https://github.com/mkrl/misbrands"
   },
   "rustacean-flat-gesture": {
     "license": "CC0-1.0",
@@ -1753,6 +1788,11 @@
     "license": "CC0-1.0",
     "link": "https://github.com/irimi1/cyberwehr-aufkleber"
   },
+  "ubuntu_misbrand": {
+    "author": "Mikhai Korolev",
+    "license": "CC0-1.0",
+    "link": "https://github.com/mkrl/misbrands"
+  },
   "urlab": {
     "link": "https://thestickerarchive.tumblr.com"
   },
@@ -1801,6 +1841,11 @@
     "license": "CC0-1.0",
     "link": "https://github.com/SFTtech/sticker",
     "title": "voll gut"
+  },
+  "vscode_misbrand": {
+    "author": "Mikhai Korolev",
+    "license": "CC0-1.0",
+    "link": "https://github.com/mkrl/misbrands"
   },
   "vulnDB": {
     "link": "https://github.com/securingdev/awesome-stickers",
