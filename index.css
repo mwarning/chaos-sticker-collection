@@ -24,7 +24,7 @@ figure {
 
 #imagesContainer img {
   width: auto;
-  height: 200px;
+  max-height: 200px;
   margin: 10px;
   box-shadow: 1px 4px 10px;
 }
