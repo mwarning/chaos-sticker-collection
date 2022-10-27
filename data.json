@@ -387,6 +387,16 @@
   "cccamp_2016": {
     "link": "https://thestickerarchive.tumblr.com"
   },
+  "cccbo": {
+    "link": "https://afra-berlin.de/dokuwiki/doku.php?id=logo",
+    "tags": "cccb",
+    "title": "CCCB/O"
+  },
+  "cccbw": {
+    "notes": "XenGi",
+    "tags": "cccb",
+    "title": "CCCB/W"
+  },
   "chaos_west_mitRand_randlos_17": {
     "author": "Hans",
     "link": "https://chaos-west.de/wiki/index.php?title=Sticker",
@@ -1631,6 +1641,11 @@
     "tags": "openage"
   },
   "pesthoernchen": {},
+  "pinguin-afra": {
+    "link": "https://afra-berlin.de/dokuwiki/doku.php?id=logo",
+    "tags": "afra penguin",
+    "title": "AFRA"
+  },
   "pip_misbrand": {
     "author": "Mikhai Korolev",
     "license": "CC0-1.0",
