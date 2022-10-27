@@ -9,7 +9,7 @@ Merge Request are Welcome! New Stickers, better versions, more cyber!
 ## Add Stickers
 
 1. Fork the repository
-2. Put images in a subfolder of `./images/` (descriptive names please!)
+2. Put your image file in a subfolder of `./images/` (descriptive names please!)
 3. Run the `update.py` script to add new entries to data.json
 4. Create a merge request
 
