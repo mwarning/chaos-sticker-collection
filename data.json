@@ -296,6 +296,13 @@
   "ada": {
     "link": "https://thestickerarchive.tumblr.com"
   },
+  "afra-whale": {
+    "author": "Spacekookie",
+    "license": "CC-BY-SA/CC0-1.0",
+    "link": "https://afra-berlin.de",
+    "tags": "afra whale",
+    "title": "AFRA whale"
+  },
   "all_computers_are_broken_nofont": {
     "author": "irimi1",
     "language": "english",
@@ -740,6 +747,13 @@
   },
   "funkwat": {
     "link": "https://thestickerarchive.tumblr.com"
+  },
+  "fwlnx": {
+    "author": "XenGi",
+    "license": "CC0-1.0",
+    "link": "https://fwlnx.rocks",
+    "tags": "firewall linux",
+    "title": "Firewall Linux"
   },
   "gcsc": {
     "language": "german",
