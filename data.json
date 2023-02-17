@@ -1541,6 +1541,12 @@
   "ipv4-nein-danke": {
     "link": "https://thestickerarchive.tumblr.com"
   },
+  "ircsnotdead": {
+    "language": "english",
+    "link": "https://github.com/maschinendeck/DesignPropositions",
+    "tags": "irc dead",
+    "title": "IRC is not dead"
+  },
   "it-crowd-ticket": {
     "language": "german",
     "tags": "ticket itcrowd",
@@ -1606,6 +1612,11 @@
     "link": "https://github.com/securingdev/awesome-stickers",
     "notes": "Attrition / Jericho"
   },
+  "maschinendeck": {
+    "link": "https://github.com/maschinendeck/DesignPropositions",
+    "tags": "maschinendeck",
+    "title": "Maschinendeck"
+  },
   "matehero_white": {
     "author": "Dodo",
     "link": "https://wiki.c3d2.de/Sticker"
@@ -1625,6 +1636,12 @@
     "link": "https://thestickerarchive.tumblr.com"
   },
   "mirror_beauty": {},
+  "netthier": {
+    "language": "german",
+    "link": "https://github.com/maschinendeck/DesignPropositions",
+    "tags": "nett",
+    "title": "Nett Hier"
+  },
   "nix-anarchy": {
     "language": "english",
     "license": "CC0-1.0",
@@ -1800,6 +1817,13 @@
     "title": "NSA MONITORED DEVICE"
   },
   "stiftung_warentest_2017": {},
+  "system_ist_sauber": {
+    "author": "uwap",
+    "language": "german",
+    "link": "https://github.com/Waschinendeck/Artwork",
+    "tags": "sauber waschinendeck",
+    "title": "Dieses System ist sauber"
+  },
   "system_ist_sicher": {
     "author": "jj",
     "language": "german",
@@ -1815,6 +1839,11 @@
   },
   "tor-sticker-pack": {
     "link": "https://thestickerarchive.tumblr.com"
+  },
+  "trans-nix-anarchy": {
+    "license": "CC0-1.0",
+    "link": "https://github.com/coderobe",
+    "tags": "trans nix anarchy"
   },
   "trump_schwachkopf": {},
   "tuwat-a8": {
