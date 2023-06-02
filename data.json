@@ -294,6 +294,41 @@
     "title": "WinLess Logo"
   },
   "acab_all_computers_are_broken": {},
+  "access_policy_documented": {
+    "author": "h0uz3",
+    "license": "CC-BY-3.0",
+    "link": "https://github.com/shackspace/corporate-identity/tree/master/access-policy-sticker",
+    "tags": "policy",
+    "title": "Access Policy Documented"
+  },
+  "access_policy_give_away": {
+    "author": "h0uz3",
+    "license": "CC-BY-3.0",
+    "link": "https://github.com/shackspace/corporate-identity/tree/master/access-policy-sticker",
+    "tags": "policy",
+    "title": "Access Policy Give Away"
+  },
+  "access_policy_instructed": {
+    "author": "h0uz3",
+    "license": "CC-BY-3.0",
+    "link": "https://github.com/shackspace/corporate-identity/tree/master/access-policy-sticker",
+    "tags": "policy",
+    "title": "Access Policy Instructed"
+  },
+  "access_policy_owner": {
+    "author": "h0uz3",
+    "license": "CC-BY-3.0",
+    "link": "https://github.com/shackspace/corporate-identity/tree/master/access-policy-sticker",
+    "tags": "policy",
+    "title": "Access Policy Owner"
+  },
+  "access_policy_public": {
+    "author": "h0uz3",
+    "license": "CC-BY-3.0",
+    "link": "https://github.com/shackspace/corporate-identity/tree/master/access-policy-sticker",
+    "tags": "policy",
+    "title": "Access Policy Public"
+  },
   "ada": {
     "link": "https://thestickerarchive.tumblr.com"
   },
@@ -1823,6 +1858,10 @@
   },
   "self-evolving-system": {
     "link": "https://thestickerarchive.tumblr.com"
+  },
+  "shackspace_logo": {
+    "link": "https://github.com/shackspace/corporate-identity/tree/master/logo",
+    "title": "Shackspace Logo"
   },
   "shellshock-bug": {
     "license": "CC0-1.0",
