@@ -293,6 +293,7 @@
     "tags": "pony",
     "title": "WinLess Logo"
   },
+  "acab_all_computers_are_broken": {},
   "ada": {
     "link": "https://thestickerarchive.tumblr.com"
   },
@@ -337,6 +338,8 @@
   "big_browser_watching": {
     "link": "https://thestickerarchive.tumblr.com"
   },
+  "bits_&_b\u00e4ume_logo": {},
+  "bits_&_b\u00e4ume_robot_life": {},
   "bitte nicht in den mund nehmen": {
     "author": "jaseg",
     "language": "german",
@@ -397,8 +400,11 @@
   },
   "camera_cccamp2019": {},
   "camp15_rocket": {},
+  "camp_fire_fan": {},
   "car_cccamp2019": {},
+  "card10_batch_cccamp": {},
   "cat_cccamp2019": {},
+  "cbase_space_station": {},
   "ccc-ffm-logo": {},
   "cccamp2015-rocket": {},
   "cccamp_2016": {
@@ -445,6 +451,7 @@
     "notes": "3mm bleed box",
     "title": "Computer sind scheisse!"
   },
+  "creative_common": {},
   "crypto_new_black": {
     "link": "https://thestickerarchive.tumblr.com"
   },
@@ -489,11 +496,14 @@
   "defekt": {
     "link": "https://thestickerarchive.tumblr.com"
   },
+  "dev_tal": {},
   "dhl_hackstation": {
     "notes": "Hackerspace Bielefeld",
     "title": "DHL Hackstation"
   },
+  "diaspora_splash": {},
   "drinks_cccamp2019": {},
+  "drinks_for_me": {},
   "easterhegg-2017-sticker-contour": {},
   "eh19_bun_intended": {
     "license": "CC-BY-SA-4.0",
@@ -533,6 +543,7 @@
   "facebook_faschism": {
     "link": "https://thestickerarchive.tumblr.com"
   },
+  "fairydust_rocket": {},
   "fck_nsa": {
     "author": "maryshiro",
     "language": "english",
@@ -1021,6 +1032,7 @@
     "license": "CC-BY-3.0",
     "link": "https://github.com/tenntenn/gopher-stickers/"
   },
+  "got_bitrolled_bit_astley": {},
   "gpg_tor_otr-wtf": {
     "author": "maryshiro",
     "language": "english",
@@ -1033,6 +1045,7 @@
     "title": "15. Gulaschprogrammiernacht"
   },
   "green_rocket_cccamp2019": {},
+  "hack_this_site.org": {},
   "hackback": {
     "language": "english",
     "license": "CC0-1.0",
@@ -1737,6 +1750,7 @@
   "pyongyang-hackerspace": {
     "link": "https://thestickerarchive.tumblr.com"
   },
+  "qrcode_phone": {},
   "quiet_cccamp2019": {},
   "radioactive-export": {
     "author": "jaseg",
@@ -1752,6 +1766,8 @@
     "license": "CC0-1.0",
     "link": "https://github.com/mkrl/misbrands"
   },
+  "rc3": {},
+  "rc3_haecksen": {},
   "react_misbrand": {
     "author": "Mikhai Korolev",
     "license": "CC0-1.0",
@@ -1776,6 +1792,7 @@
     "link": "https://github.com/securingdev/awesome-stickers",
     "notes": "Attrition / Jericho"
   },
+  "russian_backup": {},
   "rust_ferris_trans": {
     "license": "CC-BY-3.0",
     "link": "https://rustacean.net",
@@ -1827,6 +1844,7 @@
     "tags": "social oko",
     "title": "social \u00f8ko"
   },
+  "soda_bottle": {},
   "sound-system-blow-whistle": {
     "link": "https://thestickerarchive.tumblr.com"
   },
