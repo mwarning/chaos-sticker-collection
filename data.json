@@ -375,6 +375,9 @@
     "tags": "caution",
     "title": "If you break it, it's broken..."
   },
+  "brokencom": {
+    "language": "english"
+  },
   "bwcartoon-m": {
     "author": "Victor Siame",
     "license": "LAL-1.3",
