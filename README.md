@@ -32,3 +32,9 @@ All fields are optional!
 ## Karma
 
 Give stars/karma points to the source repository if possible!
+
+## Similar Projects
+
+* https://thestickerarchive.tumblr.com/
+* https://hacker-archive.org/
+* https://github.com/securingdev/awesome-stickers
