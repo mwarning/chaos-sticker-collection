@@ -5,6 +5,9 @@
     "license": "CC-BY-NC-SA",
     "link": "http://dev.io/logos/"
   },
+  "1984-against-militarization-of-society": {
+    "language": "english"
+  },
   "21C3_Bluesuspect": {
     "link": "https://c3media.vsos.ethz.ch/congress/2004/bonus/",
     "tags": "21c3"
@@ -41,8 +44,17 @@
   "32c2_a_new_dawn": {
     "link": "https://thestickerarchive.tumblr.com"
   },
+  "35c3-black-on-white": {
+    "language": "english"
+  },
+  "35c3-blue-on-white": {
+    "language": "english"
+  },
   "35c3-refreshing-memories": {
     "link": "https://thestickerarchive.tumblr.com"
+  },
+  "35c3-yellow-on-black": {
+    "language": "english"
   },
   "Amazon_Nein_Danke print": {
     "author": "maryshiro",
@@ -339,12 +351,21 @@
     "tags": "afra whale",
     "title": "AFRA whale"
   },
+  "all-colours-are-beautiful-acab.muc.ccc.de-1": {
+    "language": "english"
+  },
+  "all-colours-are-beautiful-acab.muc.ccc.de-2": {
+    "language": "english"
+  },
   "all_computers_are_broken_nofont": {
     "author": "irimi1",
     "language": "english",
     "license": "CC0-1.0",
     "link": "https://github.com/irimi1/cyberwehr-aufkleber",
     "title": "all computers are broken"
+  },
+  "alle-gut-hackbar": {
+    "language": "german"
   },
   "angel_cccamp2019": {},
   "angry-letter": {
@@ -356,6 +377,9 @@
   },
   "anti-kybernetische-aktion": {
     "link": "https://thestickerarchive.tumblr.com"
+  },
+  "antifaschistische-einhornaktion": {
+    "language": "german"
   },
   "antistatische_aktion": {
     "language": "german"
@@ -419,6 +443,9 @@
   "brokencom": {
     "language": "english"
   },
+  "bundesministerium-fu\u0308r-cyber": {
+    "language": "german"
+  },
   "bwcartoon-m": {
     "author": "Victor Siame",
     "license": "LAL-1.3",
@@ -432,6 +459,9 @@
     "link": "https://c3woc.de",
     "tags": "logo",
     "title": "Waffle Operation Center"
+  },
+  "c3woc-waffelfa\u0308hige-teigprodukte": {
+    "language": "german"
   },
   "camera": {
     "link": "https://thestickerarchive.tumblr.com"
@@ -477,6 +507,12 @@
     "link": "https://github.com/rixx/sticker",
     "tags": "mastodon"
   },
+  "click-buy-for-free-download": {
+    "language": "english"
+  },
+  "clown-computing": {
+    "language": "english"
+  },
   "coding_blocks": {
     "link": "https://github.com/securingdev/awesome-stickers",
     "notes": "Attrition / Jericho"
@@ -489,6 +525,7 @@
     "notes": "3mm bleed box",
     "title": "Computer sind scheisse!"
   },
+  "coreboot": {},
   "creative_common": {},
   "crypto_new_black": {
     "link": "https://thestickerarchive.tumblr.com"
@@ -534,12 +571,24 @@
   "defekt": {
     "link": "https://thestickerarchive.tumblr.com"
   },
+  "defend-solidarity": {
+    "language": "english"
+  },
   "dev_tal": {},
   "dhl_hackstation": {
     "notes": "Hackerspace Bielefeld",
     "title": "DHL Hackstation"
   },
   "diaspora_splash": {},
+  "die-spinnen-die-bullen-die-schweine": {
+    "language": "german"
+  },
+  "dieser-artikel-wurde-zur-lo\u0308schung-vorgeschlagen": {
+    "language": "german"
+  },
+  "dieser-automat-ist-zur-zeit-leider-defekt-wir-bitten-um-ihr-versta\u0308ndnis": {
+    "language": "german"
+  },
   "drinks_cccamp2019": {},
   "drinks_for_me": {},
   "easterhegg-2017-sticker-contour": {},
@@ -550,6 +599,12 @@
     "tags": "hex eh19",
     "title": "Bun Intended"
   },
+  "ein-herz-fu\u0308r-faschisten": {
+    "language": "german"
+  },
+  "einmal-mit-profis": {
+    "language": "german"
+  },
   "einmal_mit_profis": {
     "author": "markush",
     "language": "german",
@@ -557,9 +612,15 @@
     "link": "https://github.com/SFTtech/sticker",
     "title": "Einmal mit Profis arbeiten"
   },
+  "emails-are-like-postcards-unless-you-encrypt-them-fsfe.org": {
+    "language": "english"
+  },
   "employees_libc": {},
   "end_geoblocking": {
     "link": "https://thestickerarchive.tumblr.com"
+  },
+  "epicenter.works-for-digital-rights": {
+    "language": "english"
   },
   "es_gibt_etliche_methoden": {
     "author": "maryshiro",
@@ -567,6 +628,9 @@
     "link": "https://maryshi.ro",
     "tags": "cryptoparty",
     "title": "Etliche Methoden"
+  },
+  "eu-camera-surveillance-smash-freiheitsfoo": {
+    "language": "english"
   },
   "fabulous-money": {
     "author": "irimi1",
@@ -578,10 +642,15 @@
   "facebook-and-you-pigs": {
     "language": "english"
   },
+  "facebook-fascism": {
+    "language": "english"
+  },
   "facebook_faschism": {
     "link": "https://thestickerarchive.tumblr.com"
   },
+  "fairydust": {},
   "fairydust_rocket": {},
+  "fck-afd": {},
   "fck_nsa": {
     "author": "maryshiro",
     "language": "english",
@@ -599,6 +668,7 @@
   "first_aid_cccamp2019": {},
   "food_cccamp2019": {},
   "forbidden_cccamp2019": {},
+  "freebsd-foundation-serving-the-freebsd-project-since-2000": {},
   "freifunk-bremen-logo": {},
   "freifunk-duesseldorf-logo-v3": {},
   "freifunk-ehingen-logo-twitter": {
@@ -819,6 +889,9 @@
   "funkwat": {
     "link": "https://thestickerarchive.tumblr.com"
   },
+  "fu\u0308r-mehr-bunten-protest": {
+    "language": "german"
+  },
   "fwlnx": {
     "author": "XenGi",
     "license": "CC0-1.0",
@@ -843,6 +916,7 @@
     "license": "CC0-1.0",
     "link": "https://github.com/mkrl/misbrands"
   },
+  "glump-qualita\u0308t-ha\u0308tte-ihren-preis": {},
   "gnu_meditate": {
     "author": "Nevrax Design Team",
     "license": "GPL-3.0-or-later/GFDL-1.1-or-later",
@@ -1083,6 +1157,7 @@
     "title": "15. Gulaschprogrammiernacht"
   },
   "green_rocket_cccamp2019": {},
+  "gui-and-shell-oreilly": {},
   "hack_this_site.org": {},
   "hackback": {
     "language": "english",
@@ -1577,6 +1652,7 @@
     "tags": "rstudio"
   },
   "hiddenservice-rocket": {},
+  "hier-wurde-nazi-propaganda-u\u0308berklebt": {},
   "i hate computers": {
     "author": "jaseg",
     "language": "german",
@@ -1585,6 +1661,7 @@
     "notes": "3mm bleed box",
     "title": "I hate computers!"
   },
+  "ich-hab-ein-geheimnis-amnesty-international": {},
   "iheart_malware": {
     "link": "https://github.com/securingdev/awesome-stickers",
     "notes": "Attrition / Jericho"
@@ -1652,9 +1729,11 @@
   "keine_software_illegal": {
     "link": "https://chaos.expert/ccc-ffm/sticker"
   },
+  "kill-bill-teamix.de": {},
   "klaut_tschunk": {
     "link": "https://thestickerarchive.tumblr.com"
   },
+  "komona": {},
   "l3ai-ccon": {
     "link": "https://thestickerarchive.tumblr.com"
   },
@@ -1681,6 +1760,8 @@
     "tags": "caution",
     "title": "Legacy IP Only"
   },
+  "leistungszwang-wer-feiern-kann-kann-auch-auspennen": {},
+  "linuxboot": {},
   "logbuch_netzpolitik": {
     "link": "https://thestickerarchive.tumblr.com"
   },
@@ -1689,6 +1770,7 @@
     "link": "https://github.com/securingdev/awesome-stickers",
     "notes": "Attrition / Jericho"
   },
+  "make-code-not-war-momoments.de": {},
   "maschinendeck": {
     "link": "https://github.com/maschinendeck/DesignPropositions",
     "tags": "maschinendeck",
@@ -1702,7 +1784,9 @@
     "link": "https://github.com/securingdev/awesome-stickers",
     "notes": "Attrition / Jericho"
   },
+  "mein-lieblingsgemu\u0308se-ist-bockwurst-und-als-sternzeichen-bin-ich-zigarette": {},
   "meltdown_bug": {},
+  "mensch-meier": {},
   "mesh_is_in_the_air": {
     "link": "https://thestickerarchive.tumblr.com",
     "notes": "Battlesmesh 2018"
@@ -1713,6 +1797,7 @@
     "link": "https://thestickerarchive.tumblr.com"
   },
   "mirror_beauty": {},
+  "mission-lifeline-seenotrettung-www.mission-lifeline.de": {},
   "music_cccamp2019": {},
   "netthier": {
     "language": "german",
@@ -1745,6 +1830,7 @@
     "link": "https://www.gnu.org/graphics/gnusvgart.html",
     "tags": "gnu"
   },
+  "offline-mode": {},
   "oko": {
     "license": "Unlicense",
     "tags": "oko",
@@ -1757,6 +1843,7 @@
     "tags": "openage"
   },
   "pesthoernchen": {},
+  "pfeffi-statt-pfefferspray": {},
   "phone_cccamp2019": {},
   "pinguin-afra": {
     "link": "https://afra-berlin.de/dokuwiki/doku.php?id=logo",
@@ -1772,10 +1859,12 @@
     "language": "dutch",
     "link": "https://thestickerarchive.tumblr.com"
   },
+  "polizeigewalt-hat-es-nicht-gegeben-die-erde-ist-eine-scheibe-jesus-lebt-anarchistischeinitiative.blogsport.eu": {},
   "pool_cccamp2019": {},
   "privacy_forever": {
     "link": "https://thestickerarchive.tumblr.com"
   },
+  "prokrastinatorische-aktion": {},
   "protect_the_graph": {
     "link": "https://github.com/securingdev/awesome-stickers",
     "notes": "Attrition / Jericho"
@@ -1812,6 +1901,7 @@
     "link": "https://github.com/mkrl/misbrands"
   },
   "recycling_cccamp2019": {},
+  "refreshing-memories": {},
   "refugees_welcome": {},
   "remove_this_sticker": {
     "link": "https://thestickerarchive.tumblr.com"
@@ -1941,6 +2031,7 @@
   "tor-sticker-pack": {
     "link": "https://thestickerarchive.tumblr.com"
   },
+  "torvalds-stallman-1991-2038-make-cyber-great-again": {},
   "trailer_cccamp2019": {},
   "trans-nix-anarchy": {
     "license": "CC0-1.0",
@@ -1963,6 +2054,7 @@
   "urlab": {
     "link": "https://thestickerarchive.tumblr.com"
   },
+  "u\u0308berwachung-bitte-angepasst-und-unauffa\u0308llig-verhalten-freiheitsfoo": {},
   "vade_retro_otf": {
     "author": "maryshiro",
     "link": "https://maryshi.ro",
@@ -1976,6 +2068,7 @@
     "link": "https://github.com/SFTtech/sticker",
     "title": "DIESES SYSTEM IST VERBASTELT"
   },
+  "verhalten-bei-hausdurchsuchung-chaotikum.org": {},
   "verschl\u00fcsselung-super-grundrecht": {
     "link": "https://thestickerarchive.tumblr.com"
   },
@@ -2056,8 +2149,13 @@
     "link": "https://wemakeporn.tetalab.org",
     "title": "WE MAKE PORN"
   },
+  "who-owns-your-chatlogs-nextcloud.com": {},
+  "who-owns-your-diary-nextcloud.com": {},
+  "who-owns-your-photos-nextcloud.com": {},
   "wiki-leaks": {
     "link": "https://thestickerarchive.tumblr.com"
   },
-  "yellow_rocket_cccamp2019": {}
+  "yellow_rocket_cccamp2019": {},
+  "you-smell-like-pizza": {},
+  "\u00a7-303-stgb": {}
 }
