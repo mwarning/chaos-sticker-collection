@@ -384,6 +384,12 @@
   "antistatische_aktion": {
     "language": "german"
   },
+  "arlnet": {
+    "author": "Sascha Ludwig",
+    "license": "CC-BY-NC-SA-3.0",
+    "tags": "arlnet",
+    "title": "ARLNET"
+  },
   "armitage_hacking": {
     "link": "https://github.com/securingdev/awesome-stickers",
     "notes": "Attrition / Jericho",
