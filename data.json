@@ -210,6 +210,25 @@
     "author": "Lachmoewe",
     "link": "https://wiki.c3d2.de/Sticker"
   },
+  "ISO_3864-M30W-cat-ears-must-be-worn-DIN_A": {
+    "author": "Ada Loveless",
+    "language": "english",
+    "license": "CC0-1.0",
+    "tags": "iso3864 iso7010 cat ears \"cat ears\" mandatory action",
+    "title": "ISO 3864-M30W Cat ears must be worn DIN A"
+  },
+  "ISO_7010-E0W0-emergency-cat-ears": {
+    "author": "Ada Loveless",
+    "license": "CC0-1.0",
+    "tags": "iso7010 cat ears \"cat ears\" safe condition medical",
+    "title": "ISO 7010-E0W0 Emergency cat ears"
+  },
+  "ISO_7010-M30W-cat-ears-must-be-worn": {
+    "author": "Ada Loveless",
+    "license": "CC0-1.0",
+    "tags": "iso7010 cat ears \"cat ears\" mandatory action",
+    "title": "ISO 7010-M30W Cat ears must be worn"
+  },
   "I_love_encase_0day": {
     "author": "maryshiro",
     "language": "english",
