@@ -77,6 +77,10 @@ figure {
   text-decoration: none;
 }
 
+a {
+  text-decoration: none;
+}
+
 @media only screen and (max-width: 600px) {
   #imagesContainer img {
     width: 150px;
