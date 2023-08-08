@@ -203,11 +203,13 @@ def update_file_listings(path, create_index=False):
 
     if create_index:
         with open("{}/index.html".format(path), "w") as file:
+            file.write("<!DOCTYPE html>\n")
             file.write("<html>\n <head>\n")
-            file.write("  <title>Directory listing for {}</title>\n".format(path))
+            file.write("  <title>Files for {}</title>\n".format(path))
             file.write("  <meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\">\n")
+            file.write("  <link rel=\"stylesheet\" href=\"../../listing.css\">\n")
             file.write(" </head>\n <body>\n")
-            file.write("  <h1>Directory listing for {}</h1>\n".format(path))
+            file.write("  <h1>Files for for {}</h1>\n".format(path))
             file.write("  <hr>\n  <ul>\n")
             for entry in entries:
                 name = os.path.basename(entry)
@@ -271,7 +273,6 @@ def main():
         sys.exit(0)
 
     if len(images) > 0:
-
         # Exit Ctrl+C gracefully
         signal.signal(signal.SIGINT, lambda sig, frame: sigint_handler())
 

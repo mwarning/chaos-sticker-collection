@@ -1,0 +1,20 @@
+body {
+  background: #eee;
+  margin: 33px;
+  color: #333;
+}
+
+h1 {
+  font: 2.0em Georgia, serif;
+}
+
+a {
+  font-size: 1.2em;
+  text-decoration: none;
+  color: #000033;
+}
+
+a:hover, a:active {
+  text-decoration: underline;
+  color: maroon;
+}
