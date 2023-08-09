@@ -29,6 +29,10 @@ All fields are optional!
 * Only submit stickers that are free for non-commercial use (at least)
 * Prefer images rather then photos of stickers, those are better for printing.
 
+## Local Demo
+
+Run `python3 -m http.server` in the folder of this repository and navigate to `http://localhost:8000`.
+
 ## Karma
 
 Give stars/karma points to the source repository if possible!
