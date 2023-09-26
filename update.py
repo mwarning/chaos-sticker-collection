@@ -203,13 +203,14 @@ def update_file_listings(path, create_index=False):
 
     if create_index:
         with open("{}/index.html".format(path), "w") as file:
+            name = os.path.basename(path)
             file.write("<!DOCTYPE html>\n")
             file.write("<html>\n <head>\n")
-            file.write("  <title>Files for {}</title>\n".format(path))
+            file.write("  <title>Files for {}</title>\n".format(name))
             file.write("  <meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\">\n")
             file.write("  <link rel=\"stylesheet\" href=\"../../listing.css\">\n")
             file.write(" </head>\n <body>\n")
-            file.write("  <h1>Files for for {}</h1>\n".format(path))
+            file.write("  <h1>Files for {}</h1>\n".format(name))
             file.write("  <hr>\n  <ul>\n")
             for entry in entries:
                 name = os.path.basename(entry)

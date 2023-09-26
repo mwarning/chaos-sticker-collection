@@ -1,5 +1,9 @@
 {
-  "18C3": {},
+  "18C3": {
+    "license": "CC0-1.0",
+    "link": "https://repo.elektrollart.org/Print/18c3-Sterntastatur_(CC0)/",
+    "title": "Tastaturstern (18C3)"
+  },
   "18c3-orig": {
     "author": "Thorsten Schroeder <ths@dev.io>",
     "license": "CC-BY-NC-SA",
@@ -9,16 +13,19 @@
     "language": "english"
   },
   "21C3_Bluesuspect": {
-    "link": "https://c3media.vsos.ethz.ch/congress/2004/bonus/",
-    "tags": "21c3"
+    "link": "http://ftp.ccc.de/congress/2004/bonus/",
+    "tags": "21c3",
+    "title": "The Usual Suspects"
   },
   "21C3_Green-Male_Suspect": {
-    "link": "https://c3media.vsos.ethz.ch/congress/2004/bonus/",
-    "tags": "21c3"
+    "link": "http://ftp.ccc.de/congress/2004/bonus/",
+    "tags": "21c3",
+    "title": "The Usual Suspects"
   },
   "21C3_Pink-Female_Suspect": {
-    "link": "https://c3media.vsos.ethz.ch/congress/2004/bonus/",
-    "tags": "21c3"
+    "link": "http://ftp.ccc.de/congress/2004/bonus/",
+    "tags": "21c3",
+    "title": "The Usual Suspects"
   },
   "21c3_usual_suspects": {
     "link": "https://thestickerarchive.tumblr.com"
@@ -509,7 +516,7 @@
     "title": "CCCB/O"
   },
   "cccbw": {
-    "notes": "XenGi",
+    "author": "XenGi",
     "tags": "cccb",
     "title": "CCCB/W"
   },
@@ -614,6 +621,9 @@
   "dieser-automat-ist-zur-zeit-leider-defekt-wir-bitten-um-ihr-versta\u0308ndnis": {
     "language": "german"
   },
+  "docker_dead_whale": {
+    "tags": "docker"
+  },
   "drinks_cccamp2019": {},
   "drinks_for_me": {},
   "easterhegg-2017-sticker-contour": {},
@@ -669,9 +679,6 @@
   },
   "facebook-fascism": {
     "language": "english"
-  },
-  "facebook_faschism": {
-    "link": "https://thestickerarchive.tumblr.com"
   },
   "fairydust": {},
   "fairydust_rocket": {},
@@ -2050,7 +2057,12 @@
     "title": "Dieses System ist sicher"
   },
   "telephone_booth_cccamp2019": {},
-  "toilette_videoueberwachung": {},
+  "toilette_videoueberwachung": {
+    "author": "Gnom",
+    "language": "german",
+    "license": "CC0-1.0",
+    "title": "Toilette wird Video\u00fcberwacht"
+  },
   "toool": {
     "link": "https://github.com/securingdev/awesome-stickers",
     "notes": "Attrition / Jericho",
@@ -2067,7 +2079,12 @@
     "tags": "trans nix anarchy"
   },
   "trash_cccamp2019": {},
-  "trump_schwachkopf": {},
+  "trump_schwachkopf": {
+    "author": "Gnom",
+    "license": "CC0-1.0",
+    "link": "https://chaos.expert/ccc-ffm/sticker",
+    "title": "Trump - Schwachkopf"
+  },
   "tuwat-a8": {
     "author": "irimi1",
     "license": "CC0-1.0",
@@ -2185,5 +2202,8 @@
   },
   "yellow_rocket_cccamp2019": {},
   "you-smell-like-pizza": {},
-  "\u00a7-303-stgb": {}
+  "\u00a7-303-stgb": {},
+  "\u00b5BER_logo": {
+    "title": "\u00b5BER Village CCCamp 2023"
+  }
 }
