@@ -96,10 +96,10 @@
     "author": "Chaos Computer Club e.V."
   },
   "Cyberwehr": {
-    "author": "irimi1",
+    "author": "manu",
     "language": "german",
     "license": "Unlicense",
-    "link": "https://github.com/irimi1/cyberwehr-aufkleber"
+    "link": "https://github.com/manu-cyber/cyberwehr-aufkleber"
   },
   "FSFE_100_FREEDOMS_sticker_74_x_74_BLACK": {
     "author": "Markus Meier",
@@ -384,10 +384,10 @@
     "language": "english"
   },
   "all_computers_are_broken_nofont": {
-    "author": "irimi1",
+    "author": "manu",
     "language": "english",
     "license": "CC0-1.0",
-    "link": "https://github.com/irimi1/cyberwehr-aufkleber",
+    "link": "https://github.com/manu-cyber/stickers/tree/master/all-computers-are-broken",
     "title": "all computers are broken"
   },
   "alle-gut-hackbar": {
@@ -668,10 +668,10 @@
     "language": "english"
   },
   "fabulous-money": {
-    "author": "irimi1",
+    "author": "manu",
     "language": "english",
     "license": "CC0-1.0",
-    "link": "https://github.com/irimi1/cyberwehr-aufkleber",
+    "link": "https://github.com/manu-cyber/stickers/tree/master/fabulous-money",
     "title": "Fabulous Money"
   },
   "facebook-and-you-pigs": {
@@ -1227,9 +1227,9 @@
     "link": "https://thestickerarchive.tumblr.com"
   },
   "heartphones": {
-    "author": "irimi1",
+    "author": "manu",
     "license": "CC0-1.0",
-    "link": "https://github.com/irimi1/cyberwehr-aufkleber",
+    "link": "https://github.com/manu-cyber/stickers/tree/master/heartphones",
     "tags": "headphone",
     "title": "Heart Phones"
   },
@@ -1977,9 +1977,10 @@
     "tags": "rust"
   },
   "sacred-chao": {
-    "author": "irimi1",
+    "author": "manu",
     "license": "CC0-1.0",
-    "link": "https://github.com/irimi1/cyberwehr-aufkleber"
+    "link": "https://github.com/manu-cyber/stickers/tree/master/sacred-chao",
+    "tags": "discordianism"
   },
   "scroll-life-away": {
     "link": "https://thestickerarchive.tumblr.com"
@@ -2086,9 +2087,10 @@
     "title": "Trump - Schwachkopf"
   },
   "tuwat-a8": {
-    "author": "irimi1",
+    "author": "manu",
     "license": "CC0-1.0",
-    "link": "https://github.com/irimi1/cyberwehr-aufkleber"
+    "link": "https://github.com/manu-cyber/stickers/tree/master/laber-nich-tuwat",
+    "tags": "tuwat"
   },
   "ubuntu_misbrand": {
     "author": "Mikhai Korolev",
