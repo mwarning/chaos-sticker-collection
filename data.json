@@ -591,6 +591,15 @@
     "link": "https://cyber.equipment/",
     "tags": "cyber"
   },
+  "cyberpunk": {
+    "author": "manu",
+    "language": "english",
+    "license": "CC-BY-NC-4.0",
+    "link": "https://github.com/manu-cyber/stickers/tree/master/cyberpunk",
+    "notes": "original CYBER sticker CC-BY-NC by fnordeingang e.V.",
+    "tags": "cyber cyberpunk",
+    "title": "Cyberpunk - high tech low life"
+  },
   "cyberwehr": {
     "author": "C3D2 Dresden",
     "language": "german",
