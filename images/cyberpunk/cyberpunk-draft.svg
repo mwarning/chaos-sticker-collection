@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="100.95114mm"
+   height="56.759209mm"
+   viewBox="0 0 100.95114 56.75921"
+   version="1.1"
+   id="svg5"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs2" />
+  <g
+     id="layer1"
+     transform="translate(-24.116819,-18.748808)">
+    <rect
+       style="fill:#000000;fill-opacity:1;stroke-width:0.0809348;stroke-dasharray:0.0809348, 0.161869"
+       id="rect78035"
+       width="100.95114"
+       height="56.759209"
+       x="24.116819"
+       y="18.748808" />
+    <g
+       id="g49113"
+       transform="matrix(1.3391925,-0.24668918,0.24668918,1.3391925,-23.621417,-51.338526)">
+      <rect
+         style="fill:#f5f300;fill-opacity:1;stroke-width:0.0765429;stroke-dasharray:0.0765429, 0.153086"
+         id="rect48621"
+         width="42.403347"
+         height="14.829567"
+         x="27.098221"
+         y="69.104347"
+         rx="0"
+         ry="0" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         x="29.165298"
+         y="80.646614"
+         id="text3086"><tspan
+           id="tspan3084"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:OCRA;-inkscape-font-specification:OCRA;stroke-width:0.264583"
+           x="29.165298"
+           y="80.646614">CYBER</tspan></text>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:22.8921px;line-height:1.25;font-family:sans-serif;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.572308"
+       x="55.083271"
+       y="65.287964"
+       id="text10662-8"
+       transform="rotate(-4.087245)"><tspan
+         id="tspan10660-3"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.8921px;font-family:Mansalva;-inkscape-font-specification:'Mansalva, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;stroke:#000000;stroke-width:0.572308"
+         x="55.083271"
+         y="65.287964">PUNK</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:6.77722px;line-height:1.25;font-family:sans-serif;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.169431"
+       x="32.048531"
+       y="69.134819"
+       id="text53243"><tspan
+         id="tspan53241"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.77722px;font-family:Aldrich;-inkscape-font-specification:'Aldrich, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;stroke-width:0.169431"
+         x="32.048531"
+         y="69.134819">HIGH TECH</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:7.23128px;line-height:1.25;font-family:sans-serif;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.180782"
+       x="82.210114"
+       y="69.610741"
+       id="text57009"><tspan
+         id="tspan57007"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.23128px;font-family:'Permanent Marker';-inkscape-font-specification:'Permanent Marker, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;stroke-width:0.180782"
+         x="82.210114"
+         y="69.610741">LOW LIFE</tspan></text>
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.0531679;stroke-dasharray:0.0531679, 0.106336"
+       id="rect91663"
+       width="2.9074645"
+       height="2.9074645"
+       x="99.573059"
+       y="-12.561028"
+       transform="rotate(47.598683)" />
+  </g>
+</svg>
