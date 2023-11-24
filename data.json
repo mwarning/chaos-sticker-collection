@@ -605,6 +605,19 @@
     "language": "german",
     "title": "Wir. Dienen. Neuland."
   },
+  "dbd_color_logo": {
+    "language": "english",
+    "license": "CC-BY-ND-4.0",
+    "link": "https://www.defectivebydesign.org/drm_elimination_print_at_home_kit",
+    "tags": "logo",
+    "title": "Defective By Design"
+  },
+  "dbd_eliminate": {
+    "language": "english",
+    "license": "CC-BY-ND-4.0",
+    "link": "https://www.defectivebydesign.org/drm_elimination_print_at_home_kit",
+    "title": "Eliminate DRM"
+  },
   "dead_end_cccamp19": {},
   "debian_heagon": {
     "link": "https://thestickerarchive.tumblr.com"
