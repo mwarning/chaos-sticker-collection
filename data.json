@@ -298,6 +298,545 @@
     "author": "Reinhard Schrutzki"
   },
   "Politische Aktion": {},
+  "Powered_by_AlmaLinux": {
+    "author": "Rocky Carr",
+    "language": "english",
+    "license": "CC-BY-NC-SA-3.0",
+    "link": "https://github.com/RockyC36/StickerPack",
+    "tags": "distro"
+  },
+  "Powered_by_Alpine": {
+    "author": "Rocky Carr",
+    "language": "english",
+    "license": "CC-BY-NC-SA-3.0",
+    "link": "https://github.com/RockyC36/StickerPack",
+    "tags": "distro"
+  },
+  "Powered_by_AntiX": {
+    "author": "Rocky Carr",
+    "language": "english",
+    "license": "CC-BY-NC-SA-3.0",
+    "link": "https://github.com/RockyC36/StickerPack",
+    "tags": "distro"
+  },
+  "Powered_by_Arch": {
+    "author": "Rocky Carr",
+    "language": "english",
+    "license": "CC-BY-NC-SA-3.0",
+    "link": "https://github.com/RockyC36/StickerPack",
+    "tags": "distro"
+  },
+  "Powered_by_ArchLabs": {
+    "author": "Rocky Carr",
+    "language": "english",
+    "license": "CC-BY-NC-SA-3.0",
+    "link": "https://github.com/RockyC36/StickerPack",
+    "tags": "distro"
+  },
+  "Powered_by_Archcraft": {
+    "author": "Rocky Carr",
+    "language": "english",
+    "license": "CC-BY-NC-SA-3.0",
+    "link": "https://github.com/RockyC36/StickerPack",
+    "tags": "distro"
+  },
+  "Powered_by_ArcoLinux": {
+    "author": "Rocky Carr",
+    "language": "english",
+    "license": "CC-BY-NC-SA-3.0",
+    "link": "https://github.com/RockyC36/StickerPack",
+    "tags": "distro"
+  },
+  "Powered_by_Artix": {
+    "author": "Rocky Carr",
+    "language": "english",
+    "license": "CC-BY-NC-SA-3.0",
+    "link": "https://github.com/RockyC36/StickerPack",
+    "tags": "distro"
+  },
+  "Powered_by_Asahi_Linux": {
+    "author": "Rocky Carr",
+    "language": "english",
+    "license": "CC-BY-NC-SA-3.0",
+    "link": "https://github.com/RockyC36/StickerPack",
+    "tags": "distro"
+  },
+  "Powered_by_Athena_OS": {
+    "author": "Rocky Carr",
+    "language": "english",
+    "license": "CC-BY-NC-SA-3.0",
+    "link": "https://github.com/RockyC36/StickerPack",
+    "tags": "distro"
+  },
+  "Powered_by_BlendOS": {
+    "author": "Rocky Carr",
+    "language": "english",
+    "license": "CC-BY-NC-SA-3.0",
+    "link": "https://github.com/RockyC36/StickerPack",
+    "tags": "distro"
+  },
+  "Powered_by_Bodhi_Linux": {
+    "author": "Rocky Carr",
+    "language": "english",
+    "license": "CC-BY-NC-SA-3.0",
+    "link": "https://github.com/RockyC36/StickerPack",
+    "tags": "distro"
+  },
+  "Powered_by_Buildroot": {
+    "author": "Rocky Carr",
+    "language": "english",
+    "license": "CC-BY-NC-SA-3.0",
+    "link": "https://github.com/RockyC36/StickerPack",
+    "tags": "distro"
+  },
+  "Powered_by_CachyOS": {
+    "author": "Rocky Carr",
+    "language": "english",
+    "license": "CC-BY-NC-SA-3.0",
+    "link": "https://github.com/RockyC36/StickerPack",
+    "tags": "distro"
+  },
+  "Powered_by_CentOS": {
+    "author": "Rocky Carr",
+    "language": "english",
+    "license": "CC-BY-NC-SA-3.0",
+    "link": "https://github.com/RockyC36/StickerPack",
+    "tags": "distro"
+  },
+  "Powered_by_Clear_Linux_OS": {
+    "author": "Rocky Carr",
+    "language": "english",
+    "license": "CC-BY-NC-SA-3.0",
+    "link": "https://github.com/RockyC36/StickerPack",
+    "tags": "distro"
+  },
+  "Powered_by_Crystal_Linux": {
+    "author": "Rocky Carr",
+    "language": "english",
+    "license": "CC-BY-NC-SA-3.0",
+    "link": "https://github.com/RockyC36/StickerPack",
+    "tags": "distro"
+  },
+  "Powered_by_Debian": {
+    "author": "Rocky Carr",
+    "language": "english",
+    "license": "CC-BY-NC-SA-3.0",
+    "link": "https://github.com/RockyC36/StickerPack",
+    "tags": "distro"
+  },
+  "Powered_by_Deepin": {
+    "author": "Rocky Carr",
+    "language": "english",
+    "license": "CC-BY-NC-SA-3.0",
+    "link": "https://github.com/RockyC36/StickerPack",
+    "tags": "distro"
+  },
+  "Powered_by_Devuan": {
+    "author": "Rocky Carr",
+    "language": "english",
+    "license": "CC-BY-NC-SA-3.0",
+    "link": "https://github.com/RockyC36/StickerPack",
+    "tags": "distro"
+  },
+  "Powered_by_DragonFly_BSD": {
+    "author": "Rocky Carr",
+    "language": "english",
+    "license": "CC-BY-NC-SA-3.0",
+    "link": "https://github.com/RockyC36/StickerPack",
+    "tags": "distro"
+  },
+  "Powered_by_Edubuntu": {
+    "author": "Rocky Carr",
+    "language": "english",
+    "license": "CC-BY-NC-SA-3.0",
+    "link": "https://github.com/RockyC36/StickerPack",
+    "tags": "distro"
+  },
+  "Powered_by_Elementary_OS": {
+    "author": "Rocky Carr",
+    "language": "english",
+    "license": "CC-BY-NC-SA-3.0",
+    "link": "https://github.com/RockyC36/StickerPack",
+    "tags": "distro"
+  },
+  "Powered_by_EndeavourOS": {
+    "author": "Rocky Carr",
+    "language": "english",
+    "license": "CC-BY-NC-SA-3.0",
+    "link": "https://github.com/RockyC36/StickerPack",
+    "tags": "distro"
+  },
+  "Powered_by_Fedora": {
+    "author": "Rocky Carr",
+    "language": "english",
+    "license": "CC-BY-NC-SA-3.0",
+    "link": "https://github.com/RockyC36/StickerPack",
+    "tags": "distro"
+  },
+  "Powered_by_Feren_OS": {
+    "author": "Rocky Carr",
+    "language": "english",
+    "license": "CC-BY-NC-SA-3.0",
+    "link": "https://github.com/RockyC36/StickerPack",
+    "tags": "distro"
+  },
+  "Powered_by_FreeBSD": {
+    "author": "Rocky Carr",
+    "language": "english",
+    "license": "CC-BY-NC-SA-3.0",
+    "link": "https://github.com/RockyC36/StickerPack",
+    "tags": "distro"
+  },
+  "Powered_by_Garuda": {
+    "author": "Rocky Carr",
+    "language": "english",
+    "license": "CC-BY-NC-SA-3.0",
+    "link": "https://github.com/RockyC36/StickerPack",
+    "tags": "distro"
+  },
+  "Powered_by_Gentoo": {
+    "author": "Rocky Carr",
+    "language": "english",
+    "license": "CC-BY-NC-SA-3.0",
+    "link": "https://github.com/RockyC36/StickerPack",
+    "tags": "distro"
+  },
+  "Powered_by_GhostBSD": {
+    "author": "Rocky Carr",
+    "language": "english",
+    "license": "CC-BY-NC-SA-3.0",
+    "link": "https://github.com/RockyC36/StickerPack",
+    "tags": "distro"
+  },
+  "Powered_by_Hyperbola": {
+    "author": "Rocky Carr",
+    "language": "english",
+    "license": "CC-BY-NC-SA-3.0",
+    "link": "https://github.com/RockyC36/StickerPack",
+    "tags": "distro"
+  },
+  "Powered_by_KDE_Neon": {
+    "author": "Rocky Carr",
+    "language": "english",
+    "license": "CC-BY-NC-SA-3.0",
+    "link": "https://github.com/RockyC36/StickerPack",
+    "tags": "distro"
+  },
+  "Powered_by_KaOS": {
+    "author": "Rocky Carr",
+    "language": "english",
+    "license": "CC-BY-NC-SA-3.0",
+    "link": "https://github.com/RockyC36/StickerPack",
+    "tags": "distro"
+  },
+  "Powered_by_Kali_Linux": {
+    "author": "Rocky Carr",
+    "language": "english",
+    "license": "CC-BY-NC-SA-3.0",
+    "link": "https://github.com/RockyC36/StickerPack",
+    "tags": "distro"
+  },
+  "Powered_by_Kubuntu": {
+    "author": "Rocky Carr",
+    "language": "english",
+    "license": "CC-BY-NC-SA-3.0",
+    "link": "https://github.com/RockyC36/StickerPack",
+    "tags": "distro"
+  },
+  "Powered_by_Linux": {
+    "author": "Rocky Carr",
+    "language": "english",
+    "license": "CC-BY-NC-SA-3.0",
+    "link": "https://github.com/RockyC36/StickerPack",
+    "tags": "distro"
+  },
+  "Powered_by_Linux_Lite": {
+    "author": "Rocky Carr",
+    "language": "english",
+    "license": "CC-BY-NC-SA-3.0",
+    "link": "https://github.com/RockyC36/StickerPack",
+    "tags": "distro"
+  },
+  "Powered_by_Lubuntu": {
+    "author": "Rocky Carr",
+    "language": "english",
+    "license": "CC-BY-NC-SA-3.0",
+    "link": "https://github.com/RockyC36/StickerPack",
+    "tags": "distro"
+  },
+  "Powered_by_MX": {
+    "author": "Rocky Carr",
+    "language": "english",
+    "license": "CC-BY-NC-SA-3.0",
+    "link": "https://github.com/RockyC36/StickerPack",
+    "tags": "distro"
+  },
+  "Powered_by_Mabox_Linux": {
+    "author": "Rocky Carr",
+    "language": "english",
+    "license": "CC-BY-NC-SA-3.0",
+    "link": "https://github.com/RockyC36/StickerPack",
+    "tags": "distro"
+  },
+  "Powered_by_Mageia": {
+    "author": "Rocky Carr",
+    "language": "english",
+    "license": "CC-BY-NC-SA-3.0",
+    "link": "https://github.com/RockyC36/StickerPack",
+    "tags": "distro"
+  },
+  "Powered_by_Manjaro": {
+    "author": "Rocky Carr",
+    "language": "english",
+    "license": "CC-BY-NC-SA-3.0",
+    "link": "https://github.com/RockyC36/StickerPack",
+    "tags": "distro"
+  },
+  "Powered_by_MidnightBSD": {
+    "author": "Rocky Carr",
+    "language": "english",
+    "license": "CC-BY-NC-SA-3.0",
+    "link": "https://github.com/RockyC36/StickerPack",
+    "tags": "distro"
+  },
+  "Powered_by_Mint": {
+    "author": "Rocky Carr",
+    "language": "english",
+    "license": "CC-BY-NC-SA-3.0",
+    "link": "https://github.com/RockyC36/StickerPack",
+    "tags": "distro"
+  },
+  "Powered_by_Nitrux": {
+    "author": "Rocky Carr",
+    "language": "english",
+    "license": "CC-BY-NC-SA-3.0",
+    "link": "https://github.com/RockyC36/StickerPack",
+    "tags": "distro"
+  },
+  "Powered_by_NixOS": {
+    "author": "Rocky Carr",
+    "language": "english",
+    "license": "CC-BY-NC-SA-3.0",
+    "link": "https://github.com/RockyC36/StickerPack",
+    "tags": "distro"
+  },
+  "Powered_by_Nobara": {
+    "author": "Rocky Carr",
+    "language": "english",
+    "license": "CC-BY-NC-SA-3.0",
+    "link": "https://github.com/RockyC36/StickerPack",
+    "tags": "distro"
+  },
+  "Powered_by_PCLinuxOS": {
+    "author": "Rocky Carr",
+    "language": "english",
+    "license": "CC-BY-NC-SA-3.0",
+    "link": "https://github.com/RockyC36/StickerPack",
+    "tags": "distro"
+  },
+  "Powered_by_Parabola": {
+    "author": "Rocky Carr",
+    "language": "english",
+    "license": "CC-BY-NC-SA-3.0",
+    "link": "https://github.com/RockyC36/StickerPack",
+    "tags": "distro"
+  },
+  "Powered_by_ParrotOS": {
+    "author": "Rocky Carr",
+    "language": "english",
+    "license": "CC-BY-NC-SA-3.0",
+    "link": "https://github.com/RockyC36/StickerPack",
+    "tags": "distro"
+  },
+  "Powered_by_Pop!_OS": {
+    "author": "Rocky Carr",
+    "language": "english",
+    "license": "CC-BY-NC-SA-3.0",
+    "link": "https://github.com/RockyC36/StickerPack",
+    "tags": "distro"
+  },
+  "Powered_by_Puppy_Linux": {
+    "author": "Rocky Carr",
+    "language": "english",
+    "license": "CC-BY-NC-SA-3.0",
+    "link": "https://github.com/RockyC36/StickerPack",
+    "tags": "distro"
+  },
+  "Powered_by_Q4OS": {
+    "author": "Rocky Carr",
+    "language": "english",
+    "license": "CC-BY-NC-SA-3.0",
+    "link": "https://github.com/RockyC36/StickerPack",
+    "tags": "distro"
+  },
+  "Powered_by_Qubes_OS": {
+    "author": "Rocky Carr",
+    "language": "english",
+    "license": "CC-BY-NC-SA-3.0",
+    "link": "https://github.com/RockyC36/StickerPack",
+    "tags": "distro"
+  },
+  "Powered_by_RebornOS": {
+    "author": "Rocky Carr",
+    "language": "english",
+    "license": "CC-BY-NC-SA-3.0",
+    "link": "https://github.com/RockyC36/StickerPack",
+    "tags": "distro"
+  },
+  "Powered_by_Red_Hat": {
+    "author": "Rocky Carr",
+    "language": "english",
+    "license": "CC-BY-NC-SA-3.0",
+    "link": "https://github.com/RockyC36/StickerPack",
+    "tags": "distro"
+  },
+  "Powered_by_Rhino_Linux": {
+    "author": "Rocky Carr",
+    "language": "english",
+    "license": "CC-BY-NC-SA-3.0",
+    "link": "https://github.com/RockyC36/StickerPack",
+    "tags": "distro"
+  },
+  "Powered_by_Rocky_Linux": {
+    "author": "Rocky Carr",
+    "language": "english",
+    "license": "CC-BY-NC-SA-3.0",
+    "link": "https://github.com/RockyC36/StickerPack",
+    "tags": "distro"
+  },
+  "Powered_by_Siduction": {
+    "author": "Rocky Carr",
+    "language": "english",
+    "license": "CC-BY-NC-SA-3.0",
+    "link": "https://github.com/RockyC36/StickerPack",
+    "tags": "distro"
+  },
+  "Powered_by_Slackware": {
+    "author": "Rocky Carr",
+    "language": "english",
+    "license": "CC-BY-NC-SA-3.0",
+    "link": "https://github.com/RockyC36/StickerPack",
+    "tags": "distro"
+  },
+  "Powered_by_Sparky_Linux": {
+    "author": "Rocky Carr",
+    "language": "english",
+    "license": "CC-BY-NC-SA-3.0",
+    "link": "https://github.com/RockyC36/StickerPack",
+    "tags": "distro"
+  },
+  "Powered_by_Tails": {
+    "author": "Rocky Carr",
+    "language": "english",
+    "license": "CC-BY-NC-SA-3.0",
+    "link": "https://github.com/RockyC36/StickerPack",
+    "tags": "distro"
+  },
+  "Powered_by_TrueNAS_Open_Storage": {
+    "author": "Rocky Carr",
+    "language": "english",
+    "license": "CC-BY-NC-SA-3.0",
+    "link": "https://github.com/RockyC36/StickerPack",
+    "tags": "distro"
+  },
+  "Powered_by_Tuxedo_OS": {
+    "author": "Rocky Carr",
+    "language": "english",
+    "license": "CC-BY-NC-SA-3.0",
+    "link": "https://github.com/RockyC36/StickerPack",
+    "tags": "distro"
+  },
+  "Powered_by_Ubuntu": {
+    "author": "Rocky Carr",
+    "language": "english",
+    "license": "CC-BY-NC-SA-3.0",
+    "link": "https://github.com/RockyC36/StickerPack",
+    "tags": "distro"
+  },
+  "Powered_by_Ubuntu_Budgie": {
+    "author": "Rocky Carr",
+    "language": "english",
+    "license": "CC-BY-NC-SA-3.0",
+    "link": "https://github.com/RockyC36/StickerPack",
+    "tags": "distro"
+  },
+  "Powered_by_Ubuntu_MATE": {
+    "author": "Rocky Carr",
+    "language": "english",
+    "license": "CC-BY-NC-SA-3.0",
+    "link": "https://github.com/RockyC36/StickerPack",
+    "tags": "distro"
+  },
+  "Powered_by_Ubuntu_Studio": {
+    "author": "Rocky Carr",
+    "language": "english",
+    "license": "CC-BY-NC-SA-3.0",
+    "link": "https://github.com/RockyC36/StickerPack",
+    "tags": "distro"
+  },
+  "Powered_by_Ultramarine": {
+    "author": "Rocky Carr",
+    "language": "english",
+    "license": "CC-BY-NC-SA-3.0",
+    "link": "https://github.com/RockyC36/StickerPack",
+    "tags": "distro"
+  },
+  "Powered_by_VanillaOS": {
+    "author": "Rocky Carr",
+    "language": "english",
+    "license": "CC-BY-NC-SA-3.0",
+    "link": "https://github.com/RockyC36/StickerPack",
+    "tags": "distro"
+  },
+  "Powered_by_Void": {
+    "author": "Rocky Carr",
+    "language": "english",
+    "license": "CC-BY-NC-SA-3.0",
+    "link": "https://github.com/RockyC36/StickerPack",
+    "tags": "distro"
+  },
+  "Powered_by_XeroLinux": {
+    "author": "Rocky Carr",
+    "language": "english",
+    "license": "CC-BY-NC-SA-3.0",
+    "link": "https://github.com/RockyC36/StickerPack",
+    "tags": "distro"
+  },
+  "Powered_by_Xubuntu": {
+    "author": "Rocky Carr",
+    "language": "english",
+    "license": "CC-BY-NC-SA-3.0",
+    "link": "https://github.com/RockyC36/StickerPack",
+    "tags": "distro"
+  },
+  "Powered_by_Zorin": {
+    "author": "Rocky Carr",
+    "language": "english",
+    "license": "CC-BY-NC-SA-3.0",
+    "link": "https://github.com/RockyC36/StickerPack",
+    "tags": "distro"
+  },
+  "Powered_by_bunsenlabs": {
+    "author": "Rocky Carr",
+    "language": "english",
+    "license": "CC-BY-NC-SA-3.0",
+    "link": "https://github.com/RockyC36/StickerPack",
+    "tags": "distro"
+  },
+  "Powered_by_openSUSE": {
+    "author": "Rocky Carr",
+    "language": "english",
+    "license": "CC-BY-NC-SA-3.0",
+    "link": "https://github.com/RockyC36/StickerPack",
+    "tags": "distro"
+  },
+  "Powered_by_risiOS": {
+    "author": "Rocky Carr",
+    "language": "english",
+    "license": "CC-BY-NC-SA-3.0",
+    "link": "https://github.com/RockyC36/StickerPack",
+    "tags": "distro"
+  },
   "Security Innovation": {
     "link": "https://github.com/securingdev/awesome-stickers"
   },
