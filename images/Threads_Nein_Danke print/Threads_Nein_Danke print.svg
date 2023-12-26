@@ -34,15 +34,15 @@
    inkscape:pageopacity="0"
    inkscape:pageshadow="2"
    inkscape:window-width="1920"
-   inkscape:window-height="951"
+   inkscape:window-height="919"
    id="namedview34"
    showgrid="false"
-   inkscape:zoom="2.6026173"
-   inkscape:cx="-10.950515"
-   inkscape:cy="101.82058"
-   inkscape:window-x="26"
-   inkscape:window-y="23"
-   inkscape:window-maximized="0"
+   inkscape:zoom="1.8403283"
+   inkscape:cx="-23.093705"
+   inkscape:cy="186.92317"
+   inkscape:window-x="0"
+   inkscape:window-y="0"
+   inkscape:window-maximized="1"
    inkscape:current-layer="g841"
    showguides="true"
    inkscape:guide-bbox="true"
@@ -138,7 +138,14 @@
      id="textPath840"
      xlink:href="#path833"
      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'AG Book Rounded';-inkscape-font-specification:'AG Book Rounded'">THREADS?</textPath></text>
-</g></g></g>
+<g
+   id="g261"
+   transform="matrix(0.07058733,0,0,0.07561895,58.776295,53.605255)"><path
+     d="M 804.6,960 H 155.4 C 69.58,960 0,890.42 0,804.6 V 155.4 C 0,69.58 69.58,0 155.4,0 H 804.6 C 890.42,0 960,69.58 960,155.4 V 804.6 C 960,890.42 890.42,960 804.6,960 Z"
+     id="path249" /><path
+     fill="#ffffff"
+     d="m 404.63,392.13 c -11.92,-7.93 -51.53,-35.49 -51.53,-35.49 33.4,-47.88 77.46,-66.52 138.36,-66.52 43.07,0 79.64,14.52 105.75,42 26.12,27.49 41.02,66.8 44.41,117.07 14.48,6.07 27.85,13.22 39.99,21.4 48.96,33 75.92,82.34 75.92,138.91 0,120.23 -98.34,224.67 -276.35,224.67 -152.84,0 -311.63,-89.11 -311.63,-354.45 0,-263.83 153.81,-353.92 311.2,-353.92 72.68,0 243.16,10.76 307.27,222.94 L 727.9,364.37 C 678.33,213.2 574.4,189.14 479.11,189.14 c -157.52,0 -246.62,96.13 -246.62,300.65 0,183.38 99.59,280.8 248.71,280.8 122.68,0 214.15,-63.9 214.15,-157.44 0,-63.66 -53.37,-94.14 -56.1,-94.14 -10.42,54.62 -38.36,146.5 -161.01,146.5 -71.46,0 -133.07,-49.47 -133.07,-114.29 0,-92.56 87.61,-126.06 156.8,-126.06 25.91,0 57.18,1.75 73.46,5.07 0,-28.21 -23.81,-76.49 -83.96,-76.49 -55.15,-0.01 -69.14,17.92 -86.84,38.39 z m 105.8,96.25 c -90.13,0 -101.79,38.51 -101.79,62.7 0,38.86 46.07,51.74 70.65,51.74 45.06,0 91.35,-12.52 98.63,-107.31 -22.85,-5.14 -39.88,-7.13 -67.49,-7.13 z"
+     id="path251" /></g></g></g></g>
  </g>
 <style
    id="style1793"
