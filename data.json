@@ -243,11 +243,41 @@
     "tags": "0day",
     "title": "I Love EnCase 0day"
   },
+  "Instagram_Nein_Danke print": {
+    "author": "Lukas2112",
+    "language": "german",
+    "license": "CC0-1.0",
+    "title": "Instagram - Nein Danke"
+  },
+  "Jira_Nein_Danke print": {
+    "author": "Lukas2112",
+    "language": "german",
+    "license": "CC0-1.0",
+    "title": "Jira - Nein Danke"
+  },
   "Laughing_man": {
     "language": "english",
     "license": "LAL-1.3",
     "link": "https://ghostintheshell.fandom.com/wiki/Laughing_Man?file=Laughing_man.svg",
     "title": "Laughing Man"
+  },
+  "MSTeams_Nein_Danke print": {
+    "author": "Lukas2112",
+    "language": "german",
+    "license": "CC0-1.0",
+    "title": "MSTeams - Nein Danke"
+  },
+  "Meta_Nein_Danke print": {
+    "author": "Lukas2112",
+    "language": "german",
+    "license": "CC0-1.0",
+    "title": "Meta - Nein Danke"
+  },
+  "Microsoft365_Nein_Danke print": {
+    "author": "Lukas2112",
+    "language": "german",
+    "license": "CC0-1.0",
+    "title": "Microsoft365 - Nein Danke"
   },
   "Microsoft_Nein_Danke print": {
     "author": "maryshiro",
@@ -293,6 +323,18 @@
     "title": "FIGHT FOR YOUR DIGITAL RIGHTS (v2)"
   },
   "National_Security_Agency": {},
+  "Netflix_Nein_Danke print": {
+    "author": "Lukas2112",
+    "language": "german",
+    "license": "CC0-1.0",
+    "title": "Netflix - Nein Danke"
+  },
+  "Oracle_Nein_Danke print": {
+    "author": "Lukas2112",
+    "language": "german",
+    "license": "CC0-1.0",
+    "title": "Oracle - Nein Danke"
+  },
   "Pesthoernchen": {},
   "Pesth\u00f6rnchen": {
     "author": "Reinhard Schrutzki"
@@ -837,6 +879,12 @@
     "link": "https://github.com/RockyC36/StickerPack",
     "tags": "distro"
   },
+  "SAP_Nein_Danke print": {
+    "author": "Lukas2112",
+    "language": "german",
+    "license": "CC0-1.0",
+    "title": "SAP - Nein Danke"
+  },
   "Security Innovation": {
     "link": "https://github.com/securingdev/awesome-stickers"
   },
@@ -848,6 +896,18 @@
     "link": "https://maryshi.ro",
     "title": "Shrug"
   },
+  "Slack_Nein_Danke print": {
+    "author": "Lukas2112",
+    "language": "german",
+    "license": "CC0-1.0",
+    "title": "Slack - Nein Danke"
+  },
+  "Spotify_Nein_Danke print": {
+    "author": "Lukas2112",
+    "language": "german",
+    "license": "CC0-1.0",
+    "title": "Spotify - Nein Danke"
+  },
   "The_Pirate_Bay_logo": {
     "language": "english",
     "license": "CC0-1.0",
@@ -855,20 +915,56 @@
     "tags": "logo",
     "title": "The Pirate Bay"
   },
+  "Threads_Nein_Danke print": {
+    "author": "Lukas2112",
+    "language": "german",
+    "license": "CC0-1.0",
+    "title": "Threads - Nein Danke"
+  },
   "Tor-logo-2011-sticker": {
     "license": "CC-BY-SA-3.0",
     "link": "https://en.m.wikipedia.org/wiki/File:Tor-logo-2011-sticker.svg",
     "tags": "tor logo"
   },
+  "Twitch_Nein_Danke print": {
+    "author": "Lukas2112",
+    "language": "german",
+    "license": "CC0-1.0",
+    "title": "Twitch - Nein Danke"
+  },
+  "Twitter_Nein_Danke print": {
+    "author": "Lukas2112",
+    "language": "german",
+    "license": "CC0-1.0",
+    "title": "Twitter - Nein Danke"
+  },
   "Vorratsmatenspeicherung": {
     "language": "german",
     "link": "https://shop.digitalcourage.de/manufacturer/chaos-computer-club.html"
+  },
+  "WhatsApp_Nein_Danke print": {
+    "author": "Lukas2112",
+    "language": "german",
+    "license": "CC0-1.0",
+    "title": "WhatsApp - Nein Danke"
   },
   "WinLess-Logo_1290x480": {
     "author": "luckydonald",
     "link": "https://www.deviantart.com/luckydonald/",
     "tags": "pony",
     "title": "WinLess Logo"
+  },
+  "YouTube_Nein_Danke print": {
+    "author": "Lukas2112",
+    "language": "german",
+    "license": "CC0-1.0",
+    "title": "YouTube - Nein Danke"
+  },
+  "Zoom_Nein_Danke print": {
+    "author": "Lukas2112",
+    "language": "german",
+    "license": "CC0-1.0",
+    "title": "Zoom - Nein Danke"
   },
   "acab_all_computers_are_broken": {},
   "access_policy_documented": {
