@@ -1025,6 +1025,12 @@
     "link": "https://github.com/manu-cyber/stickers/tree/master/all-computers-are-broken",
     "title": "all computers are broken"
   },
+  "all_creatures_welcome_flag": {
+    "author": "miketango@miketango.de",
+    "language": "english",
+    "license": "CC-BY-NC-SA-4.0",
+    "title": "All Creatures Welcome"
+  },
   "alle-gut-hackbar": {
     "language": "german"
   },
@@ -1033,6 +1039,12 @@
     "language": "german",
     "license": "CC-BY-SA-4.0",
     "title": "Alles Zweifelhafte muss angezweifelt werden"
+  },
+  "aluhut_hacker": {
+    "author": "miketango@miketango.de",
+    "language": "german",
+    "license": "CC-BY-NC-SA-4.0",
+    "title": "Aluhut Hacker"
   },
   "angel_cccamp2019": {},
   "angry-letter": {
@@ -1066,10 +1078,22 @@
     "link": "https://thestickerarchive.tumblr.com"
   },
   "attention_cccamp2019": {},
+  "attention_victim_blaming": {
+    "author": "miketango@miketango.de",
+    "language": "english",
+    "license": "CC-BY-NC-SA-4.0",
+    "title": "Attention - Victim Blaming"
+  },
   "aufkleber_h\u00f6rt_telefon_ab": {
     "link": "https://thestickerarchive.tumblr.com"
   },
   "bad_gateway": {},
+  "ban_dlc": {
+    "author": "miketango@miketango.de",
+    "language": "english",
+    "license": "CC-BY-NC-SA-4.0",
+    "title": "BAN DLC"
+  },
   "big_browser_watching": {
     "link": "https://thestickerarchive.tumblr.com"
   },
@@ -1113,11 +1137,23 @@
     "tags": "caution",
     "title": "If you break it, it's broken..."
   },
+  "broken_since": {
+    "author": "miketango@miketango.de",
+    "language": "english",
+    "license": "CC-BY-NC-SA-4.0",
+    "title": "Broken Since"
+  },
   "brokencom": {
     "language": "english"
   },
   "bundesministerium-fu\u0308r-cyber": {
     "language": "german"
+  },
+  "buy_dlc": {
+    "author": "miketango@miketango.de",
+    "language": "english",
+    "license": "CC-BY-NC-SA-4.0",
+    "title": "BUY DLC"
   },
   "bwcartoon-m": {
     "author": "Victor Siame",
@@ -1200,6 +1236,12 @@
   },
   "coreboot": {},
   "creative_common": {},
+  "crew_ultras": {
+    "author": "miketango@miketango.de",
+    "language": "english",
+    "license": "CC-BY-NC-SA-4.0",
+    "title": "Crew Ultras"
+  },
   "crypto_new_black": {
     "link": "https://thestickerarchive.tumblr.com"
   },
@@ -1227,6 +1269,11 @@
     "notes": "3mm bleed box",
     "title": "Cyber-Gepr\u00fcft"
   },
+  "cyber_cyber": {
+    "author": "miketango@miketango.de",
+    "license": "CC-BY-NC-SA-4.0",
+    "title": "Cyber Cyber"
+  },
   "cyber_sticker_export": {
     "license": "CC-BY-NC 4.0",
     "link": "https://cyber.equipment/",
@@ -1245,6 +1292,12 @@
     "author": "C3D2 Dresden",
     "language": "german",
     "title": "Wir. Dienen. Neuland."
+  },
+  "dauerleihgabe": {
+    "author": "miketango@miketango.de",
+    "language": "german",
+    "license": "CC-BY-NC-SA-4.0",
+    "title": "Dauerleihgabe"
   },
   "dbd_color_logo": {
     "language": "english",
@@ -2503,11 +2556,23 @@
   "mirror_beauty": {},
   "mission-lifeline-seenotrettung-www.mission-lifeline.de": {},
   "music_cccamp2019": {},
+  "m\u00e4ngelexemplar": {
+    "author": "miketango@miketango.de",
+    "language": "german",
+    "license": "CC-BY-NC-SA-4.0",
+    "title": "M\u00e4ngelexemplar"
+  },
   "netthier": {
     "language": "german",
     "link": "https://github.com/maschinendeck/DesignPropositions",
     "tags": "nett",
     "title": "Nett Hier"
+  },
+  "next_fuckup": {
+    "author": "miketango@miketango.de",
+    "language": "english",
+    "license": "CC-BY-NC-SA-4.0",
+    "title": "Next Fuckup"
   },
   "nix-anarchy": {
     "language": "english",
@@ -2591,6 +2656,11 @@
     "notes": "3mm bleed box",
     "tags": "caution",
     "title": "device is a tiny bit radioactive"
+  },
+  "raf_toothbrush": {
+    "author": "miketango@miketango.de",
+    "license": "CC-BY-NC-SA-4.0",
+    "title": "Toothbrush Fraktion"
   },
   "rails_misbrand": {
     "author": "Mikhai Korolev",
@@ -2731,6 +2801,11 @@
     "license": "CC0-1.0",
     "link": "https://github.com/SFTtech/sticker",
     "title": "Dieses System ist sicher"
+  },
+  "taken_from_scrap_heap": {
+    "author": "miketango@miketango.de",
+    "license": "CC-BY-NC-SA-4.0",
+    "title": "Taken From Srap Heap"
   },
   "telephone_booth_cccamp2019": {},
   "toilette_videoueberwachung": {
