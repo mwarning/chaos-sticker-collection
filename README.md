@@ -8,6 +8,12 @@ Merge Request are Welcome! New Stickers, better versions, more cyber!
 
 ## Add Stickers
 
+* Attach them to a ticket and mention the author and license you want the sticker to be distributed by.
+* Or send me an [Email](moritzwarning@web.de).
+* Or add them manually and create a merge request.
+
+### Add Manually
+
 1. Fork the repository
 2. Put your image file in a subfolder of `./images/` (descriptive names please!)
 3. Run the `update.py` script to add new entries to data.json
