@@ -13,7 +13,7 @@ assert sys.version_info >= (3, 6), "Python version too old. Python >=3.6.0 neede
 
 
 # subset of https://spdx.org/licenses/
-valid_licenses = ["", "CC0-1.0", "Unlicense", "CC-BY-3.0", "CC-BY-NC-SA-3.0", "CC-BY-SA-4.0", "CC-BY-NC-4.0", "CC-BY-SA-3.0", "GFDL-1.3-or-later", "LAL-1.3"]
+valid_licenses = ["", "CC0-1.0", "Unlicense", "CC-BY-3.0", "CC-BY-NC-SA-3.0", "CC-BY-NC-SA-4.0", "CC-BY-SA-4.0", "CC-BY-NC-4.0", "CC-BY-SA-3.0", "CC-BY-SA-3.0", "GFDL-1.3-or-later", "LAL-1.3"]
 valid_languages = ["", "dutch", "english", "french", "german"]
 
 # Only works on *nix systems
