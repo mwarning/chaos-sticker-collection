@@ -1337,6 +1337,10 @@
   "dieser-automat-ist-zur-zeit-leider-defekt-wir-bitten-um-ihr-versta\u0308ndnis": {
     "language": "german"
   },
+  "digitaldruide": {
+    "link": "https://digitaldrui.de/",
+    "title": "Digitaldruide"
+  },
   "docker_dead_whale": {
     "tags": "docker"
   },
