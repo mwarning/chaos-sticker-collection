@@ -84,7 +84,7 @@ function getUnderline(name, obj) {
   }
 
   // edit link
-  html.push('<a class="edit" href="submit.html?' + encodeObj(name, obj) + '" alt="edit">&#x270D;</a>')
+  //html.push('<a class="edit" href="submit.html?' + encodeObj(name, obj) + '" alt="edit">&#x270D;</a>')
 
   return '"' + (obj['title'] || name) + '"<br>' + html.join(' | ');
 }
