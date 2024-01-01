@@ -3,6 +3,7 @@
 import readline
 import hashlib
 import signal
+import shutil
 import json
 import glob
 import sys
@@ -13,7 +14,7 @@ assert sys.version_info >= (3, 6), "Python version too old. Python >=3.6.0 neede
 
 
 # subset of https://spdx.org/licenses/
-valid_licenses = ["", "CC0-1.0", "Unlicense", "CC-BY-3.0", "CC-BY-NC-SA-3.0", "CC-BY-NC-SA-4.0", "CC-BY-SA-4.0", "CC-BY-NC-4.0", "CC-BY-SA-3.0", "CC-BY-SA-3.0", "GFDL-1.3-or-later", "LAL-1.3"]
+valid_licenses = ["", "Public Domain", "CC0-1.0", "Unlicense", "CC-BY-3.0", "CC-BY-NC-SA-3.0", "CC-BY-NC-SA-4.0", "CC-BY-SA-4.0", "CC-BY-NC-4.0", "CC-BY-SA-3.0", "CC-BY-SA-3.0", "GFDL-1.3-or-later", "LAL-1.3"]
 valid_languages = ["", "dutch", "english", "french", "german"]
 
 # Only works on *nix systems
@@ -82,7 +83,7 @@ def is_valid_license(licenses):
             print("Only two licenses allowed")
             return False
         if license not in valid_licenses:
-            print("{} no in {}".format(license, valid_licenses))
+            print("'{}'' not in {}".format(license, valid_licenses))
             return False
     return True
 
@@ -193,7 +194,7 @@ def add_previews(db):
                 if len(image_paths) == 0:
                     print("No image found for images/{}/preview.webp".format(name))
                 else:
-                        print("Failed to create preview for images/{}/preview.webp".format(name))
+                    print("Failed to create preview for images/{}/preview.webp".format(name))
 
 def update_file_listings(path, create_index=False):
     entries = []
@@ -248,8 +249,13 @@ def main():
     if len(sys.argv) > 1:
         for image in sys.argv[1:]:
             if not image.startswith("images/"):
-                print("Outside images folder: {}".format(image))
-                sys.exit(1)
+                filename = os.path.basename(image)
+                base = os.path.splitext(filename)[0].lower()
+                dst = "images/{}".format(base)
+                if not os.path.isdir(dst):
+                    os.makedirs(dst)
+                shutil.copyfile(image, "{}/{}".format(dst, filename))
+                images.append(base)
             elif os.path.isdir(image):
                 images.append(os.path.basename(image))
             else:
