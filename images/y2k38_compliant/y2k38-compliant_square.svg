@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="58mm"
+   height="58mm"
+   viewBox="0 0 58 57.999998"
+   version="1.1"
+   id="svg1"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <g
+     id="layer1"
+     transform="translate(12.170833,-82.285416)">
+    <rect
+       style="display:inline;fill:#000000;fill-opacity:0.996078;stroke:none;stroke-width:0.263787"
+       id="rect1"
+       width="59.373402"
+       height="60.654346"
+       x="-12.170833"
+       y="82.285416" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.3032px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;fill:#f9f9f9;fill-opacity:1;stroke:none;stroke-width:0.257581"
+       x="-7.3336945"
+       y="81.952835"
+       id="text2"
+       transform="scale(0.84142865,1.1884549)"><tspan
+         id="tspan2"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.3032px;font-family:Sans;-inkscape-font-specification:'Sans, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;fill:#f9f9f9;stroke-width:0.257581"
+         x="-7.3336945"
+         y="81.952835">YEAR  2038</tspan></text>
+    <rect
+       style="font-variation-settings:'wght' 700;fill:#f6ed38;stroke-width:0.0729471"
+       id="rect2"
+       width="45.858162"
+       height="20.724863"
+       x="-6.1178937"
+       y="100.92298" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:15.658px;line-height:1.25;font-family:sans-serif;letter-spacing:-0.252312px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.391454"
+       x="-5.151093"
+       y="116.61697"
+       id="text2-3"><tspan
+         id="tspan2-7"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.658px;font-family:Gabarito;-inkscape-font-specification:'Gabarito, @wght=900';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;font-variation-settings:'wght' 900;letter-spacing:-0.252312px;fill:#000000;stroke-width:0.391454"
+         x="-5.151093"
+         y="116.61697">Y2K38</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:9.73622px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;fill:#f9f9f9;fill-opacity:1;stroke:none;stroke-width:0.243407"
+       x="-8.3255529"
+       y="106.66403"
+       id="text2-5"
+       transform="scale(0.79512417,1.2576652)"><tspan
+         id="tspan2-6"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.73622px;font-family:Sans;-inkscape-font-specification:'Sans, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;fill:#f9f9f9;stroke-width:0.243407"
+         x="-8.3255529"
+         y="106.66403">COMPLIANT</tspan></text>
+  </g>
+</svg>
