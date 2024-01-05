@@ -9,7 +9,7 @@ Merge Request are Welcome! New Stickers, better versions, more cyber!
 ## Add Stickers
 
 * Attach them to a ticket and mention the author and license you want the sticker to be distributed by.
-* Or send me an [Email](moritzwarning@web.de).
+* Or send me an [EMail](mailto:moritzwarning@web.de?subject=[ChaosStickerCollection]%20New%20Sticker)
 * Or add them manually and create a merge request.
 
 ### Add Manually
