@@ -84,9 +84,6 @@
     "tags": "c3 sticker",
     "title": "C3STOC"
   },
-  "C3d2-Bubbles": {
-    "link": "https://wiki.c3d2.de/w/images/a/ab/C3d2-Bubbles.svg"
-  },
   "Chaos-sticker-1-cmyk": {
     "author": "Mic",
     "link": "https://chaos-west.de/wiki/index.php?title=Sticker",
@@ -1171,6 +1168,30 @@
   "c-base_open_moon": {
     "link": "https://thestickerarchive.tumblr.com"
   },
+  "c3d2_bubbles": {
+    "license": "CC-BY-NC-SA-3.0",
+    "link": "https://media.c3d2.de/u/eri/m/penta-bubbles-a21d/",
+    "tags": "c3d2",
+    "title": "Chaos Computer Club Dresden"
+  },
+  "c3d2_down-plate": {
+    "license": "CC-BY-SA-3.0",
+    "link": "https://media.c3d2.de/u/eri/m/down-plate/",
+    "tags": "c3d2",
+    "title": "Chaos Computer Club Dresden"
+  },
+  "c3d2_down-plate-text": {
+    "license": "CC-BY-SA-3.0",
+    "link": "https://media.c3d2.de/u/eri/m/down-plate-mit-text/",
+    "tags": "c3d2",
+    "title": "Chaos Computer Club Dresden"
+  },
+  "c3d2_plate-penta_comp": {
+    "license": "CC-BY-NC-SA-3.0",
+    "link": "https://media.c3d2.de/u/eri/m/c3d2-penta-plate-svg/",
+    "tags": "c3d2",
+    "title": "Chaos Computer Club Dresden"
+  },
   "c3woc": {
     "link": "https://c3woc.de",
     "tags": "logo",
@@ -1664,6 +1685,12 @@
     "link": "https://fwlnx.rocks",
     "tags": "firewall linux",
     "title": "Firewall Linux"
+  },
+  "gchq-black": {
+    "license": "CC-BY-SA-3.0",
+    "link": "https://media.c3d2.de/u/eri/m/gchq-black/",
+    "tags": "c3d2",
+    "title": "Chaos Computer Club Dresden"
   },
   "gcsc": {
     "language": "german",
