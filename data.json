@@ -1334,6 +1334,13 @@
     "notes": "Hackerspace Bielefeld",
     "title": "DHL Hackstation"
   },
+  "dhmo": {
+    "author": "Tido Klaassen",
+    "language": "english",
+    "license": "CC-BY-SA-4.0",
+    "tags": "caution",
+    "title": "DHMO / Hydric Acid"
+  },
   "diaspora_splash": {},
   "die-spinnen-die-bullen-die-schweine": {
     "language": "german"
