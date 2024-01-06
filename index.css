@@ -90,3 +90,14 @@ a {
     margin-top: 5em;
   }
 }
+
+#logo {
+  padding: 6px 16px;
+}
+
+#logo * {
+  width: 30px;
+  height: 30px;
+  padding: 0px;
+  margin: 0px;
+}
