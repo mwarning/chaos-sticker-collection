@@ -1168,6 +1168,12 @@
   "c-base_open_moon": {
     "link": "https://thestickerarchive.tumblr.com"
   },
+  "c3d2_blue": {
+    "license": "CC-BY-NC-SA-3.0",
+    "link": "https://media.c3d2.de/u/eri/m/c3d2-blue-meta/",
+    "tags": "c3d2",
+    "title": "Chaos Computer Club Dresden"
+  },
   "c3d2_bubbles": {
     "license": "CC-BY-NC-SA-3.0",
     "link": "https://media.c3d2.de/u/eri/m/penta-bubbles-a21d/",
@@ -1723,6 +1729,9 @@
     "link": "https://morr.cc/cyber-sticker/",
     "tags": "cyber",
     "title": "Gute Cyber, Schlechte Cyber"
+  },
+  "german-power-socket": {
+    "title": "German Power Socket"
   },
   "get_hack_reset_it_lereset": {
     "link": "https://thestickerarchive.tumblr.com"
