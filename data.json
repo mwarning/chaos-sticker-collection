@@ -174,11 +174,21 @@
     "tags": "logo",
     "title": "2. Gulaschprogrammiernacht"
   },
-  "Gendersticker_?": {},
-  "Gendersticker_HE": {},
-  "Gendersticker_Plain": {},
-  "Gendersticker_SHE": {},
-  "Gendersticker_THEY": {},
+  "Gendersticker_?": {
+    "link": "https://chaos.expert/ccc-ffm/sticker/"
+  },
+  "Gendersticker_HE": {
+    "link": "https://chaos.expert/ccc-ffm/sticker/"
+  },
+  "Gendersticker_Plain": {
+    "link": "https://chaos.expert/ccc-ffm/sticker/"
+  },
+  "Gendersticker_SHE": {
+    "link": "https://chaos.expert/ccc-ffm/sticker/"
+  },
+  "Gendersticker_THEY": {
+    "link": "https://chaos.expert/ccc-ffm/sticker/"
+  },
   "Google_Nein_Danke print": {
     "author": "maryshiro",
     "language": "german",
@@ -192,7 +202,9 @@
     "link": "https://commons.wikimedia.org/wiki/File:Hacker_Inside_Logo.svg",
     "title": "hacker inside"
   },
-  "Hackerhalfmoon": {},
+  "Hackerhalfmoon": {
+    "link": "https://chaos.expert/ccc-ffm/sticker"
+  },
   "Hackerhammock": {},
   "Haskell-Logo": {
     "license": "CC0-1.0",
@@ -312,7 +324,9 @@
     "link": "https://netzpolitik.org",
     "title": "FIGHT FOR YOUR DIGITAL RIGHTS (v2)"
   },
-  "National_Security_Agency": {},
+  "National_Security_Agency": {
+    "link": "https://chaos.expert/ccc-ffm/sticker/-/blob/master/political/"
+  },
   "Netflix_Nein_Danke print": {
     "author": "Lukas2112",
     "language": "german",
@@ -329,7 +343,9 @@
   "Pesth\u00f6rnchen": {
     "author": "Reinhard Schrutzki"
   },
-  "Politische Aktion": {},
+  "Politische Aktion": {
+    "link": "https://chaos.expert/ccc-ffm/sticker/-/blob/master/political/"
+  },
   "Powered_by_AlmaLinux": {
     "author": "Rocky Carr",
     "language": "english",
@@ -1091,7 +1107,9 @@
   "aufkleber_h\u00f6rt_telefon_ab": {
     "link": "https://thestickerarchive.tumblr.com"
   },
-  "bad_gateway": {},
+  "bad_gateway": {
+    "link": "https://chaos.expert/ccc-ffm/sticker"
+  },
   "ban_dlc": {
     "author": "miketango@miketango.de",
     "language": "english",
@@ -1124,6 +1142,13 @@
   },
   "bornhack": {
     "link": "https://thestickerarchive.tumblr.com"
+  },
+  "briefmarke-hochgeschwindigkeitverkehr": {
+    "language": "german",
+    "license": "CC0-1.0",
+    "link": "https://chaos.expert/ccc-ffm/sticker/-/blob/master/bahnchaos",
+    "tags": "bahnchaos",
+    "title": "Hochgeschwindigkeitsverkehr"
   },
   "broken_C": {
     "author": "markush",
@@ -1210,7 +1235,9 @@
     "link": "https://thestickerarchive.tumblr.com"
   },
   "camera_cccamp2019": {},
-  "camp15_rocket": {},
+  "camp15_rocket": {
+    "link": "https://chaos.expert/ccc-ffm/sticker"
+  },
   "camp_fire_fan": {},
   "car_cccamp2019": {},
   "card10_batch_cccamp": {},
@@ -1250,7 +1277,9 @@
     "tags": "chaoswest",
     "title": "Chaos West"
   },
-  "chaosmachtschule_tafel": {},
+  "chaosmachtschule_tafel": {
+    "link": "https://chaos.expert/ccc-ffm/sticker"
+  },
   "chaossocial": {
     "author": "rixx",
     "link": "https://github.com/rixx/sticker",
@@ -1318,6 +1347,10 @@
     "author": "miketango@miketango.de",
     "license": "CC-BY-NC-SA-4.0",
     "title": "Cyber Cyber"
+  },
+  "cyber_simple": {
+    "link": "https://chaos.expert/ccc-ffm/sticker",
+    "title": "CYBER"
   },
   "cyber_sticker_export": {
     "license": "CC-BY-NC 4.0",
@@ -1403,7 +1436,9 @@
   },
   "drinks_cccamp2019": {},
   "drinks_for_me": {},
-  "easterhegg-2017-sticker-contour": {},
+  "easterhegg-2017-sticker-contour": {
+    "link": "https://chaos.expert/ccc-ffm/sticker"
+  },
   "eh19_bun_intended": {
     "license": "CC-BY-SA-4.0",
     "link": "https://eh19.easterhegg.eu/",
@@ -1434,10 +1469,19 @@
     "link": "https://github.com/SFTtech/sticker",
     "title": "Einmal mit Profis arbeiten"
   },
+  "eisenbahner-antifa": {
+    "language": "german",
+    "license": "CC0-1.0",
+    "link": "https://chaos.expert/ccc-ffm/sticker",
+    "tags": "bahnchaos",
+    "title": "EISENBAHNER-ANTIFA"
+  },
   "emails-are-like-postcards-unless-you-encrypt-them-fsfe.org": {
     "language": "english"
   },
-  "employees_libc": {},
+  "employees_libc": {
+    "link": "https://chaos.expert/ccc-ffm/sticker"
+  },
   "end_geoblocking": {
     "link": "https://thestickerarchive.tumblr.com"
   },
@@ -1988,6 +2032,13 @@
   },
   "green_rocket_cccamp2019": {},
   "gui-and-shell-oreilly": {},
+  "guteschienen_schlechteschienen": {
+    "language": "german",
+    "license": "CC0-1.0",
+    "link": "https://chaos.expert/ccc-ffm/sticker",
+    "tags": "bahnchaos",
+    "title": "Gute Schienen - Schlechte Schienen"
+  },
   "hack_this_site.org": {},
   "hackback": {
     "language": "english",
@@ -2501,12 +2552,20 @@
     "notes": "3mm bleed box",
     "title": "I hate computers!"
   },
+  "ice": {
+    "license": "CC0-1.0",
+    "link": "https://chaos.expert/ccc-ffm/sticker",
+    "tags": "bahnchaos",
+    "title": "ICE"
+  },
   "ich-hab-ein-geheimnis-amnesty-international": {},
   "iheart_malware": {
     "link": "https://github.com/securingdev/awesome-stickers",
     "notes": "Attrition / Jericho"
   },
-  "iipv6": {},
+  "iipv6": {
+    "link": "https://chaos.expert/ccc-ffm/sticker"
+  },
   "imagine-people-using-linux": {
     "link": "https://thestickerarchive.tumblr.com"
   },
@@ -2561,9 +2620,15 @@
   "je-suis-cch": {
     "link": "https://thestickerarchive.tumblr.com"
   },
-  "just_do_git_logo": {},
-  "just_do_git_swoosh": {},
-  "kabelknoten": {},
+  "just_do_git_logo": {
+    "link": "https://chaos.expert/ccc-ffm/sticker"
+  },
+  "just_do_git_swoosh": {
+    "link": "https://chaos.expert/ccc-ffm/sticker"
+  },
+  "kabelknoten": {
+    "link": "https://chaos.expert/ccc-ffm/sticker"
+  },
   "karaoke_cccamp2019": {},
   "keep-calm-read-fefe": {
     "link": "https://thestickerarchive.tumblr.com"
@@ -2574,7 +2639,9 @@
   "kein_bachup_kein_mitleid": {
     "link": "https://thestickerarchive.tumblr.com"
   },
-  "kein_backup": {},
+  "kein_backup": {
+    "link": "https://chaos.expert/ccc-ffm/sticker"
+  },
   "keine_software_illegal": {
     "link": "https://chaos.expert/ccc-ffm/sticker"
   },
@@ -2640,6 +2707,13 @@
     "link": "https://thestickerarchive.tumblr.com"
   },
   "logo_cccamp2019": {},
+  "lok_unlok": {
+    "language": "german",
+    "license": "CC0-1.0",
+    "link": "https://chaos.expert/ccc-ffm/sticker/",
+    "tags": "bahnchaos",
+    "title": "LOK - UNLOCK"
+  },
   "mail_ape": {
     "link": "https://github.com/securingdev/awesome-stickers",
     "notes": "Attrition / Jericho"
@@ -2665,12 +2739,16 @@
     "link": "https://thestickerarchive.tumblr.com",
     "notes": "Battlesmesh 2018"
   },
-  "meta": {},
+  "meta": {
+    "link": "https://chaos.expert/ccc-ffm/sticker"
+  },
   "mindless_worker": {},
   "ministerie_van_cyber": {
     "link": "https://thestickerarchive.tumblr.com"
   },
-  "mirror_beauty": {},
+  "mirror_beauty": {
+    "link": "https://chaos.expert/ccc-ffm/sticker"
+  },
   "mission-lifeline-seenotrettung-www.mission-lifeline.de": {},
   "music_cccamp2019": {},
   "m\u00e4ngelexemplar": {
@@ -2732,6 +2810,13 @@
   "nsa_inside": {
     "link": "https://thestickerarchive.tumblr.com"
   },
+  "nurdieschienezaehlt": {
+    "language": "german",
+    "license": "CC0-1.0",
+    "link": "https://chaos.expert/ccc-ffm/sticker/-/blob/master/bahnchaos/",
+    "tags": "bahnchaos",
+    "title": "Nur die Schiene Z\u00e4hlt"
+  },
   "official gnu": {
     "author": "Victor Siame",
     "license": "LAL-1.3",
@@ -2750,7 +2835,9 @@
     "link": "https://github.com/SFTtech/sticker",
     "tags": "openage"
   },
-  "pesthoernchen": {},
+  "pesthoernchen": {
+    "link": "https://chaos.expert/ccc-ffm/sticker"
+  },
   "pfeffi-statt-pfefferspray": {},
   "phone_cccamp2019": {},
   "pinguin-afra": {
@@ -2825,7 +2912,9 @@
   },
   "recycling_cccamp2019": {},
   "refreshing-memories": {},
-  "refugees_welcome": {},
+  "refugees_welcome": {
+    "link": "https://chaos.expert/ccc-ffm/sticker"
+  },
   "remove_this_sticker": {
     "link": "https://thestickerarchive.tumblr.com"
   },
@@ -2941,7 +3030,9 @@
     "link": "https://media.c3d2.de/u/vv01f/m/they-have-the-key/",
     "title": "NSA MONITORED DEVICE"
   },
-  "stiftung_warentest_2017": {},
+  "stiftung_warentest_2017": {
+    "link": "https://chaos.expert/ccc-ffm/sticker/"
+  },
   "stop_cccamp2019": {},
   "system_ist_sauber": {
     "author": "uwap",
@@ -2967,6 +3058,7 @@
     "author": "Gnom",
     "language": "german",
     "license": "CC0-1.0",
+    "link": "https://chaos.expert/ccc-ffm/sticker",
     "title": "Toilette wird Video\u00fcberwacht"
   },
   "toool": {
