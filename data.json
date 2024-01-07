@@ -1744,7 +1744,9 @@
     "license": "CC0-1.0",
     "link": "https://github.com/mkrl/misbrands"
   },
-  "glump-qualita\u0308t-ha\u0308tte-ihren-preis": {},
+  "glump-qualita\u0308t-ha\u0308tte-ihren-preis": {
+    "link": "https://github.com/glumpsticker/glumpsticker"
+  },
   "gnu_meditate": {
     "author": "Nevrax Design Team",
     "license": "GPL-3.0-or-later/GFDL-1.1-or-later",
