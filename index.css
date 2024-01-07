@@ -91,6 +91,10 @@ a {
   }
 }
 
+#submit {
+  float: right;
+}
+
 #logo {
   padding: 6px 16px;
 }
