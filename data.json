@@ -2835,6 +2835,10 @@
     "link": "https://github.com/SFTtech/sticker",
     "tags": "openage"
   },
+  "openwrt_hex": {
+    "link": "https://www.freewear.org/OpenWrt",
+    "title": "OpenWrt"
+  },
   "peaceWasNeverAnOption": {
     "author": "skoops <sticker@skoops.wtf>",
     "language": "english",
