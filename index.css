@@ -91,12 +91,20 @@ a {
   }
 }
 
-#submit {
-  float: right;
+.center-vertically {
+  display: flex;
+  align-items: center;
+}
+
+@media (max-width: 820px) {
+  #submit-text {
+    display: none;
+  }
 }
 
 #logo {
   padding: 6px 16px;
+  padding-right: 0px;
 }
 
 #logo * {
