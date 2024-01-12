@@ -1329,6 +1329,7 @@
   "cultivation_space_1x5cm": {
     "author": "Elio Qoshi",
     "link": "https://www.cultivation.space/",
+    "license": "CC-BY-SA-4.0",
     "title": "Cultivation Space"
   },
   "cybaer_angriff": {
@@ -1441,6 +1442,7 @@
   },
   "digitaldruide": {
     "link": "https://digitaldrui.de/",
+    "license": "CC-BY-NC-SA-4.0",
     "title": "Digitaldruide"
   },
   "docker_dead_whale": {
