@@ -1445,6 +1445,12 @@
     "license": "CC-BY-NC-SA-4.0",
     "title": "Digitaldruide"
   },
+  "diy-or-die_blau": {
+    "author": "Max Genson",
+    "language": "english",
+    "license": "CC0-1.0",
+    "title": "DIY & DIE - Fuck VDE"
+  },
   "docker_dead_whale": {
     "tags": "docker"
   },
@@ -1759,6 +1765,12 @@
   },
   "fuck-cloudflare": {
     "link": "https://thestickerarchive.tumblr.com"
+  },
+  "fuck-vde": {
+    "author": "Max Genson",
+    "language": "english",
+    "license": "CC0-1.0",
+    "title": "FUCK VDE"
   },
   "fuck_bnd": {
     "link": "https://thestickerarchive.tumblr.com"
