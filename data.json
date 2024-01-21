@@ -1459,7 +1459,8 @@
     "title": "DIY & DIE - Fuck VDE"
   },
   "docker_dead_whale": {
-    "tags": "docker"
+    "tags": "docker",
+    "author": "XenGi"
   },
   "drinks_cccamp2019": {},
   "drinks_for_me": {},
@@ -1474,7 +1475,8 @@
     "title": "Bun Intended"
   },
   "ein-herz-fu\u0308r-faschisten": {
-    "language": "german"
+    "language": "german",
+    "author": "stickma.de"
   },
   "einhornstandarte_black": {
     "language": "german",
