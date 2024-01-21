@@ -1,6 +1,7 @@
 # Chaos Sticker Collection
 
-A collection of stickers found at hacker events made available for free reproduction. Everything from slogans to unicorns goes. :-)
+A virtual sticker box with sticker designs/photos found at hacker events made available for free reproduction.
+Everything from slogans to unicorns goes. :-)
 
 [View Collection](https://mwarning.github.io/chaos-sticker-collection/)
 
