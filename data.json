@@ -1141,6 +1141,13 @@
     "notes": "3mm bleed box",
     "title": "Bitte nicht in den Mund nehmen!"
   },
+  "blaue-autos-antifa": {
+    "author": "nessi6688",
+    "language": "german",
+    "license": "CC-BY-NC-SA-4.0",
+    "tags": "thw antifa",
+    "title": "Blaue Autos Antifa"
+  },
   "blue_rocket_cccamp2019": {},
   "blue_yellow_green_rocket_cccamp2019": {},
   "bnd_nsa_pornoschauen": {
@@ -1328,8 +1335,8 @@
   },
   "cultivation_space_1x5cm": {
     "author": "Elio Qoshi",
-    "link": "https://www.cultivation.space/",
     "license": "CC-BY-SA-4.0",
+    "link": "https://www.cultivation.space/",
     "title": "Cultivation Space"
   },
   "cybaer_angriff": {
@@ -1441,8 +1448,8 @@
     "language": "german"
   },
   "digitaldruide": {
-    "link": "https://digitaldrui.de/",
     "license": "CC-BY-NC-SA-4.0",
+    "link": "https://digitaldrui.de/",
     "title": "Digitaldruide"
   },
   "diy-or-die_blau": {
