@@ -1540,6 +1540,12 @@
   "facebook-fascism": {
     "language": "english"
   },
+  "fahrbahnradler_antifa": {
+    "author": "DerAndere",
+    "language": "german",
+    "license": "CC0-1.0",
+    "title": "Fahrbahnradler-ANTIFA"
+  },
   "fairydust": {},
   "fairydust_rocket": {},
   "fck-afd": {},
