@@ -2816,11 +2816,24 @@
     "license": "CC-BY-NC-SA-4.0",
     "title": "M\u00e4ngelexemplar"
   },
+  "namensschild_prideflag": {
+    "author": "nachtpfoetchen",
+    "license": "CC0-1.0",
+    "link": "https://git.bau-ha.us/nachtpfoetchen/sticker",
+    "title": "pride flag name tag"
+  },
   "netthier": {
     "language": "german",
     "link": "https://github.com/maschinendeck/DesignPropositions",
     "tags": "nett",
     "title": "Nett Hier"
+  },
+  "netzteilsticker": {
+    "author": "nachtpfoetchen",
+    "license": "CC0-1.0",
+    "link": "https://git.bau-ha.us/nachtpfoetchen/sticker/",
+    "notes": "Needs to be manually adjusted in inkscape and printed out with a label printer.",
+    "title": "Netzteil"
   },
   "next_fuckup": {
     "author": "miketango@miketango.de",
@@ -3062,6 +3075,13 @@
     "link": "https://thestickerarchive.tumblr.com"
   },
   "smartphone_cccamp2019": {},
+  "smash_the_cistem": {
+    "author": "nachtpfoetchen",
+    "language": "english",
+    "license": "CC0-1.0",
+    "link": "https://git.bau-ha.us/nachtpfoetchen/sticker/",
+    "title": "SMASH THE CISTEM"
+  },
   "smoking_cccamp2019": {},
   "snowden_ehrenmitglied": {
     "link": "https://thestickerarchive.tumblr.com"
@@ -3124,6 +3144,13 @@
     "title": "Taken From Srap Heap"
   },
   "telephone_booth_cccamp2019": {},
+  "test_pattern": {
+    "author": "nachtpfoetchen",
+    "language": "english",
+    "license": "CC0-1.0",
+    "link": "https://git.bau-ha.us/nachtpfoetchen/sticker/",
+    "title": "test failed"
+  },
   "toilette_videoueberwachung": {
     "author": "Gnom",
     "language": "german",
