@@ -16,7 +16,18 @@ window.onload = () => {
       document.getElementById('lds-roller').remove();
 
       $('#filter').oninput = function () {
-         addImages(myJson, this.value.toLowerCase());
+        const filter = this.value.toLowerCase()
+        // Add filter to URL
+        history.replaceState(null, null, document.location.href.split("?")[0] + "?filter=" + encodeURIComponent(filter));
+        addImages(myJson, filter);
+      }
+
+      // Apply filter from URL
+      const url_params = new URLSearchParams(window.location.search);
+      const filter = url_params.get("filter") || "";
+      if (filter) {
+        $('#filter').value = filter
+        addImages(myJson, filter);
       }
     })
     .catch(err => {
