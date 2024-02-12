@@ -18,7 +18,11 @@ window.onload = () => {
       $('#filter').oninput = function () {
         const filter = this.value.toLowerCase()
         // Add filter to URL
-        history.replaceState(null, null, document.location.href.split("?")[0] + "?filter=" + encodeURIComponent(filter));
+        if (filter) {
+          history.replaceState(null, null, document.location.href.split("?")[0] + "?filter=" + encodeURIComponent(filter));
+        } else {
+          history.replaceState(null, null, document.location.href.split("?")[0]);
+        }
         addImages(myJson, filter);
       }
 
