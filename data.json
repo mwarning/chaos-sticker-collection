@@ -2893,6 +2893,10 @@
     "tags": "bahnchaos",
     "title": "Nur die Schiene Z\u00e4hlt"
   },
+  "ocaml_sticker": {
+    "link": "https://github.com/ocaml/ocaml.org/tree/main/asset/policies/logos",
+    "title": "OCaml"
+  },
   "official gnu": {
     "author": "Victor Siame",
     "license": "LAL-1.3",
