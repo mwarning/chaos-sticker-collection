@@ -27,6 +27,7 @@ figure {
   max-height: 200px;
   margin: 10px;
   box-shadow: 1px 4px 10px;
+  background-color: white;
 }
 
 @keyframes fadeIn {
