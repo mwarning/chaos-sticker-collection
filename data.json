@@ -63,6 +63,41 @@
   "35c3-yellow-on-black": {
     "language": "english"
   },
+  "403 forbidden": {
+    "author": "sawaratsuki",
+    "license": "CC-BY-SA-4.0",
+    "link": "https://github.com/SAWARATSUKI/KawaiiLogos",
+    "tags": "http",
+    "title": "Kawaai 403 Forbidden"
+  },
+  "404 notfound": {
+    "author": "sawaratsuki",
+    "license": "CC-BY-SA-4.0",
+    "link": "https://github.com/SAWARATSUKI/KawaiiLogos",
+    "tags": "http",
+    "title": "Kawaai 403 Not Found Code"
+  },
+  "418 i'm a teapot": {
+    "author": "sawaratsuki",
+    "license": "CC-BY-SA-4.0",
+    "link": "https://github.com/SAWARATSUKI/KawaiiLogos",
+    "tags": "http",
+    "title": "Kawaai 418 I'm a teapot"
+  },
+  "500 internalservererror": {
+    "author": "sawaratsuki",
+    "license": "CC-BY-SA-4.0",
+    "link": "https://github.com/SAWARATSUKI/KawaiiLogos",
+    "tags": "http",
+    "title": "Kawaai 500 Internal Server Error"
+  },
+  "503 serviceunavailable": {
+    "author": "sawaratsuki",
+    "license": "CC-BY-SA-4.0",
+    "link": "https://github.com/SAWARATSUKI/KawaiiLogos",
+    "tags": "http",
+    "title": "Kawaai 503 Service Unavailable"
+  },
   "Amazon_Nein_Danke print": {
     "author": "maryshiro",
     "language": "german",
@@ -1109,6 +1144,13 @@
   "asyl_snowden": {
     "link": "https://thestickerarchive.tumblr.com"
   },
+  "atprotocol": {
+    "author": "sawaratsuki",
+    "license": "CC-BY-SA-4.0",
+    "link": "https://github.com/SAWARATSUKI/KawaiiLogos",
+    "tags": "bluesky",
+    "title": "AT Protocol"
+  },
   "attention_cccamp2019": {},
   "attention_victim_blaming": {
     "author": "miketango@miketango.de",
@@ -1150,6 +1192,12 @@
   },
   "blue_rocket_cccamp2019": {},
   "blue_yellow_green_rocket_cccamp2019": {},
+  "bluesky": {
+    "author": "sawaratsuki",
+    "license": "CC-BY-SA-4.0",
+    "link": "https://github.com/SAWARATSUKI/KawaiiLogos",
+    "title": "Kawaii Bluesky Logo"
+  },
   "bnd_nsa_pornoschauen": {
     "link": "https://thestickerarchive.tumblr.com"
   },
@@ -2591,6 +2639,12 @@
     "language": "english",
     "title": "Home Taping"
   },
+  "hono": {
+    "author": "sawaratsuki",
+    "license": "CC-BY-SA-4.0",
+    "link": "https://github.com/SAWARATSUKI/KawaiiLogos",
+    "title": "Kawaii Hono Logo"
+  },
   "i hate computers": {
     "author": "jaseg",
     "language": "german",
@@ -2598,6 +2652,34 @@
     "link": "https://github.com/jaseg/sticker",
     "notes": "3mm bleed box",
     "title": "I hate computers!"
+  },
+  "iamdesigner!": {
+    "author": "sawaratsuki",
+    "language": "japanese",
+    "license": "CC-BY-SA-4.0",
+    "link": "https://github.com/SAWARATSUKI/KawaiiLogos",
+    "title": "I'm a designer"
+  },
+  "iamdesigner!english": {
+    "author": "sawaratsuki",
+    "language": "english",
+    "license": "CC-BY-SA-4.0",
+    "link": "https://github.com/SAWARATSUKI/KawaiiLogos",
+    "title": "I'm a designer"
+  },
+  "iamprogrammer!": {
+    "author": "sawaratsuki",
+    "language": "japanese",
+    "license": "CC-BY-SA-4.0",
+    "link": "https://github.com/SAWARATSUKI/KawaiiLogos",
+    "title": "I'm a programmer"
+  },
+  "iamprogrammerenglish": {
+    "author": "sawaratsuki",
+    "language": "english",
+    "license": "CC-BY-SA-4.0",
+    "link": "https://github.com/SAWARATSUKI/KawaiiLogos",
+    "title": "I'm a programmer"
   },
   "ice": {
     "license": "CC0-1.0",
@@ -2617,6 +2699,12 @@
     "link": "https://thestickerarchive.tumblr.com"
   },
   "information_cccamp2019": {},
+  "intellij idea": {
+    "author": "sawaratsuki",
+    "license": "CC-BY-SA-4.0",
+    "link": "https://github.com/SAWARATSUKI/KawaiiLogos",
+    "title": "Kawaii IntelliJ IDEA Logo"
+  },
   "interested_in_time_travel": {
     "author": "das_mool",
     "language": "english",
@@ -2719,6 +2807,12 @@
     "link": "https://thestickerarchive.tumblr.com"
   },
   "komona": {},
+  "kotlin": {
+    "author": "sawaratsuki",
+    "license": "CC-BY-SA-4.0",
+    "link": "https://github.com/SAWARATSUKI/KawaiiLogos",
+    "title": "Kawaii Kotlin Logo"
+  },
   "l3ai-ccon": {
     "link": "https://thestickerarchive.tumblr.com"
   },
@@ -2731,6 +2825,12 @@
     "link": "https://maryshi.ro",
     "tags": "cryptoparty netzpolitik",
     "title": "Landesverr\u00e4ter"
+  },
+  "laraveltransparent": {
+    "author": "sawaratsuki",
+    "license": "CC-BY-SA-4.0",
+    "link": "https://github.com/SAWARATSUKI/KawaiiLogos",
+    "title": "Kawaii Laravel Logo"
   },
   "leak_more_docs": {
     "author": "maryshiro",
@@ -2813,6 +2913,24 @@
     "link": "https://chaos.expert/ccc-ffm/sticker"
   },
   "mission-lifeline-seenotrettung-www.mission-lifeline.de": {},
+  "misskey": {
+    "author": "sawaratsuki",
+    "license": "CC-BY-SA-4.0",
+    "link": "https://github.com/SAWARATSUKI/KawaiiLogos",
+    "title": "Kawaii Misskey Logo"
+  },
+  "misskey.io": {
+    "author": "sawaratsuki",
+    "license": "CC-BY-SA-4.0",
+    "link": "https://github.com/SAWARATSUKI/KawaiiLogos",
+    "title": "Kawaii Misskey.io Logo"
+  },
+  "moviemaker4": {
+    "author": "sawaratsuki",
+    "license": "CC-BY-SA-4.0",
+    "link": "https://github.com/SAWARATSUKI/KawaiiLogos",
+    "title": "Kawaii Movie Maker 4 Logo"
+  },
   "music_cccamp2019": {},
   "m\u00e4ngelexemplar": {
     "author": "miketango@miketango.de",
@@ -2872,6 +2990,12 @@
   "no_smoking_cccamp2019": {},
   "no_spofs_no_admins": {
     "link": "https://thestickerarchive.tumblr.com"
+  },
+  "node.js": {
+    "author": "sawaratsuki",
+    "license": "CC-BY-SA-4.0",
+    "link": "https://github.com/SAWARATSUKI/KawaiiLogos",
+    "title": "Kawaii Node.js Logo"
   },
   "nonbinarytropia": {
     "license": "Public Domain",
@@ -2996,6 +3120,12 @@
   },
   "rc3": {},
   "rc3_haecksen": {},
+  "react": {
+    "author": "sawaratsuki",
+    "license": "CC-BY-SA-4.0",
+    "link": "https://github.com/SAWARATSUKI/KawaiiLogos",
+    "title": "Kawaii React Logo"
+  },
   "react_misbrand": {
     "author": "Mikhai Korolev",
     "license": "CC0-1.0",
@@ -3008,6 +3138,12 @@
   },
   "remove_this_sticker": {
     "link": "https://thestickerarchive.tumblr.com"
+  },
+  "replit": {
+    "author": "sawaratsuki",
+    "license": "CC-BY-SA-4.0",
+    "link": "https://github.com/SAWARATSUKI/KawaiiLogos",
+    "title": "Kawaii Replit Logo"
   },
   "resistance_sticker_print": {
     "author": "maryshiro",
@@ -3146,6 +3282,12 @@
     "link": "https://github.com/SFTtech/sticker",
     "title": "Dieses System ist sicher"
   },
+  "tailwindcss": {
+    "author": "sawaratsuki",
+    "license": "CC-BY-SA-4.0",
+    "link": "https://github.com/SAWARATSUKI/KawaiiLogos",
+    "title": "Kawaii Tailwind CSS Logo"
+  },
   "taken_from_scrap_heap": {
     "author": "miketango@miketango.de",
     "license": "CC-BY-NC-SA-4.0",
@@ -3199,6 +3341,12 @@
     "license": "CC0-1.0",
     "link": "https://github.com/manu-cyber/stickers/tree/master/laber-nich-tuwat",
     "tags": "tuwat"
+  },
+  "typescript": {
+    "author": "sawaratsuki",
+    "license": "CC-BY-SA-4.0",
+    "link": "https://github.com/SAWARATSUKI/KawaiiLogos",
+    "title": "Kawaii TypeScript Logo"
   },
   "ubuntu_misbrand": {
     "author": "Mikhai Korolev",
