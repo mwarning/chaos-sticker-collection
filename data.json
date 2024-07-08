@@ -1355,6 +1355,12 @@
   "click-buy-for-free-download": {
     "language": "english"
   },
+  "cloudflare": {
+    "author": "sawaratsuki",
+    "license": "CC-BY-SA-4.0",
+    "link": "https://github.com/SAWARATSUKI/KawaiiLogos",
+    "title": "Kawaai Cloudflare"
+  },
   "clown-computing": {
     "language": "english"
   },
@@ -1608,6 +1614,12 @@
     "author": "Mikhai Korolev",
     "license": "CC0-1.0",
     "link": "https://github.com/mkrl/misbrands"
+  },
+  "figma": {
+    "author": "sawaratsuki",
+    "license": "CC-BY-SA-4.0",
+    "link": "https://github.com/SAWARATSUKI/KawaiiLogos",
+    "title": "Kawaai Figma"
   },
   "fire_extinguisher_cccamp2019": {},
   "fireplace_cccamp2019": {},
@@ -1887,6 +1899,12 @@
     "tags": "gnu",
     "title": "Levitating, Meditating, Flute-playing Gnu"
   },
+  "golang": {
+    "author": "sawaratsuki",
+    "license": "CC-BY-SA-4.0",
+    "link": "https://github.com/SAWARATSUKI/KawaiiLogos",
+    "title": "Kawaai Go Lang"
+  },
   "gopher-stickers-angry": {
     "author": "Takuya Ueda",
     "license": "CC-BY-3.0",
@@ -2160,6 +2178,12 @@
   "handicapped_cccamp2019": {},
   "happy-dance": {
     "link": "https://thestickerarchive.tumblr.com"
+  },
+  "haskell": {
+    "author": "sawaratsuki",
+    "license": "CC-BY-SA-4.0",
+    "link": "https://github.com/SAWARATSUKI/KawaiiLogos",
+    "title": "Kawaai Haskell"
   },
   "heart-of-code": {
     "language": "english",
