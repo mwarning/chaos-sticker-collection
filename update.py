@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
 
+import pathlib
 import readline
 import hashlib
 import signal
@@ -170,13 +171,22 @@ def handle_image(i, n, prev, db, image):
 
 def add_previews(db):
     def find_images_paths(name):
+        image_exts = (".png", ".svg", ".pdf")
         images = []
         for entry in glob.glob("images/{}/*".format(name), recursive=True):
             if not os.path.isfile(entry):
                 continue
-            if entry.endswith(".pdf") or entry.endswith(".png") or entry.endswith(".jpg") or entry.endswith(".svg"):
+            if entry.endswith(image_exts):
                 images.append(entry)
-        return images
+
+        # sort by extensions
+        def indexOf(ext):
+            for i, e in enumerate(image_exts):
+                if e == ext:
+                    return i
+            return len(image_exts)
+
+        return sorted(images, key=lambda image: indexOf(pathlib.Path(image).suffix))
 
     for name in db:
         if not os.path.isfile("images/{}/preview.webp".format(name)):
@@ -185,6 +195,7 @@ def add_previews(db):
 
             done = False
             for path in image_paths:
+                print("Try with '{}'".format(path))
                 rc = os.system("convert -resize 300 '{}' 'images/{}/preview.webp'".format(path, name))
                 if rc == 0:
                     done = True
@@ -251,10 +262,10 @@ def main():
             if not image.startswith("images/"):
                 filename = os.path.basename(image)
                 base = os.path.splitext(filename)[0].lower()
-                dst = "images/{}".format(base)
-                if not os.path.isdir(dst):
-                    os.makedirs(dst)
-                shutil.copyfile(image, "{}/{}".format(dst, filename))
+                dst_folder = "images/{}".format(base)
+                if not os.path.isdir(dst_folder):
+                    os.makedirs(dst_folder)
+                shutil.copyfile(image, "{}/{}".format(dst_folder, filename))
                 images.append(base)
             elif os.path.isdir(image):
                 images.append(os.path.basename(image))
@@ -265,6 +276,7 @@ def main():
         images = list(get_image_set() - set(db_images))
 
     images.sort()
+    images = list(set(images)) # make list distinct
 
     if check_duplicate_images():
         print("Please remove duplicate files first!")
