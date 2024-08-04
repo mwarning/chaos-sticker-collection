@@ -3295,6 +3295,48 @@
     "link": "https://chaos.expert/ccc-ffm/sticker/"
   },
   "stop_cccamp2019": {},
+  "system_0stars": {
+    "author": "JottJott",
+    "language": "german",
+    "license": "CC0-1.0",
+    "tags": "system_stars",
+    "title": "Betriebserlaubnis Erloschen"
+  },
+  "system_1star": {
+    "author": "JottJott",
+    "language": "german",
+    "license": "CC0-1.0",
+    "tags": "system_stars",
+    "title": "Dieses System ist historisch gewachsen"
+  },
+  "system_2stars": {
+    "author": "JottJott",
+    "language": "german",
+    "license": "CC0-1.0",
+    "tags": "system_stars",
+    "title": "Dieses System darf nur offline betrieben werden!"
+  },
+  "system_3stars": {
+    "author": "JottJott",
+    "language": "german",
+    "license": "CC0-1.0",
+    "tags": "system_stars",
+    "title": "Dieses System erh\u00e4lt keine Updates - Upcycle it with Linux!"
+  },
+  "system_4stars": {
+    "author": "JottJott",
+    "language": "german",
+    "license": "CC0-1.0",
+    "tags": "system_stars",
+    "title": "Dieses System ben\u00f6tigt einen Neustart um wichtige updates zu verarbeiten"
+  },
+  "system_5stars": {
+    "author": "JottJott",
+    "language": "german",
+    "license": "CC0-1.0",
+    "tags": "system_stars",
+    "title": "Dieses System ist sicher"
+  },
   "system_ist_sauber": {
     "author": "uwap",
     "language": "german",
