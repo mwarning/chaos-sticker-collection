@@ -1385,8 +1385,8 @@
   },
   "cultivation_space_1x5cm": {
     "author": "Elio Qoshi",
-    "link": "https://www.cultivation.space/",
     "license": "CC-BY-SA-4.0",
+    "link": "https://www.cultivation.space/",
     "title": "Cultivation Space"
   },
   "cybaer_angriff": {
@@ -1498,8 +1498,8 @@
     "language": "german"
   },
   "digitaldruide": {
-    "link": "https://digitaldrui.de/",
     "license": "CC-BY-NC-SA-4.0",
+    "link": "https://digitaldrui.de/",
     "title": "Digitaldruide"
   },
   "diy-or-die_blau": {
@@ -1509,8 +1509,8 @@
     "title": "DIY & DIE - Fuck VDE"
   },
   "docker_dead_whale": {
-    "tags": "docker",
-    "author": "XenGi"
+    "author": "XenGi",
+    "tags": "docker"
   },
   "drinks_cccamp2019": {},
   "drinks_for_me": {},
@@ -1525,8 +1525,8 @@
     "title": "Bun Intended"
   },
   "ein-herz-fu\u0308r-faschisten": {
-    "language": "german",
-    "author": "stickma.de"
+    "author": "stickma.de",
+    "language": "german"
   },
   "einhornstandarte_black": {
     "language": "german",
