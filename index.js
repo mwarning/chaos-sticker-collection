@@ -98,6 +98,11 @@ function getUnderline(name, obj) {
     html.push(obj['license'])
   }
 
+  if ('year' in obj) {
+    html.push(obj['year'])
+  }
+
+
   // edit link
   //html.push('<a class="edit" href="submit.html?' + encodeObj(name, obj) + '" alt="edit">&#x270D;</a>')
 
