@@ -72,6 +72,12 @@ def is_valid_title(author):
 def is_valid_notes(notes):
     return True
 
+def is_valid_year(year):
+    y = int(year)
+    if y > 1970 and y < 2077:
+        return True
+    return False 
+
 def is_valid_tags(tags):
     if tags.lower() != tags:
         print("Only lower case letters please.")
@@ -123,6 +129,7 @@ def handle_image(i, n, prev, db, image):
     license = default.get("license", "")
     language = default.get("language", "")
     link = default.get("link", "")
+    year = default.get("year","")
 
     while True:
         tags = ask_value("Tags: ", is_valid_tags, tags)
@@ -132,6 +139,7 @@ def handle_image(i, n, prev, db, image):
         license = ask_value("License: ", is_valid_license, license)
         language = ask_value("Language: ", is_valid_language, language)
         link = ask_value("Link: ", is_valid_link, link)
+        year = ask_value("Release Year: ", is_valid_year, year)
 
         answer = ask_value("next (1), again (2), skip (3), exit (4): ",
             lambda v: v in ["1", "2", "3", "4"], "1")
@@ -161,6 +169,10 @@ def handle_image(i, n, prev, db, image):
         obj["license"] = license
     if len(link) > 0:
         obj["link"] = link
+    if len(year) > 0:
+        obj["year"] = year 
+
+
 
     db[image] = obj
     prev[0] = obj
