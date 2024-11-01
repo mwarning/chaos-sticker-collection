@@ -1124,7 +1124,12 @@
     "language": "german"
   },
   "antistatische_aktion": {
-    "language": "german"
+    "author": "overflo",
+    "language": "german",
+    "license": "Public Domain",
+    "notes": "Immer schoen geerdet bleiben",
+    "tags": "antistatischeaktion antistatische",
+    "title": "Antistatische Aktion"
   },
   "arlnet": {
     "author": "Sascha Ludwig",
@@ -3552,6 +3557,15 @@
   },
   "yellow_rocket_cccamp2019": {},
   "you-smell-like-pizza": {},
+  "zauber": {
+    "author": "overflo, inspired by yetzt",
+    "language": "german",
+    "license": "Public Domain",
+    "link": "https://vis.social/@yetzt/113274113731760432",
+    "notes": "AMTSPRACHE IST DEUTSCH! \ud83d\ude21",
+    "tags": "zauber cyber zauberei",
+    "title": "ZAUBER"
+  },
   "zensurheberrecht_outline": {
     "language": "german",
     "link": "https://wiki.cccfr.de/_media/projekte:projekte:zensurheberrecht_outline.pdf",
