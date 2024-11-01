@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="152mm"
+   height="54mm"
+   viewBox="0 0 152 54"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4 (e7c3feb100, 2024-10-09)"
+   sodipodi:docname="zauber.svg"
+   inkscape:export-filename="zauber.png"
+   inkscape:export-xdpi="300"
+   inkscape:export-ydpi="300"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showguides="true"
+     inkscape:zoom="0.92725428"
+     inkscape:cx="200.59223"
+     inkscape:cy="-31.814358"
+     inkscape:window-width="1440"
+     inkscape:window-height="960"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer2">
+    <sodipodi:guide
+       position="76.000004,27.000001"
+       orientation="1,0"
+       id="guide1"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="76.000004,27.000001"
+       orientation="0,-1"
+       id="guide3"
+       inkscape:locked="false" />
+  </sodipodi:namedview>
+  <defs
+     id="defs1" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="hinten"
+     style="fill:#ffff00">
+    <rect
+       style="fill:#ffff00;stroke:#000000;stroke-width:0.1"
+       id="rect1"
+       width="151.99998"
+       height="53.999996"
+       x="0"
+       y="0" />
+  </g>
+  <g
+     inkscape:label="vorn"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:42.8788px;font-family:stalker1;-inkscape-font-specification:stalker1;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#241f1c;stroke:#000000;stroke-width:0.502485;stroke-opacity:1"
+       x="9.3581142"
+       y="40.542652"
+       id="text1"><tspan
+         sodipodi:role="line"
+         id="tspan1"
+         style="font-size:42.8788px;fill:#241f1c;stroke:#000000;stroke-width:0.502485;stroke-opacity:1"
+         x="9.3581142"
+         y="40.542652">ZAUBER</tspan></text>
+  </g>
+</svg>
