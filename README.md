@@ -28,6 +28,7 @@ Supported fields:
 * License: `CC0-1.0` ([SPDX](https://spdx.org/licenses/) format)
 * Language: `english` (lower case)
 * Link: `https://example.com` (lower case)
+* Year: `2018`
 
 All fields are optional!
 
