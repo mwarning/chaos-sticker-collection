@@ -208,7 +208,7 @@ def add_previews(db):
             done = False
             for path in image_paths:
                 print("Try with '{}'".format(path))
-                rc = os.system("convert -resize 300 '{}' 'images/{}/preview.webp'".format(path, name))
+                rc = os.system("magick '{}' -resize 300 'images/{}/preview.webp'".format(path, name))
                 if rc == 0:
                     done = True
                     break
