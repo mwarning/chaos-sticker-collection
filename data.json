@@ -1342,6 +1342,15 @@
     "tags": "joke cccb",
     "title": "CCCB/W"
   },
+  "ceci_nest_pas_un_autocollant": {
+    "author": "nylki",
+    "language": "french",
+    "license": "CC0-1.0",
+    "notes": "First distrubuted at GPN 21 (2023)",
+    "tags": "art magritte pipe",
+    "title": "Ceci n'est pas un autocollant",
+    "year": "2023"
+  },
   "change_room_cccamp2019": {},
   "chaos_west_mitRand_randlos_17": {
     "author": "Hans",
@@ -1505,6 +1514,15 @@
   "diaspora_splash": {},
   "die-spinnen-die-bullen-die-schweine": {
     "language": "german"
+  },
+  "dies_ist_kein_Aufkleber": {
+    "author": "nylki",
+    "language": "german",
+    "license": "CC0-1.0",
+    "notes": "First distrubuted at GPN 21 (2023)",
+    "tags": "art magritte pipe pfeife",
+    "title": "Dies ist kein Aufkleber",
+    "year": "2023"
   },
   "dieser-artikel-wurde-zur-lo\u0308schung-vorgeschlagen": {
     "language": "german"
