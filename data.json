@@ -1106,6 +1106,13 @@
   "angry-letter": {
     "link": "https://thestickerarchive.tumblr.com"
   },
+  "angular": {
+    "author": "sawaratsuki",
+    "license": "CC-BY-SA-4.0",
+    "link": "https://github.com/SAWARATSUKI/KawaiiLogos",
+    "tags": "kawaii angular",
+    "title": "Kawaii Angular"
+  },
   "anonymous": {
     "license": "CC0-1.0",
     "link": "https://commons.wikimedia.org/wiki/File:Anonymous_emblem.svg"
@@ -1371,6 +1378,13 @@
     "author": "rixx",
     "link": "https://github.com/rixx/sticker",
     "tags": "mastodon"
+  },
+  "charcoal": {
+    "author": "sawaratsuki",
+    "license": "CC-BY-SA-4.0",
+    "link": "https://github.com/SAWARATSUKI/KawaiiLogos",
+    "tags": "kawaii charcoal",
+    "title": "Kawaii Charcoal"
   },
   "click-buy-for-free-download": {
     "language": "english"
@@ -1909,6 +1923,13 @@
   },
   "get_hack_reset_it_lereset": {
     "link": "https://thestickerarchive.tumblr.com"
+  },
+  "github": {
+    "author": "sawaratsuki",
+    "license": "CC-BY-SA-4.0",
+    "link": "https://github.com/SAWARATSUKI/KawaiiLogos",
+    "tags": "kawaii github",
+    "title": "Kawaii Github"
   },
   "github-error-page-unicorn": {
     "link": "https://github.com"
@@ -3007,6 +3028,13 @@
     "notes": "Needs to be manually adjusted in inkscape and printed out with a label printer.",
     "title": "Netzteil"
   },
+  "next.js": {
+    "author": "sawaratsuki",
+    "license": "CC-BY-SA-4.0",
+    "link": "https://github.com/SAWARATSUKI/KawaiiLogos",
+    "tags": "kawaii next",
+    "title": "Kawaii Next"
+  },
   "next_fuckup": {
     "author": "miketango@miketango.de",
     "language": "english",
@@ -3219,6 +3247,13 @@
     "notes": "Attrition / Jericho"
   },
   "russian_backup": {},
+  "rust": {
+    "author": "sawaratsuki",
+    "license": "CC-BY-SA-4.0",
+    "link": "https://github.com/SAWARATSUKI/KawaiiLogos",
+    "tags": "kawaii rust",
+    "title": "Kawaii Rust"
+  },
   "rust_ferris_trans": {
     "license": "CC-BY-3.0",
     "link": "https://rustacean.net",
