@@ -73,6 +73,8 @@ def is_valid_notes(notes):
     return True
 
 def is_valid_year(year):
+    if len(year) == 0:
+        return True
     y = int(year)
     if y > 1970 and y < 2077:
         return True
@@ -171,8 +173,6 @@ def handle_image(i, n, prev, db, image):
         obj["link"] = link
     if len(year) > 0:
         obj["year"] = year 
-
-
 
     db[image] = obj
     prev[0] = obj
