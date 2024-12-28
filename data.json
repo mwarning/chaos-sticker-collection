@@ -1041,6 +1041,15 @@
     "tags": "policy",
     "title": "Access Policy Public"
   },
+  "activate-linux.org": {
+    "author": "9hax",
+    "language": "english",
+    "license": "CC-BY-3.0",
+    "link": "https://activate-linux.org",
+    "tags": "linux joke funny website link qr",
+    "title": "Activate Linux!",
+    "year": "2023"
+  },
   "ada": {
     "link": "https://thestickerarchive.tumblr.com"
   },
@@ -1629,6 +1638,15 @@
     "link": "https://maryshi.ro",
     "tags": "cryptoparty",
     "title": "Etliche Methoden"
+  },
+  "estrogen-injection": {
+    "author": "9hax, 420kekscope",
+    "language": "english",
+    "license": "CC0-1.0",
+    "notes": "Please do not use this design maliciously.",
+    "tags": "estrogen hrt trans pride funny",
+    "title": "Estrogen Injection Vial Sticker",
+    "year": "2024"
   },
   "eu-camera-surveillance-smash-freiheitsfoo": {
     "language": "english"
