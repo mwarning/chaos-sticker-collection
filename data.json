@@ -1639,6 +1639,55 @@
     "tags": "cryptoparty",
     "title": "Etliche Methoden"
   },
+  "espr": {
+    "author": "Julia Schuster",
+    "language": "english",
+    "license": "CC-BY-NC-SA-4.0",
+    "tags": "espr ctf",
+    "title": "eat sleep pwn repeat - logo",
+    "year": "2015"
+  },
+  "espr_33c3": {
+    "author": "comawill",
+    "language": "english",
+    "license": "CC-BY-NC-SA-4.0",
+    "tags": "33c3 espr ctf",
+    "title": "eat sleep pwn repeat - 33C3 logo",
+    "year": "2016"
+  },
+  "espr_33c3_challenge": {
+    "author": "comawill",
+    "language": "english",
+    "license": "CC-BY-NC-SA-4.0",
+    "link": "https://archive.aachen.ccc.de/33c3ctf.ccc.ac/challenges/index.html",
+    "tags": "33c3 espr ctf assembler",
+    "title": "eat sleep pwn repeat - 33C3 CTF challenge",
+    "year": "2016"
+  },
+  "espr_34c3": {
+    "author": "comawill",
+    "language": "english",
+    "license": "CC-BY-NC-SA-4.0",
+    "tags": "34c3 espr ctf",
+    "title": "eat sleep pwn repeat - 34C3 logo",
+    "year": "2017"
+  },
+  "espr_35c3": {
+    "author": "comawill",
+    "language": "english",
+    "license": "CC-BY-NC-SA-4.0",
+    "tags": "35c3 espr ctf",
+    "title": "eat sleep pwn repeat - 35C3 logo",
+    "year": "2018"
+  },
+  "espr_cccamp19": {
+    "author": "comawill",
+    "language": "english",
+    "license": "CC-BY-NC-SA-4.0",
+    "tags": "cccamp19 espr ctf",
+    "title": "eat sleep pwn repeat - CCCamp19 logo",
+    "year": "2019"
+  },
   "estrogen-injection": {
     "author": "9hax, 420kekscope",
     "language": "english",
