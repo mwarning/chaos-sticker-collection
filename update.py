@@ -35,7 +35,7 @@ def check_duplicate_images():
 
     dups_found = False
     hashes = {}
-    for entry in glob.glob("images/", recursive=True):
+    for entry in sorted(glob.glob("images/", recursive=True)):
         if os.path.isfile(entry):
             hash = hash_file(entry)
             if hash in hashes:
@@ -185,7 +185,7 @@ def add_previews(db):
     def find_images_paths(name):
         image_exts = (".png", ".svg", ".pdf")
         images = []
-        for entry in glob.glob("images/{}/*".format(name), recursive=True):
+        for entry in sorted(glob.glob("images/{}/*".format(name), recursive=True)):
             if not os.path.isfile(entry):
                 continue
             if entry.endswith(image_exts):
@@ -221,7 +221,7 @@ def add_previews(db):
 
 def update_file_listings(path, create_index=False):
     entries = []
-    for entry in glob.glob("{}/*".format(path)):
+    for entry in sorted(glob.glob("{}/*".format(path))):
         if not entry.endswith("/index.html"):
             entries.append(entry)
 
