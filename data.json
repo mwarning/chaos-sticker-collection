@@ -1569,6 +1569,51 @@
     "link": "https://digitaldrui.de/",
     "title": "Digitaldruide"
   },
+  "divoc-2020-bridging-bubbles": {
+    "author": "betalars und evlii",
+    "language": "english",
+    "license": "CC-BY-3.0",
+    "link": "https://git.cccv.de/divoc/bridging-bubbles-design",
+    "tags": "divoc bridging bubbles 2020 digital verteiltes online chaos",
+    "title": "DiVOC 2020 Bridging Bubbles",
+    "year": "2022"
+  },
+  "divoc-2020-hiddenservice": {
+    "author": "faab_e@chaos.social",
+    "language": "english",
+    "license": "CC-BY-SA-4.0",
+    "link": "https://di.c3voc.de/hiddenservice:artwork",
+    "tags": "divoc 2020 hidden service digital verteiltes online chaos",
+    "title": "DiVOC 2020 Hidden Service",
+    "year": "2020"
+  },
+  "divoc-2020-tschunk-in-tschogginghosen": {
+    "author": "flederrattie@chaos.social",
+    "language": "german",
+    "license": "CC-BY-NC-SA-4.0",
+    "link": "https://di.c3voc.de/homelounge:artwork",
+    "tags": "divoc tschunk in tschogginghosen 2020 digital verteiltes online chaos",
+    "title": "DiVOC 2020 Tschunk in Tschogginghosen",
+    "year": "2020"
+  },
+  "divoc-hiddenservice-rocket": {},
+  "divoc-push-to-talk": {
+    "author": "faab_e@chaos.social und @schmitz@social.chaotikum.org",
+    "license": "CC-BY-SA-4.0",
+    "link": "https://di.c3voc.de/ptt:artwork",
+    "tags": "divoc push to talk ptt 2020 digital verteiltes online chaos",
+    "title": "DiVOC 2020 Push To Talk",
+    "year": "2020"
+  },
+  "divoc-reboot-to-respawn": {
+    "author": "faab_e@chaos.social",
+    "language": "english",
+    "license": "CC-BY-SA-4.0",
+    "link": "https://di.c3voc.de/r2r:artwork",
+    "tags": "divoc reboot to respawn 2021 digital verteiltes online chaos r2r",
+    "title": "DiVOC 2021 Reboot to Respawn R2R",
+    "year": "2021"
+  },
   "diy-or-die_blau": {
     "author": "Max Genson",
     "language": "english",
@@ -2791,7 +2836,6 @@
     "link": "https://github.com/rstudio/hex-stickers/",
     "tags": "rstudio"
   },
-  "hiddenservice-rocket": {},
   "hier-wurde-nazi-propaganda-u\u0308berklebt": {},
   "hilti_unlocking": {
     "author": "miketango@miketango.de",
