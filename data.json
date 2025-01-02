@@ -3603,8 +3603,32 @@
     "link": "https://mullana.de/creative-commons/",
     "title": "United Federation of the Fediverse"
   },
+  "unterwiesen": {
+    "author": "Jan",
+    "language": "german",
+    "license": "CC0-1.0",
+    "notes": "2023, gedruckt bei DeineStadtKlebt. Font: DIN 1451 Mittelschrift",
+    "title": "Bedienung nur durch unterwiesene und berechtigte Personen",
+    "year": "2023"
+  },
+  "urinal": {
+    "author": "Jan",
+    "language": "german",
+    "license": "CC0-1.0",
+    "notes": "2016, gedruckt bei DeineStadtKlebt, Offset, 120x30mm, Haftfolie Wei\u00df (outdoor), BASIC - Seidenmatt. Font: Oswald",
+    "title": "Kein Urinal",
+    "year": "2016"
+  },
   "urlab": {
     "link": "https://thestickerarchive.tumblr.com"
+  },
+  "usagedata": {
+    "author": "Jan",
+    "language": "english",
+    "license": "CC0-1.0",
+    "notes": "2017, gedruckt bei Flyeralarm, Sticker outdoor, DIN A7 Lang 148x52mm, 90\u00b5m white. Font: DIN 1451 Mittelschrift",
+    "title": "This bathroom collects anonymous usage data",
+    "year": "2017"
   },
   "u\u0308berwachung-bitte-angepasst-und-unauffa\u0308llig-verhalten-freiheitsfoo": {},
   "vade_retro_otf": {
