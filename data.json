@@ -1041,15 +1041,7 @@
     "tags": "policy",
     "title": "Access Policy Public"
   },
-  "activate-linux.org": {
-    "author": "9hax",
-    "language": "english",
-    "license": "CC-BY-3.0",
-    "link": "https://activate-linux.org",
-    "tags": "linux joke funny website link qr",
-    "title": "Activate Linux!",
-    "year": "2023"
-  },
+  "activate-linux.org": {},
   "ada": {
     "link": "https://thestickerarchive.tumblr.com"
   },
@@ -3687,6 +3679,15 @@
     "link": "https://thestickerarchive.tumblr.com"
   },
   "water_cccamp2019": {},
+  "we_do_not_test_on_animals_we_test_in_production": {
+    "author": "FlohEinstein <stickers@floh.kohler.is>",
+    "language": "english",
+    "license": "CC-BY-SA-4.0",
+    "link": "https://blog.kohler.is/sticker-we-do-not-test-on-animals-we-test-in-production/",
+    "tags": "animals software testing development production bunnies heart fire server",
+    "title": "We Do Not Test On Animals We Test In Production",
+    "year": "2023"
+  },
   "we_have_onions": {
     "author": "maryshiro",
     "language": "english",
