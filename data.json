@@ -1051,7 +1051,6 @@
     "tags": "policy",
     "title": "Access Policy Public"
   },
-  "activate-linux.org": {},
   "ada": {
     "link": "https://thestickerarchive.tumblr.com"
   },
@@ -1587,6 +1586,14 @@
     "title": "DiVOC 2020 Hidden Service",
     "year": "2020"
   },
+  "divoc-2020-push-to-talk": {
+    "author": "faab_e@chaos.social und @schmitz@social.chaotikum.org",
+    "license": "CC-BY-SA-4.0",
+    "link": "https://di.c3voc.de/ptt:artwork",
+    "tags": "divoc push to talk ptt 2020 digital verteiltes online chaos",
+    "title": "DiVOC 2020 Push To Talk",
+    "year": "2020"
+  },
   "divoc-2020-tschunk-in-tschogginghosen": {
     "author": "flederrattie@chaos.social",
     "language": "german",
@@ -1594,14 +1601,6 @@
     "link": "https://di.c3voc.de/homelounge:artwork",
     "tags": "divoc tschunk in tschogginghosen 2020 digital verteiltes online chaos",
     "title": "DiVOC 2020 Tschunk in Tschogginghosen",
-    "year": "2020"
-  },
-  "divoc-2020-push-to-talk": {
-    "author": "faab_e@chaos.social und @schmitz@social.chaotikum.org",
-    "license": "CC-BY-SA-4.0",
-    "link": "https://di.c3voc.de/ptt:artwork",
-    "tags": "divoc push to talk ptt 2020 digital verteiltes online chaos",
-    "title": "DiVOC 2020 Push To Talk",
     "year": "2020"
   },
   "divoc-2021-reboot-to-respawn": {
