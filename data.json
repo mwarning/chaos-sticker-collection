@@ -3510,6 +3510,24 @@
     "tags": "sprachgesteuert papierhandtuch",
     "title": "SAG LAUT: \"Papier Bitte\""
   },
+  "sprachsteuerung-heissluft": {
+    "author": "F30",
+    "language": "german",
+    "license": "CC-BY-3.0",
+    "notes": "Creative Commons attribution only required when adapting the design or displaying it prominently, not if the image is just used as a sticker or for illustrative purposes",
+    "tags": "sprachsteuerung sprachgesteuert voice voicecontrol heissluft foehn wc klo fnord",
+    "title": "Sprachsteuerung Heissluft",
+    "year": "2019"
+  },
+  "sprachsteuerung-papierhandtuch": {
+    "author": "F30",
+    "language": "german",
+    "license": "CC-BY-3.0",
+    "notes": "Creative Commons attribution only required when adapting the design or displaying it prominently, not if the image is just used as a sticker or for illustrative purposes",
+    "tags": "sprachsteuerung sprachgesteuert voice voicecontrol papierhandtuch papier handtuch wc klo fnord",
+    "title": "Sprachsteuerung Papierhandtuch",
+    "year": "2019"
+  },
   "squirrel_cccamp19": {},
   "sternloetkolben_v01": {
     "author": "Thorsten Schroeder <ths@dev.io>",
