@@ -2860,6 +2860,13 @@
     "notes": "3mm bleed box",
     "title": "I hate computers!"
   },
+  "i2p-sticker-geti2p.net": {
+    "language": "english",
+    "license": "CC0-1.0",
+    "link": "https://github.com/i2p/i2p.graphics/tree/master/sticker",
+    "tags": "i2p",
+    "title": "Invisible Internet Project"
+  },
   "iamdesigner!": {
     "author": "sawaratsuki",
     "language": "japanese",
@@ -2953,6 +2960,12 @@
     "language": "german",
     "tags": "ticket itcrowd",
     "title": "Wow, as klingt interessant!"
+  },
+  "itoopie_sticker": {
+    "license": "CC0-1.0",
+    "link": "https://github.com/i2p/i2p.graphics/blob/master/sticker/",
+    "tags": "i2p",
+    "title": "GETI2P.NET"
   },
   "javascript_misbrand": {
     "author": "Mikhai Korolev",
