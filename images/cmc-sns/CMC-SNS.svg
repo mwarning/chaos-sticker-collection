@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 686 686" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g id="Background" transform="matrix(3.04896,0,0,3.04896,-1.55663,-1.55663)">
+        <rect x="0.517" y="0.517" width="224.667" height="224.667"/>
+    </g>
+    <g id="Text" transform="matrix(0.962204,0,0,0.962204,12.946,13.7269)">
+        <g id="Text1" serif:id="Text" transform="matrix(2.89162,0,0,2.89162,-97.1617,86.2543)">
+            <g transform="matrix(90,0,0,90,250.931,165.594)">
+            </g>
+            <text x="52.957px" y="165.594px" style="font-family:'ComicSansMS-Bold', 'Comic Sans MS', cursive;font-weight:700;font-size:90px;fill:white;">SNS</text>
+        </g>
+        <g id="Text2" serif:id="Text" transform="matrix(2.99053,0,0,2.91446,-102.872,84.4444)">
+            <g transform="matrix(90,0,0,90,243.768,75.5938)">
+            </g>
+            <text x="52.957px" y="75.594px" style="font-family:'ComicSansMS-Bold', 'Comic Sans MS', cursive;font-weight:700;font-size:90px;fill:white;">CMC</text>
+        </g>
+    </g>
+    <g id="Red-Bars" serif:id="Red Bars" transform="matrix(0.962227,0,0,0.962227,12.2966,6.62554)">
+        <g transform="matrix(2.99413,0,0,3.65556,3.30264,-100.673)">
+            <path d="M207.183,197.644C207.183,192.975 202.555,189.184 196.854,189.184L30.179,189.184C24.478,189.184 19.85,192.975 19.85,197.644L19.85,198.724C19.85,203.393 24.478,207.184 30.179,207.184L196.854,207.184C202.555,207.184 207.183,203.393 207.183,198.724L207.183,197.644Z" style="fill:rgb(247,0,0);"/>
+        </g>
+        <g transform="matrix(2.99413,0,0,3.65722,3.30264,-77.1465)">
+            <path d="M207.183,41.3C207.183,36.562 202.484,32.715 196.697,32.715L30.336,32.715C24.549,32.715 19.85,36.562 19.85,41.3L19.85,42.13C19.85,46.868 24.549,50.715 30.336,50.715L196.697,50.715C202.484,50.715 207.183,46.868 207.183,42.13L207.183,41.3Z" style="fill:rgb(247,0,0);"/>
+        </g>
+    </g>
+</svg>

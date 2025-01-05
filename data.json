@@ -1417,6 +1417,14 @@
   "clown-computing": {
     "language": "english"
   },
+  "cmc-sns": {
+    "author": "F30",
+    "license": "CC-BY-3.0",
+    "notes": "Creative Commons attribution only required when adapting the design or displaying it prominently, not if the image is just used as a sticker or for illustrative purposes",
+    "tags": "cmcsns cmc-sns comicsans comic-sans rundmc run-dmc",
+    "title": "CMC SNS",
+    "year": "2019"
+  },
   "coding_blocks": {
     "link": "https://github.com/securingdev/awesome-stickers",
     "notes": "Attrition / Jericho"
