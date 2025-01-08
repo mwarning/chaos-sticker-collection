@@ -1442,7 +1442,7 @@
     "language": "german",
     "license": "CC0-1.0",
     "link": "https://github.com/jaseg/sticker",
-    "notes": "3mm bleed box",
+    "notes": "image contains 3mm bleed box",
     "title": "Computer sind scheisse!"
   },
   "coreboot": {},
