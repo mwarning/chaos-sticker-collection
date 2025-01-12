@@ -1,5 +1,9 @@
 #!/usr/bin/env python3
 
+'''
+A helper tool to add new images.
+'''
+
 import pathlib
 import readline
 import hashlib
@@ -219,33 +223,32 @@ def add_previews(db):
                 else:
                     print("Failed to create preview for images/{}/preview.webp".format(name))
 
-def update_file_listings(path, create_index=False):
-    entries = []
-    for entry in sorted(glob.glob("{}/*".format(path))):
-        if not entry.endswith("/index.html"):
-            entries.append(entry)
+def update_file_listings(db):
+    for path in sorted(glob.glob("images/*")):
+        if not os.path.isdir(path):
+            continue
 
-    if create_index:
         with open("{}/index.html".format(path), "w") as file:
             name = os.path.basename(path)
+            if name in db:
+                if 'title' in db[name]:
+                    name = db[name]['title']
+
             file.write("<!DOCTYPE html>\n")
             file.write("<html>\n <head>\n")
-            file.write("  <title>Files for {}</title>\n".format(name))
+            file.write("  <title>Files for \"{}\"</title>\n".format(name))
             file.write("  <meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\">\n")
             file.write("  <link rel=\"stylesheet\" href=\"../../listing.css\">\n")
             file.write(" </head>\n <body>\n")
-            file.write("  <h1>Files for {}</h1>\n".format(name))
+            file.write("  <h1>Files for \"{}\"</h1>\n".format(name))
             file.write("  <hr>\n  <ul>\n")
-            for entry in entries:
-                name = os.path.basename(entry)
-                if name != "preview.webp":
-                    file.write("   <li><a href=\"{}\">{}</a></li>\n".format(name, name))
+
+            for filepath in sorted(glob.glob("{}/*".format(path))):
+                filename = os.path.basename(filepath)
+                if filename != "preview.webp" and filename != "index.html":
+                    file.write("   <li><a href=\"{}\">{}</a></li>\n".format(filename, filename))
 
             file.write("  </ul>\n </body>\n</html>\n")
-
-    for entry in entries:
-        if os.path.isdir(entry):
-            update_file_listings(entry, True)
 
 def save_database(db, new_image_count):
     # write anyway, this will format manual edits to data.json
@@ -320,7 +323,8 @@ def main():
                 break
 
     add_previews(db)
-    update_file_listings("images")
+
+    update_file_listings(db)
 
     save_database(db, new_image_count)
 
