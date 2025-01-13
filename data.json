@@ -1539,8 +1539,41 @@
     "title": "Eliminate DRM"
   },
   "dead_end_cccamp19": {},
-  "debian_heagon": {
-    "link": "https://thestickerarchive.tumblr.com"
+  "debian-hexagonal": {
+    "license": "LGPL-3.0-or-later / CC-BY-SA-3.0",
+    "link": "https://debian.pages.debian.net/debian-flyers/",
+    "tags": "debian",
+    "title": "Debian Hexagonal"
+  },
+  "debian-hexagonal-paws": {
+    "license": "LGPL-3.0-or-later / CC-BY-SA-3.0",
+    "link": "https://debian.pages.debian.net/debian-flyers/",
+    "tags": "debian",
+    "title": "Debian Hexagonal Paws"
+  },
+  "debian-hexagonal-people": {
+    "license": "LGPL-3.0-or-later / CC-BY-SA-3.0",
+    "link": "https://debian.pages.debian.net/debian-flyers/",
+    "tags": "debian",
+    "title": "Debian Hexagonal People"
+  },
+  "debian-hexagonal-positive": {
+    "license": "LGPL-3.0-or-later / CC-BY-SA-3.0",
+    "link": "https://debian.pages.debian.net/debian-flyers/",
+    "tags": "debian",
+    "title": "Debian Hexagonal Positive"
+  },
+  "debian-hexagonal-tea": {
+    "license": "LGPL-3.0-or-later / CC-BY-SA-3.0",
+    "link": "https://debian.pages.debian.net/debian-flyers/",
+    "tags": "debian",
+    "title": "Debian Hexagonal Tea"
+  },
+  "debian-hexagonal-women": {
+    "license": "LGPL-3.0-or-later",
+    "link": "https://debian.pages.debian.net/debian-flyers/",
+    "tags": "debian",
+    "title": "Debian Hexagonal Women"
   },
   "defekt": {
     "link": "https://thestickerarchive.tumblr.com"
