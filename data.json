@@ -1298,6 +1298,16 @@
     "license": "CC-BY-NC-SA-4.0",
     "title": "Broken Since"
   },
+  "broken_since_new": {
+    "author": "Moritz",
+    "language": "english",
+    "license": "CC-BY-NC-SA-4.0",
+    "link": "https://moritzhuber.de/posts/pruefsticker/",
+    "notes": "Rework of miketango's version",
+    "tags": "pruefsticker vde",
+    "title": "Broken Since",
+    "year": "2025"
+  },
   "brokencom": {
     "language": "english"
   },
@@ -3387,6 +3397,13 @@
     "link": "https://github.com/securingdev/awesome-stickers",
     "notes": "Attrition / Jericho"
   },
+  "provisorium_seit": {
+    "author": "Moritz",
+    "link": "https://moritzhuber.de/posts/pruefsticker/",
+    "tags": "pr\u00fcfsticker vde",
+    "title": "Provisorium seit",
+    "year": "2025"
+  },
   "prowarning": {
     "language": "english",
     "tags": "warning",
@@ -3684,6 +3701,14 @@
     "author": "miketango@miketango.de",
     "license": "CC-BY-NC-SA-4.0",
     "title": "Taken From Srap Heap"
+  },
+  "technisch_fragwuerdig": {
+    "author": "Moritz",
+    "language": "german",
+    "link": "https://moritzhuber.de/posts/pruefsticker/",
+    "tags": "pruefsticker vde",
+    "title": "Technisch fragw\u00fcrdig",
+    "year": "2025"
   },
   "telephone_booth_cccamp2019": {},
   "test_pattern": {
