@@ -1605,6 +1605,10 @@
   "defend-solidarity": {
     "language": "english"
   },
+  "denkmalgesch\u00fctzte-it-infrastruktur": {
+    "language": "german",
+    "title": "Denkmalgesch\u00fctzte IT-Infrastruktur"
+  },
   "dev_tal": {},
   "dhl_hackstation": {
     "notes": "Hackerspace Bielefeld",
