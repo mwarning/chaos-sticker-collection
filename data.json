@@ -3362,6 +3362,16 @@
     "tags": "peace option goose knife",
     "title": "Peace Was Never An Option"
   },
+  "performance_degradation_36c3": {
+    "author": "Christian Vogel <vogelchr@vogel.cx>",
+    "language": "english",
+    "license": "CC0-1.0",
+    "link": "https://github.com/vogelchr/36c3_sticker",
+    "notes": "A play on the 36c3 logo and motto (resource exhaustion). It's showing fractured electronic symbols (n-ch MOSFET, diode, inductor) with a stamp \"Performance Degradation\".",
+    "tags": "electronics 36c3",
+    "title": "Performance Degradation (36c3)",
+    "year": "2019"
+  },
   "pesthoernchen": {
     "link": "https://chaos.expert/ccc-ffm/sticker"
   },
