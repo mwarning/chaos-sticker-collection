@@ -49,4 +49,5 @@ Give stars/karma points to the source repository if possible!
 
 * https://thestickerarchive.tumblr.com/
 * https://hacker-archive.org/
+* https://stickertop.art
 * https://github.com/securingdev/awesome-stickers
